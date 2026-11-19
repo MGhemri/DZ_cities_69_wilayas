@@ -1,0 +1,41 @@
+name: Publish v1.0.0 release
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/publish-v1.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Validate and publish v1.0.0
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate dataset
+        run: python -m unittest discover -s tests -v
+      - name: Create GitHub release if absent
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if gh release view v1.0.0 --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "Release v1.0.0 already exists; no changes made."
+          else
+            gh release create v1.0.0 \
+              --repo "$GITHUB_REPOSITORY" \
+              --target "$GITHUB_SHA" \
+              --title "v1.0.0 — DZ_cities : 69 wilayas (2026)" \
+              --notes-file RELEASE_NOTES.md \
+              --latest
+          fi
