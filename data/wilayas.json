@@ -1,0 +1,554 @@
+[
+  {
+    "code": 1,
+    "code_2": "01",
+    "nom_fr": "Adrar",
+    "nom_ar": "أدرار",
+    "nom_ascii": "Adrar",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 2,
+    "code_2": "02",
+    "nom_fr": "Chlef",
+    "nom_ar": "الشلف",
+    "nom_ascii": "Chlef",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 3,
+    "code_2": "03",
+    "nom_fr": "Laghouat",
+    "nom_ar": "الأغواط",
+    "nom_ascii": "Laghouat",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 4,
+    "code_2": "04",
+    "nom_fr": "Oum El Bouaghi",
+    "nom_ar": "أم البواقي",
+    "nom_ascii": "Oum El Bouaghi",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 5,
+    "code_2": "05",
+    "nom_fr": "Batna",
+    "nom_ar": "باتنة",
+    "nom_ascii": "Batna",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 6,
+    "code_2": "06",
+    "nom_fr": "Béjaïa",
+    "nom_ar": "بجاية",
+    "nom_ascii": "Bejaia",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 7,
+    "code_2": "07",
+    "nom_fr": "Biskra",
+    "nom_ar": "بسكرة",
+    "nom_ascii": "Biskra",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 8,
+    "code_2": "08",
+    "nom_fr": "Béchar",
+    "nom_ar": "بشار",
+    "nom_ascii": "Bechar",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 9,
+    "code_2": "09",
+    "nom_fr": "Blida",
+    "nom_ar": "البليدة",
+    "nom_ascii": "Blida",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 10,
+    "code_2": "10",
+    "nom_fr": "Bouira",
+    "nom_ar": "البويرة",
+    "nom_ascii": "Bouira",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 11,
+    "code_2": "11",
+    "nom_fr": "Tamanrasset",
+    "nom_ar": "تمنراست",
+    "nom_ascii": "Tamanrasset",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 12,
+    "code_2": "12",
+    "nom_fr": "Tébessa",
+    "nom_ar": "تبسة",
+    "nom_ascii": "Tebessa",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 13,
+    "code_2": "13",
+    "nom_fr": "Tlemcen",
+    "nom_ar": "تلمسان",
+    "nom_ascii": "Tlemcen",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 14,
+    "code_2": "14",
+    "nom_fr": "Tiaret",
+    "nom_ar": "تيارت",
+    "nom_ascii": "Tiaret",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 15,
+    "code_2": "15",
+    "nom_fr": "Tizi Ouzou",
+    "nom_ar": "تيزي وزو",
+    "nom_ascii": "Tizi Ouzou",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 16,
+    "code_2": "16",
+    "nom_fr": "Alger",
+    "nom_ar": "الجزائر",
+    "nom_ascii": "Alger",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 17,
+    "code_2": "17",
+    "nom_fr": "Djelfa",
+    "nom_ar": "الجلفة",
+    "nom_ascii": "Djelfa",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 18,
+    "code_2": "18",
+    "nom_fr": "Jijel",
+    "nom_ar": "جيجل",
+    "nom_ascii": "Jijel",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 19,
+    "code_2": "19",
+    "nom_fr": "Sétif",
+    "nom_ar": "سطيف",
+    "nom_ascii": "Setif",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 20,
+    "code_2": "20",
+    "nom_fr": "Saïda",
+    "nom_ar": "سعيدة",
+    "nom_ascii": "Saida",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 21,
+    "code_2": "21",
+    "nom_fr": "Skikda",
+    "nom_ar": "سكيكدة",
+    "nom_ascii": "Skikda",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 22,
+    "code_2": "22",
+    "nom_fr": "Sidi Bel Abbès",
+    "nom_ar": "سيدي بلعباس",
+    "nom_ascii": "Sidi Bel Abbes",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 23,
+    "code_2": "23",
+    "nom_fr": "Annaba",
+    "nom_ar": "عنابة",
+    "nom_ascii": "Annaba",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 24,
+    "code_2": "24",
+    "nom_fr": "Guelma",
+    "nom_ar": "قالمة",
+    "nom_ascii": "Guelma",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 25,
+    "code_2": "25",
+    "nom_fr": "Constantine",
+    "nom_ar": "قسنطينة",
+    "nom_ascii": "Constantine",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 26,
+    "code_2": "26",
+    "nom_fr": "Médéa",
+    "nom_ar": "المدية",
+    "nom_ascii": "Medea",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 27,
+    "code_2": "27",
+    "nom_fr": "Mostaganem",
+    "nom_ar": "مستغانم",
+    "nom_ascii": "Mostaganem",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 28,
+    "code_2": "28",
+    "nom_fr": "M'Sila",
+    "nom_ar": "المسيلة",
+    "nom_ascii": "M'Sila",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 29,
+    "code_2": "29",
+    "nom_fr": "Mascara",
+    "nom_ar": "معسكر",
+    "nom_ascii": "Mascara",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 30,
+    "code_2": "30",
+    "nom_fr": "Ouargla",
+    "nom_ar": "ورقلة",
+    "nom_ascii": "Ouargla",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 31,
+    "code_2": "31",
+    "nom_fr": "Oran",
+    "nom_ar": "وهران",
+    "nom_ascii": "Oran",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 32,
+    "code_2": "32",
+    "nom_fr": "El Bayadh",
+    "nom_ar": "البيض",
+    "nom_ascii": "El Bayadh",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 33,
+    "code_2": "33",
+    "nom_fr": "Illizi",
+    "nom_ar": "إليزي",
+    "nom_ascii": "Illizi",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 34,
+    "code_2": "34",
+    "nom_fr": "Bordj Bou Arreridj",
+    "nom_ar": "برج بوعريريج",
+    "nom_ascii": "Bordj Bou Arreridj",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 35,
+    "code_2": "35",
+    "nom_fr": "Boumerdès",
+    "nom_ar": "بومرداس",
+    "nom_ascii": "Boumerdes",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 36,
+    "code_2": "36",
+    "nom_fr": "El Tarf",
+    "nom_ar": "الطارف",
+    "nom_ascii": "El Tarf",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 37,
+    "code_2": "37",
+    "nom_fr": "Tindouf",
+    "nom_ar": "تندوف",
+    "nom_ascii": "Tindouf",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 38,
+    "code_2": "38",
+    "nom_fr": "Tissemsilt",
+    "nom_ar": "تسمسيلت",
+    "nom_ascii": "Tissemsilt",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 39,
+    "code_2": "39",
+    "nom_fr": "El Oued",
+    "nom_ar": "الوادي",
+    "nom_ascii": "El Oued",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 40,
+    "code_2": "40",
+    "nom_fr": "Khenchela",
+    "nom_ar": "خنشلة",
+    "nom_ascii": "Khenchela",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 41,
+    "code_2": "41",
+    "nom_fr": "Souk Ahras",
+    "nom_ar": "سوق أهراس",
+    "nom_ascii": "Souk Ahras",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 42,
+    "code_2": "42",
+    "nom_fr": "Tipaza",
+    "nom_ar": "تيبازة",
+    "nom_ascii": "Tipaza",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 43,
+    "code_2": "43",
+    "nom_fr": "Mila",
+    "nom_ar": "ميلة",
+    "nom_ascii": "Mila",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 44,
+    "code_2": "44",
+    "nom_fr": "Aïn Defla",
+    "nom_ar": "عين الدفلى",
+    "nom_ascii": "Ain Defla",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 45,
+    "code_2": "45",
+    "nom_fr": "Naâma",
+    "nom_ar": "النعامة",
+    "nom_ascii": "Naama",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 46,
+    "code_2": "46",
+    "nom_fr": "Aïn Témouchent",
+    "nom_ar": "عين تموشنت",
+    "nom_ascii": "Ain Temouchent",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 47,
+    "code_2": "47",
+    "nom_fr": "Ghardaïa",
+    "nom_ar": "غرداية",
+    "nom_ascii": "Ghardaia",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 48,
+    "code_2": "48",
+    "nom_fr": "Relizane",
+    "nom_ar": "غليزان",
+    "nom_ascii": "Relizane",
+    "reforme": "1984-ou-avant"
+  },
+  {
+    "code": 49,
+    "code_2": "49",
+    "nom_fr": "Timimoun",
+    "nom_ar": "تيميمون",
+    "nom_ascii": "Timimoun",
+    "reforme": "2019"
+  },
+  {
+    "code": 50,
+    "code_2": "50",
+    "nom_fr": "Bordj Badji Mokhtar",
+    "nom_ar": "برج باجي مختار",
+    "nom_ascii": "Bordj Badji Mokhtar",
+    "reforme": "2019"
+  },
+  {
+    "code": 51,
+    "code_2": "51",
+    "nom_fr": "Ouled Djellal",
+    "nom_ar": "أولاد جلال",
+    "nom_ascii": "Ouled Djellal",
+    "reforme": "2019"
+  },
+  {
+    "code": 52,
+    "code_2": "52",
+    "nom_fr": "Béni Abbès",
+    "nom_ar": "بني عباس",
+    "nom_ascii": "Beni Abbes",
+    "reforme": "2019"
+  },
+  {
+    "code": 53,
+    "code_2": "53",
+    "nom_fr": "In Salah",
+    "nom_ar": "عين صالح",
+    "nom_ascii": "In Salah",
+    "reforme": "2019"
+  },
+  {
+    "code": 54,
+    "code_2": "54",
+    "nom_fr": "In Guezzam",
+    "nom_ar": "عين قزام",
+    "nom_ascii": "In Guezzam",
+    "reforme": "2019"
+  },
+  {
+    "code": 55,
+    "code_2": "55",
+    "nom_fr": "Touggourt",
+    "nom_ar": "تقرت",
+    "nom_ascii": "Touggourt",
+    "reforme": "2019"
+  },
+  {
+    "code": 56,
+    "code_2": "56",
+    "nom_fr": "Djanet",
+    "nom_ar": "جانت",
+    "nom_ascii": "Djanet",
+    "reforme": "2019"
+  },
+  {
+    "code": 57,
+    "code_2": "57",
+    "nom_fr": "El M'Ghair",
+    "nom_ar": "المغير",
+    "nom_ascii": "El M'Ghair",
+    "reforme": "2019"
+  },
+  {
+    "code": 58,
+    "code_2": "58",
+    "nom_fr": "El Meniaa",
+    "nom_ar": "المنيعة",
+    "nom_ascii": "El Meniaa",
+    "reforme": "2019"
+  },
+  {
+    "code": 59,
+    "code_2": "59",
+    "nom_fr": "Aflou",
+    "nom_ar": "أفلو",
+    "nom_ascii": "Aflou",
+    "reforme": "2026"
+  },
+  {
+    "code": 60,
+    "code_2": "60",
+    "nom_fr": "Barika",
+    "nom_ar": "بريكة",
+    "nom_ascii": "Barika",
+    "reforme": "2026"
+  },
+  {
+    "code": 61,
+    "code_2": "61",
+    "nom_fr": "El Kantara",
+    "nom_ar": "القنطرة",
+    "nom_ascii": "El Kantara",
+    "reforme": "2026"
+  },
+  {
+    "code": 62,
+    "code_2": "62",
+    "nom_fr": "Bir El Ater",
+    "nom_ar": "بئر العاتر",
+    "nom_ascii": "Bir El Ater",
+    "reforme": "2026"
+  },
+  {
+    "code": 63,
+    "code_2": "63",
+    "nom_fr": "El Aricha",
+    "nom_ar": "العريشة",
+    "nom_ascii": "El Aricha",
+    "reforme": "2026"
+  },
+  {
+    "code": 64,
+    "code_2": "64",
+    "nom_fr": "Ksar Chellala",
+    "nom_ar": "قصر الشلالة",
+    "nom_ascii": "Ksar Chellala",
+    "reforme": "2026"
+  },
+  {
+    "code": 65,
+    "code_2": "65",
+    "nom_fr": "Aïn Ouessara",
+    "nom_ar": "عين وسارة",
+    "nom_ascii": "Ain Oussara",
+    "reforme": "2026"
+  },
+  {
+    "code": 66,
+    "code_2": "66",
+    "nom_fr": "Messaad",
+    "nom_ar": "مسعد",
+    "nom_ascii": "Messaad",
+    "reforme": "2026"
+  },
+  {
+    "code": 67,
+    "code_2": "67",
+    "nom_fr": "Ksar El Boukhari",
+    "nom_ar": "قصر البخاري",
+    "nom_ascii": "Ksar El Boukhari",
+    "reforme": "2026"
+  },
+  {
+    "code": 68,
+    "code_2": "68",
+    "nom_fr": "Bou Saâda",
+    "nom_ar": "بوسعادة",
+    "nom_ascii": "Bou Saada",
+    "reforme": "2026"
+  },
+  {
+    "code": 69,
+    "code_2": "69",
+    "nom_fr": "El Abiodh Sidi Cheikh",
+    "nom_ar": "الأبيض سيدي الشيخ",
+    "nom_ascii": "El Abiodh Sidi Cheikh",
+    "reforme": "2026"
+  }
+]

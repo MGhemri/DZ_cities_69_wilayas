@@ -1,0 +1,31 @@
+# Attribution des données tierces
+
+Les noms et rattachements de communes ainsi que les graphies arabes/ASCII dérivent des données publiques du projet **islam-re/Algeria-wilayas**, copyright © 2026 islam-re, sous licence MIT : https://github.com/islam-re/Algeria-wilayas
+
+Leur licence, reproduite intégralement :
+
+```text
+MIT License
+
+Copyright (c) 2026 islam-re
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+Le dépôt historique [MGhemri/DZ_cities](https://github.com/MGhemri/DZ_cities) a servi de référence de structure et de graphies pour les 48 premières wilayas. Les textes et numéros des Journaux officiels cités dans la documentation constituent la référence normative.

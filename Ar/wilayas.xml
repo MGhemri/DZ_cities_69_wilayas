@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wilayas>
+  <wilaya><id>1</id><code>01</code><nom>أدرار</nom></wilaya>
+  <wilaya><id>2</id><code>02</code><nom>الشلف</nom></wilaya>
+  <wilaya><id>3</id><code>03</code><nom>الأغواط</nom></wilaya>
+  <wilaya><id>4</id><code>04</code><nom>أم البواقي</nom></wilaya>
+  <wilaya><id>5</id><code>05</code><nom>باتنة</nom></wilaya>
+  <wilaya><id>6</id><code>06</code><nom>بجاية</nom></wilaya>
+  <wilaya><id>7</id><code>07</code><nom>بسكرة</nom></wilaya>
+  <wilaya><id>8</id><code>08</code><nom>بشار</nom></wilaya>
+  <wilaya><id>9</id><code>09</code><nom>البليدة</nom></wilaya>
+  <wilaya><id>10</id><code>10</code><nom>البويرة</nom></wilaya>
+  <wilaya><id>11</id><code>11</code><nom>تمنراست</nom></wilaya>
+  <wilaya><id>12</id><code>12</code><nom>تبسة</nom></wilaya>
+  <wilaya><id>13</id><code>13</code><nom>تلمسان</nom></wilaya>
+  <wilaya><id>14</id><code>14</code><nom>تيارت</nom></wilaya>
+  <wilaya><id>15</id><code>15</code><nom>تيزي وزو</nom></wilaya>
+  <wilaya><id>16</id><code>16</code><nom>الجزائر</nom></wilaya>
+  <wilaya><id>17</id><code>17</code><nom>الجلفة</nom></wilaya>
+  <wilaya><id>18</id><code>18</code><nom>جيجل</nom></wilaya>
+  <wilaya><id>19</id><code>19</code><nom>سطيف</nom></wilaya>
+  <wilaya><id>20</id><code>20</code><nom>سعيدة</nom></wilaya>
+  <wilaya><id>21</id><code>21</code><nom>سكيكدة</nom></wilaya>
+  <wilaya><id>22</id><code>22</code><nom>سيدي بلعباس</nom></wilaya>
+  <wilaya><id>23</id><code>23</code><nom>عنابة</nom></wilaya>
+  <wilaya><id>24</id><code>24</code><nom>قالمة</nom></wilaya>
+  <wilaya><id>25</id><code>25</code><nom>قسنطينة</nom></wilaya>
+  <wilaya><id>26</id><code>26</code><nom>المدية</nom></wilaya>
+  <wilaya><id>27</id><code>27</code><nom>مستغانم</nom></wilaya>
+  <wilaya><id>28</id><code>28</code><nom>المسيلة</nom></wilaya>
+  <wilaya><id>29</id><code>29</code><nom>معسكر</nom></wilaya>
+  <wilaya><id>30</id><code>30</code><nom>ورقلة</nom></wilaya>
+  <wilaya><id>31</id><code>31</code><nom>وهران</nom></wilaya>
+  <wilaya><id>32</id><code>32</code><nom>البيض</nom></wilaya>
+  <wilaya><id>33</id><code>33</code><nom>إليزي</nom></wilaya>
+  <wilaya><id>34</id><code>34</code><nom>برج بوعريريج</nom></wilaya>
+  <wilaya><id>35</id><code>35</code><nom>بومرداس</nom></wilaya>
+  <wilaya><id>36</id><code>36</code><nom>الطارف</nom></wilaya>
+  <wilaya><id>37</id><code>37</code><nom>تندوف</nom></wilaya>
+  <wilaya><id>38</id><code>38</code><nom>تسمسيلت</nom></wilaya>
+  <wilaya><id>39</id><code>39</code><nom>الوادي</nom></wilaya>
+  <wilaya><id>40</id><code>40</code><nom>خنشلة</nom></wilaya>
+  <wilaya><id>41</id><code>41</code><nom>سوق أهراس</nom></wilaya>
+  <wilaya><id>42</id><code>42</code><nom>تيبازة</nom></wilaya>
+  <wilaya><id>43</id><code>43</code><nom>ميلة</nom></wilaya>
+  <wilaya><id>44</id><code>44</code><nom>عين الدفلى</nom></wilaya>
+  <wilaya><id>45</id><code>45</code><nom>النعامة</nom></wilaya>
+  <wilaya><id>46</id><code>46</code><nom>عين تموشنت</nom></wilaya>
+  <wilaya><id>47</id><code>47</code><nom>غرداية</nom></wilaya>
+  <wilaya><id>48</id><code>48</code><nom>غليزان</nom></wilaya>
+  <wilaya><id>49</id><code>49</code><nom>تيميمون</nom></wilaya>
+  <wilaya><id>50</id><code>50</code><nom>برج باجي مختار</nom></wilaya>
+  <wilaya><id>51</id><code>51</code><nom>أولاد جلال</nom></wilaya>
+  <wilaya><id>52</id><code>52</code><nom>بني عباس</nom></wilaya>
+  <wilaya><id>53</id><code>53</code><nom>عين صالح</nom></wilaya>
+  <wilaya><id>54</id><code>54</code><nom>عين قزام</nom></wilaya>
+  <wilaya><id>55</id><code>55</code><nom>تقرت</nom></wilaya>
+  <wilaya><id>56</id><code>56</code><nom>جانت</nom></wilaya>
+  <wilaya><id>57</id><code>57</code><nom>المغير</nom></wilaya>
+  <wilaya><id>58</id><code>58</code><nom>المنيعة</nom></wilaya>
+  <wilaya><id>59</id><code>59</code><nom>أفلو</nom></wilaya>
+  <wilaya><id>60</id><code>60</code><nom>بريكة</nom></wilaya>
+  <wilaya><id>61</id><code>61</code><nom>القنطرة</nom></wilaya>
+  <wilaya><id>62</id><code>62</code><nom>بئر العاتر</nom></wilaya>
+  <wilaya><id>63</id><code>63</code><nom>العريشة</nom></wilaya>
+  <wilaya><id>64</id><code>64</code><nom>قصر الشلالة</nom></wilaya>
+  <wilaya><id>65</id><code>65</code><nom>عين وسارة</nom></wilaya>
+  <wilaya><id>66</id><code>66</code><nom>مسعد</nom></wilaya>
+  <wilaya><id>67</id><code>67</code><nom>قصر البخاري</nom></wilaya>
+  <wilaya><id>68</id><code>68</code><nom>بوسعادة</nom></wilaya>
+  <wilaya><id>69</id><code>69</code><nom>الأبيض سيدي الشيخ</nom></wilaya>
+</wilayas>

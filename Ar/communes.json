@@ -1,0 +1,6166 @@
+[
+  {
+    "wilaya_code": "01",
+    "nom": "تيمقتن"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "تيت"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "اقبلي"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "أولف"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "بودة"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "أولاد أحمد تيمي"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "أدرار"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "فنوغيل"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "تامست"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "تامنطيط"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "إن زغمير"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "زاوية كنتة"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "رقان"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "سالي"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "السبع"
+  },
+  {
+    "wilaya_code": "01",
+    "nom": "تسابيت"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "تلعصة"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "تاجنة"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "أبو الحسن"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "الزبوجة"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "بوزغاية"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "بنايرية"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "الحجاج"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "أولاد بن عبد القادر"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "عين مران"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "الهرانفة"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "بريرة"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "بني حواء"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "وادي قوسين"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "أولاد عباس"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "وادي الفضة"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "بني راشد"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "المرسى"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "مصدق"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "الشلف"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "أم الدروع"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "سنجاس"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "سيدي عبد الرحمن"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "سيدي عكاشة"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "تنس"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "بني بوعتاب"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "الكريمية"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "حرشون"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "تاوقريت"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "الظهرة"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "الشطية"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "أولاد فارس"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "الأبيض مجاجة"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "بوقادير"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "وادي سلي"
+  },
+  {
+    "wilaya_code": "02",
+    "nom": "الصبحة"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "تاجموت"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "تاجرونة"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "عين ماضي"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "الحويطة"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "الخنق"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "الأغواط"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "قصر الحيران"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "بن ناصر بن شهرة"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "العسافية"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "سيدي مخلوف"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "حاسي الدلاعة"
+  },
+  {
+    "wilaya_code": "03",
+    "nom": "حاسي الرمل"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "فكيرينة"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "وادي نيني"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "الفجوج بوغرارة سعودي"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "عين فكرون"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "الرحية"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "مسكيانة"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "البلالة"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "بحير الشرقي"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "قصر الصباحي"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "سوق نعمان"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "أولاد زواي"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "بئر الشهداء"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "أم البواقي"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "عين الزيتون"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "عين ببوش"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "عين الديس"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "عين البيضاء"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "بريش"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "الزرق"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "عين مليلة"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "أولاد قاسم"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "أولاد حملة"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "العامرية"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "سيقوس"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "الضلعة"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "الجازية"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "عين كرشة"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "الحرملية"
+  },
+  {
+    "wilaya_code": "04",
+    "nom": "هنشير تومغني"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "معافة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "عين التوتة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "بني فضالة الحقانية"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "أولاد عوف"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "القصبات"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "تالخمت"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "رأس العيون"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "الرحبات"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "أولاد سلام"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "القيقبة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "تيمقاد"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "أولاد فاضل"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "تاكسلانت"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "أولاد سي سليمان"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "لمسان"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "ثنية العابد"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "شير"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "وادي الطاقة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "باتنة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "فسديس"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "وادي الشعبة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "حيدوسة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "قصر بلزمة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "مروانة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "وادي الماء"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "لازرو"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "سريانة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "زانة البيضاء"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "منعة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "تغرغار"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "عين ياقوت"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "بومية"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "جرمة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "المعذر"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "عيون العصافير"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "تازولت"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "بومقر"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "نقاوس"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "سفيان"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "أريس"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "تيغانمين"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "عين جاسر"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "الحاسي"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "فم الطوب"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "إشمول"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "إينوغيسن"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "بوزينة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "لارباع"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "بولهيلات"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "الشمرة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "غسيرة"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "كيمل"
+  },
+  {
+    "wilaya_code": "05",
+    "nom": "تكوت"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "سيدي عياد"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "الفلاي"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "سيدي عيش"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "تيفرة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "تينبدار"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "برباشة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "كنديرة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "القصر"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "فناية الماثن"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "توجة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "ذراع القايد"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "خراطة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "بجاية"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "وادي غير"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "بني معوش"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "بني جليل"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "فرعون"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "سمعون"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "أميزور"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "تيمزريت"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "مالبو"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "سوق لإثنين"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "تامريجت"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "بوخليفة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "تالة حمزة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "تيشي"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "أيت رزين"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "إغيل علي"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "أيت إسماعيل"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "درقينة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "تاسكريوت"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "أوقاس"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "تيزي نبربر"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "أدكار"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "بني كسيلة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "تاوريرت إغيل"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "أقبو"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "شلاطة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "اغرم"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "تامقرة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "أمالو"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "بوحمزة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "مسيسنة"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "صدوق"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "بني مليكش"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "بو جليل"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "تازمالت"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "أكفادو"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "شميني"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "سوق اوفلا"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "طيبان"
+  },
+  {
+    "wilaya_code": "06",
+    "nom": "أوزلاقن"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "الفيض"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "خنقة سيدي ناجي"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "زريبة الوادي"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "المزيرعة"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "ليشانة"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "بوشقرون"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "برج بن عزوز"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "طولقة"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "مخادمة"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "مليلي"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "أورلال"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "أوماش"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "ليوة"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "بسكرة"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "الحاجب"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "فوغالة"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "الغروس"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "عين الناقة"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "شتمة"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "الحوش"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "سيدي عقبة"
+  },
+  {
+    "wilaya_code": "07",
+    "nom": "مشونش"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "بشار"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "بوكايس"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "لحمر"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "موغل"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "المريجة"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "القنادسة"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "تاغيت"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "العبادلة"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "عرق فراج"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "مشرع هواري بومدين"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "بني ونيف"
+  },
+  {
+    "wilaya_code": "08",
+    "nom": "تبلبالة"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "بني مراد"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "أولاد يعيش"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "الشريعة"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "اولاد سلامة"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "حمام ملوان"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "بوقرة"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "موزاية"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "الشفة"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "عين الرمانة"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "صوحان"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "الأربعاء"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "الصومعة"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "قرواو"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "بوفاريك"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "مفتاح"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "جبابرة"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "وادي جر"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "العفرون"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "وادي العلايق"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "بن خليل"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "بني تامو"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "الشبلي"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "بوعينان"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "بوعرفة"
+  },
+  {
+    "wilaya_code": "09",
+    "nom": "البليدة"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "عين العلوي"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "عين الحجر"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "عين بسام"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "الحجرة الزرقاء"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "مزدور"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "تاقديت"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "برج أوخريص"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "ريدان"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "المعمورة"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "الحاكمية"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "ديرة"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "الدشمية"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "سور الغزلان"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "أهل القصر"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "بشلول"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "العجيبة"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "الأسنام"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "أولاد راشد"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "آث  منصور"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "سحاريج"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "أمشدالة"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "حنيف"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "شرفة"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "أغبالو"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "روراوة"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "الخبوزية"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "بئر غبالو"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "البويرة"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "عين الترك"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "أيت لعزيز"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "المقراني"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "سوق الخميس"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "أعمر"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "جباحية"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "قادرية"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "الهاشمية"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "وادي البردي"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "حيزر"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "تاغزوت"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "بودربالة"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "بوكرم"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "قرومة"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "الأخضرية"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "معلة"
+  },
+  {
+    "wilaya_code": "10",
+    "nom": "زبربر"
+  },
+  {
+    "wilaya_code": "11",
+    "nom": "تاظروك"
+  },
+  {
+    "wilaya_code": "11",
+    "nom": "أدلس"
+  },
+  {
+    "wilaya_code": "11",
+    "nom": "ابلسة"
+  },
+  {
+    "wilaya_code": "11",
+    "nom": "تمنراست"
+  },
+  {
+    "wilaya_code": "11",
+    "nom": "عين امقل"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "الحويجبات"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "الماء الابيض"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "العوينات"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "بوخضرة"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "بئر مقدم"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "قريقر"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "الحمامات"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "بئر الذهب"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "مرسط"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "صفصاف الوسرى"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "أم علي"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "بكارية"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "بولحاف الدير"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "الكويف"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "الونزة"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "المريج"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "عين الزرقاء"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "سطح قنطيس"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "العقلة"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "المزرعة"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "بجن"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "ثليجان"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "الشريعة"
+  },
+  {
+    "wilaya_code": "12",
+    "nom": "تبسة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "باب العسة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "سوق الثلاثاء"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "السواني"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "تيرني بني هديل"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "منصورة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "بني مستر"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "عين غرابة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "شتوان"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "عمير"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "عين فزة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "هنين"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "بني خلاد"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "ندرومة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "جبالة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "مسيردة الفواقة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "مرسى بن مهيدي"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "سيدي مجاهد"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "بني بوسعيد"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "سبدو"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "بوحلو"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "صبرة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "مغنية"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "حمام بوغرارة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "زناتة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "أولاد رياح"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "الحناية"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "سيدي العبدلي"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "بن سكران"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "فلاوسن"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "عين الكبيرة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "عين فتاح"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "تلمسان"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "عين النحالة"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "عين تالوت"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "عين يوسف"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "بني وارسوس"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "الفحول"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "الرمشي"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "سبعة شيوخ"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "دار يغمراسن"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "الغزوات"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "السواحلية"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "تيانت"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "بني صميل"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "وادي الخضر"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "أولاد ميمون"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "بني بهدل"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "بني سنوس"
+  },
+  {
+    "wilaya_code": "13",
+    "nom": "العزايل"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "مهدية"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "عين دزاريت"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "السبعين"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "الناظورة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "الفايجة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "سي عبد الغني"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "السوقر"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "توسنينة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "مغيلة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "السبت"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "سيدي حسني"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "عين الحديد"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "فرندة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "تخمرت"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "عين كرمس"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "جبيلات الرصفاء"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "مادنة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "مدريسة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "سيدي عبد الرحمن"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "قرطوفة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "الرحوية"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "وادي ليلي"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "سيدي علي ملال"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "تيدة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "جيلالي بن عمار"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "مشرع الصفا"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "تاقدمت"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "تيارت"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "مدروسة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "ملاكو"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "سيدي بختي"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "عين الذهب"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "شحيمة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "النعيمة"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "عين بوشقيف"
+  },
+  {
+    "wilaya_code": "14",
+    "nom": "دحموني"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "ميزرانـــة"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "إفليـــسن"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "تيقـزيرت"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "إيجــار"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "بني زيكــي"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "إيلولة أومـــالو"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "بوزقــن"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "بني دوالة"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "بني عيسي"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أيت محمود"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "بنــــي زمنزار"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أقني قغران"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أيت بــوادو"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "واضية"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "تيزي نثلاثة"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أغريب"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أيت شافع"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أقرو"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أزفون"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أسي يوسف"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "بوغني"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "بونوح"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "مشطراس"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "ذراع بن خدة"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "سيدي نعمان"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "تادمايت"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "تيرمتين"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أيت بومهدي"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أيت تودرت"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "واسيف"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أيت خليلي"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "مقــلع"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "صوامـــع"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "بني يني"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "إبودرارن"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "يطــافن"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "تيزي وزو"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أبي يوسف"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "عين الحمام"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أيت يحيى"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "اقبيل"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "بوجيمة"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "ماكودة"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "عين الزاوية"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أيت يحي موسى"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "ذراع الميزان"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "فريقات"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "مكيرة"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "تيزي غنيف"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "إيلـيــلتـن"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "إمســوحال"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "إفــرحــونان"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "عزازقة"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "فريحة"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "إيفيغاء"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "إعــكورن"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "زكري"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أيت عقـواشة"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "إيرجـــن"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "الأربعــاء ناث إيراثن"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أيت  أومالو"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "تيزي راشد"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "أيت عيسى ميمون"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "واقنون"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "تيمـيزار"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "معـــاتقة"
+  },
+  {
+    "wilaya_code": "15",
+    "nom": "سوق الإثنين"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "حسين داي"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "القبة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "محمد بلوزداد"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "المغارية"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الكاليتوس"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "سيدي موسى"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "براقي"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "عين طاية"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "باب الزوار"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "برج الكيفان"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الدار البيضاء"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "المحمدية"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "برج البحري"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "المرسى"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "بئر توتة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "اولاد شبل"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "تسالة المرجة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "هراوة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "رغاية"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الرويبة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "المعالمة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الرحمانية"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "سويدانية"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "سطاوالي"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "زرالدة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "بابا حسن"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الدويرة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الدرارية"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "العاشور"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الخرايسية"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "عين بنيان"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الشراقة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "دالي ابراهيم"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "اولاد فايت"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الحمامات"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الجزائر الوسطى"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "المدنية"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "المرادية"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "سيدي امحمد"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "السحاولة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "بئر مراد رايس"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "بئر خادم"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "جسر قسنطينة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "حيدرة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "بولوغين بن زيري"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "القصبة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "وادي قريش"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الرايس حميدو"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "باب الوادي"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "ابن عكنون"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "بني مسوس"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "بوزريعة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الابيار"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "باش جراح"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "بوروبة"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "الحراش"
+  },
+  {
+    "wilaya_code": "16",
+    "nom": "وادي السمار"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "حاسي العش"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "زعفران"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "عين معبد"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "حاسي بحبح"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "عين الإبل"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "تعظميت"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "زكار"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "مجبارة"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "القديد"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "الشارف"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "بن يعقوب"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "سيدي بايزيد"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "مليليحة"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "دار الشيوخ"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "دويس"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "الادريسية"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "عين الشهداء"
+  },
+  {
+    "wilaya_code": "17",
+    "nom": "الجلفة"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "جيجل"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "العوانة"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "سلمى بن زيادة"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "أراقن سويسي"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "زيامة منصورية"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "بوسيف أولاد عسكر"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "الشحنة"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "الامير عبد القادر"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "وجانة"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "الطاهير"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "الشقفة"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "القنار نشفي"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "سيدي عبد العزيز"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "برج الطهر"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "الميلية"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "أولاد يحيى خدروش"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "أولاد رابح"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "سيدي معروف"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "غبالة"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "السطارة"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "بوراوي بلهادف"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "العنصر"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "خيري واد عجول"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "الجمعة بني حبيبي"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "جيملة"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "بودريعة بني  ياجيس"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "قاوس"
+  },
+  {
+    "wilaya_code": "18",
+    "nom": "تاكسنة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "الرصفة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بوطالب"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "الحامة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "أولاد تبان"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "صالح باي"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "واد البارد"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "تيزي نبشار"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "عموشة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "مزلوق"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "أوريسيا"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "عين عباسة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "عين أرنات"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "قلال"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "قصر الابطال"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "أولاد سي أحمد"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "عين ولمان"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "أيت نوال مزادة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "ايت تيزي"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بوعنداس"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بوسلام"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "حمام السخنة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "الطاية"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "التلة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "عين أزال"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "عين الحجر"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بيضاء برج"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بئر حدادة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "قنزات"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "حربيل"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "عين الروى"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بني وسين"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بوقاعة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "ذراع قبيلة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "حمام قرقور"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "سطيف"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "عين الكبيرة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "الدهامشة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "أولاد عدوان"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "عين السبت"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بني عزيز"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "معاوية"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بلاعة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بئر العرش"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "الولجة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "تاشودة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "تالة إيفاسن"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "ماوكلان"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "سرج الغول"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بابور"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "قجال"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "أولاد صابر"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بازر سكرة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "العلمة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "قلتة زرقاء"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بني فودة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "جميلة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "عين لقراج"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بني شبانة"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بني ورتيلان"
+  },
+  {
+    "wilaya_code": "19",
+    "nom": "بني موحلي"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "سعيدة"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "تيرسين"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "أولاد إبراهيم"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "عين السلطان"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "المعمورة"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "الحساسنة"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "عين السخونة"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "سيدي بوبكر"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "أولاد خالد"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "هونت"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "سيدي عمر"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "يوب"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "دوي ثابت"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "سيدي احمد"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "مولاي العربي"
+  },
+  {
+    "wilaya_code": "20",
+    "nom": "عين الحجر"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "عين بوزيان"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "بني ولبان"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "سيدي مزغيش"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "صالح بو الشعور"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "زردازة"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "أولاد حبابة"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "مجاز الدشيش"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "الحروش"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "الحدائق"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "بوشطاطة"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "عين زويت"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "بني بشير"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "رمضان جمال"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "بين الويدان"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "تمالوس"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "الكركرة"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "عين قشرة"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "الولجة بولبلوط"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "أم الطوب"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "الغدير"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "السبت"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "عين شرشار"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "عزابة"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "جندل سعدي محمد"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "الزيتونة"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "قنواع"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "أولاد عطية"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "وادي الزهور"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "خناق مايو"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "القل"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "الشرايع"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "بني زيد"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "المرسى"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "بن عزوز"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "بكوش لخضر"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "فلفلة"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "حمادي كرومة"
+  },
+  {
+    "wilaya_code": "21",
+    "nom": "سكيكدة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "سيدي علي بن يوب"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "طابية"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "بوخنفيس"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "مولاي سليسن"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "الحصيبة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "عين تندمين"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "تنيرة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "وادي سفيون"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "حاسي دحو"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "بن عشيبة شلية"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "وادي تاوريرة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "مرين"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "تفسور"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "تاودموت"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "سيدي يعقوب"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "سيدي لحسن"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "سيدي خالد"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "العمارنة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "سيدي ابراهيم"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "سيدي حمادوش"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "مكدرة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "عين البرد"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "حاسي زهانة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "شيطوان البلايلة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "بن باديس"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "بضرابين المقراني"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "سفيزف"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "مسيد"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "بوجبهة البرج"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "عين أدن"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "سيدي شعيب"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "مرحوم"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "بئر الحمام"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "رجم دموش"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "راس الماء"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "وادي السبع"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "سيدي بلعباس"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "عين الثريد"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "السهالة الثورة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "تسالة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "بلعربي"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "مصطفى بن ابراهيم"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "تلموني"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "زروالة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "الضاية"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "مزاورو"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "تغاليمت"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "تلاغ"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "عين قادة"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "لمطار"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "سيدي علي بوسيدي"
+  },
+  {
+    "wilaya_code": "22",
+    "nom": "سيدي دحو الزاير"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "عنابة"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "سرايدي"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "برحال"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "واد العنب"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "التريعات"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "الحجار"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "سيدي عمار"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "البوني"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "عين الباردة"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "الشرفة"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "العلمة"
+  },
+  {
+    "wilaya_code": "23",
+    "nom": "شطايبي"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "نشماية"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "بومهرة أحمد"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "جبالة الخميسي"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "بلخير"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "بني مزلين"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "قلعة بوصبع"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "بوحمدان"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "حمام دباغ"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "الركنية"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "الدهوارة"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "حمام النبايل"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "وادي الشحم"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "قالمة"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "بن جراح"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "عين بن بيضاء"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "بوشقوف"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "مجاز الصفاء"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "وادي فراغة"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "بوعاتي محمود"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "الفجوج"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "هيليوبوليس"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "مجاز عمار"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "هواري بومدين"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "رأس العقبة"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "سلاوة عنونة"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "برج صباط"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "وادي الزناتي"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "عين رقادة"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "عين العربي"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "عين مخلوف"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "تاملوكة"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "عين صندل"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "بوحشانة"
+  },
+  {
+    "wilaya_code": "24",
+    "nom": "لخزارة"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "ديدوش مراد"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "حامة بوزيان"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "بني حميدان"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "زيغود يوسف"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "عين السمارة"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "الخروب"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "أولاد رحمون"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "عين عبيد"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "أبن باديس الهرية"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "ابن زياد"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "بوجريو مسعود"
+  },
+  {
+    "wilaya_code": "25",
+    "nom": "قسنطينة"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "السواقي"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "جواب"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "سيدي زهار"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "سيدي زيان"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "العزيزية"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "مغراوة"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "ميهوب"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "حناشة"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "عوامري"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "وادي حربيل"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "بني سليمان"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "بوسكن"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "سيدي الربيع"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "بوعيشون"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "أولاد بوعشرة"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "سي المحجوب"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "البرواقية"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "أولاد دايد"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "الربعية"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "مجبر"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "ثلاث دوائر"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "الزبيرية"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "سغوان"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "العيساوية"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "الحوضان"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "مزغنة"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "تابلاط"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "ذراع السمار"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "المدية"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "تمسقيدة"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "بن شكاو"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "الحمدانية"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "وزرة"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "تيزي مهدي"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "بعطة"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "العمارية"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "أولاد إبراهيم"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "بئر بن عابد"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "القلب الكبير"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "سدراية"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "بوشراحيل"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "خمس جوامع"
+  },
+  {
+    "wilaya_code": "26",
+    "nom": "سيدي نعمان"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "فرناقة"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "الحسيان (بني ياحي"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "عين نويسي"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "وادي الخير"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "عين تادلس"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "سيدي بلعطار"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "سور"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "حاسي ماماش"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "مزغران"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "ستيدية"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "عين بودينار"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "خير الدين"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "صيادة"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "سيدي علي"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "تزقايت"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "أولاد مع الله"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "بن عبد المالك رمضان"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "حجاج"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "سيدي لخضر"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "مستغانم"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "عشعاشة"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "خضرة"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "نكمارية"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "أولاد بوغالم"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "بوقيراط"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "صفصاف"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "سيرات"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "السوافلية"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "عين سيدي الشريف"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "ماسرة"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "الطواهرية"
+  },
+  {
+    "wilaya_code": "27",
+    "nom": "منصورة"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "المسيلة"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "شلال"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "أولاد ماضي"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "خطوطي سد الجير"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "المعاريف"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "مقرة"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "برهوم"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "عين الخضراء"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "بلعايبة"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "دهاهنة"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "سيدي عيسى"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "بوطي السايح"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "بني يلمان"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "عين الحجل"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "سيدي هجرس"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "حمام الضلعة"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "ونوغة"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "أولاد منصور"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "تارمونت"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "أولاد دراج"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "السوامع"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "أولاد عدي لقبالة"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "المعاضيد"
+  },
+  {
+    "wilaya_code": "28",
+    "nom": "امطارفة"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "وادي الأبطال"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "سيدي عبد الجبار"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "عين فراح"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "سيدي عبد المومن"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "سجرارة"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "مقطع الدوز"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "فراقيق"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "الغمري"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "المحمدية"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "تيغنيف"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "سيدي قادة"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "السهايلية"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "زهانة"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "القعدة"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "رأس عين عميروش"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "عقاز"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "العلايمية"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "سيق"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "الشرفاء"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "بوهني"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "المأمونية"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "القطنة"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "بوحنيفية"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "حسين"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "عين فارس"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "غروس"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "بنيان"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "عوف"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "قرجوم"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "وادي التاغية"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "عين أفرص"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "عين فكان"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "خلوية"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "المنور"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "البرج"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "سيدي بوسعيد"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "المطمور"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "ماقضة"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "غريس"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "ماوسة"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "معسكر"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "القرط"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "فروحة"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "تيزي"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "الحشم"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "نسمط"
+  },
+  {
+    "wilaya_code": "29",
+    "nom": "زلامطة"
+  },
+  {
+    "wilaya_code": "30",
+    "nom": "ورقلة"
+  },
+  {
+    "wilaya_code": "30",
+    "nom": "الرويسات"
+  },
+  {
+    "wilaya_code": "30",
+    "nom": "حاسي مسعود"
+  },
+  {
+    "wilaya_code": "30",
+    "nom": "عين البيضاء"
+  },
+  {
+    "wilaya_code": "30",
+    "nom": "حاسي بن عبد الله"
+  },
+  {
+    "wilaya_code": "30",
+    "nom": "سيدي خويلد"
+  },
+  {
+    "wilaya_code": "30",
+    "nom": "البرمة"
+  },
+  {
+    "wilaya_code": "30",
+    "nom": "انقوسة"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "سيدي الشحمي"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "الكرمة"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "السانية"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "حاسي مفسوخ"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "قديل"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "بن فريحة"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "بئر الجير"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "حاسي بن عقبة"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "حاسي بونيف"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "أرزيو"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "سيدي بن يبقى"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "عين البية"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "بطيوة"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "مرسى الحجاج"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "عين الترك"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "وهران"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "العنصر"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "المرسى الكبير"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "بوسفر"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "بوفاتيس"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "البراية"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "وادي تليلات"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "طفراوي"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "عين الكرمة"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "بوتليليس"
+  },
+  {
+    "wilaya_code": "31",
+    "nom": "مسرغين"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "البيض"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "رقاصة"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "الشقيق"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "الكاف الأحمر"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "بريزينة"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "غسول"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "كراكدة"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "بوقطب"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "الخيثر"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "توسمولين"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "بوعلام"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "سيدي سليمان"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "سيدي طيفور"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "ستيتن"
+  },
+  {
+    "wilaya_code": "32",
+    "nom": "سيدي عامر"
+  },
+  {
+    "wilaya_code": "33",
+    "nom": "برج عمر إدريس"
+  },
+  {
+    "wilaya_code": "33",
+    "nom": "دبداب"
+  },
+  {
+    "wilaya_code": "33",
+    "nom": "إن أمناس"
+  },
+  {
+    "wilaya_code": "33",
+    "nom": "إيليزي"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "الحمادية"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "العش"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "القصور"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "الرابطة"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "أولاد سيدي ابراهيم"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "عين تاغروت"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "تيكستار"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "بليمور"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "العناصر"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "غيلاسة"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "تقلعيت"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "برج الغدير"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "سيدي أمبارك"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "خليل"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "بئر قاصد علي"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "تفرق"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "الماين"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "جعافرة"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "القلة"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "ثنية النصر"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "الياشير"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "حسناوة"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "مجانة"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "المهير"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "المنصورة"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "حرازة"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "بن داود"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "عين تسرة"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "أولاد أبراهم"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "رأس الوادي"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "برج زمورة"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "أولاد دحمان"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "تسامرت"
+  },
+  {
+    "wilaya_code": "34",
+    "nom": "برج بوعريرج"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "الخروبة"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "بوزقزة قدارة"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "أولاد هداج"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "بودواو"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "بودواو البحري"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "دلس"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "بن شود"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "أعفير"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "الثنية"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "بني عمران"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "عمال"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "سوق الحد"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "خميس الخشنة"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "الاربعطاش"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "أولاد موسى"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "حمادي"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "تيمزريت"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "زموري"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "لقاطة"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "جنات"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "برج منايل"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "يسر"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "شعبة العامر"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "سي مصطفى"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "أولاد عيسى"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "الناصرية"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "سيدي داود"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "بغلية"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "تاورقة"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "تيجلابين"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "بومرداس"
+  },
+  {
+    "wilaya_code": "35",
+    "nom": "قورصو"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "عين العسل"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "بوقوس"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "الطارف"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "الزيتونة"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "البسباس"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "زريزر"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "عصفور"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "عين الكرمة"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "بوحجار"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "حمام بني صالح"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "وادي الزيتون"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "بن مهيدي"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "بريحان"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "الشط"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "شبيطة مختار"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "شحاني"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "الذرعـان"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "العيون"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "القالة"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "السوارخ"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "رمل السوق"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "بوثلجة"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "الشافية"
+  },
+  {
+    "wilaya_code": "36",
+    "nom": "بحيرة الطيور"
+  },
+  {
+    "wilaya_code": "37",
+    "nom": "تندوف"
+  },
+  {
+    "wilaya_code": "37",
+    "nom": "أم العسل"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "خميستي"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "العيون"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "ثنية الاحد"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "سيدي بوتوشنت"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "أولاد بسام"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "تيسمسيلت"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "سيدي العنتري"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "لرجام"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "الملعب"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "تملاحت"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "بني شعيب"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "بني لحسن"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "برج بونعامة"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "سيدي عابد"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "عماري"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "المعاصم"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "سيدي سليمان"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "بوقائد"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "الأزهرية"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "الأربعاء"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "اليوسفية"
+  },
+  {
+    "wilaya_code": "38",
+    "nom": "برج الأمير عبد القادر"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "دوار الماء"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "بن  قشة"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "الطالب العربي"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "العقلة"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "المقرن"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "سيدي عون"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "اميه وانسة"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "وادي العلندة"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "كوينين"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "الوادي"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "البياضة"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "النخلة"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "الرباح"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "قمار"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "ورماس"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "تغزوت"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "الحمراية"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "الرقيبة"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "الدبيلة"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "حساني عبد الكريم"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "حاسي خليفة"
+  },
+  {
+    "wilaya_code": "39",
+    "nom": "الطريفاوي"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "خيران"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "جلال"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "الولجة"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "ششار"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "بابار"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "المحمل"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "أولاد رشاش"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "يابوس"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "شلية"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "بوحمامة"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "مصارة"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "خنشلة"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "قايس"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "الرميلة"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "تاوزيانت"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "بغاي"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "الحامة"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "انسيغة"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "طامزة"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "عين الطويلة"
+  },
+  {
+    "wilaya_code": "40",
+    "nom": "متوسة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "سوق أهراس"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "عين سلطان"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "سدراتة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "خميسة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "الحنانشة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "المشروحة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "عين الزانة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "أولاد إدريس"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "ترقالت"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "أم العظايم"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "وادي الكبريت"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "تيفاش"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "الراقوبة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "مداوروش"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "الدريعة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "تاورة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "الزعرورية"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "الحدادة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "الخضارة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "أولاد مومن"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "المراهنة"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "ويلان"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "سيدي فرج"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "بئر بوحوش"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "سافل الويدان"
+  },
+  {
+    "wilaya_code": "41",
+    "nom": "الزوابي"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "حجوط"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "مراد"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "مناصر"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "الناظور"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "سيدي عامر"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "أغبال"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "قوراية"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "مسلمون"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "شرشال"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "حجرة النص"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "سيدي غيلاس"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "سيدي سميان"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "الداموس"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "الأرهاط"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "بني ميلك"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "فوكة"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "دواودة"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "عين تاقورايت"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "بوهارون"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "بواسماعيل"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "خميستي"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "أحمر العين"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "بورقيقة"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "سيدي راشد"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "الحطاطبة"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "الشعيبة"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "القليعة"
+  },
+  {
+    "wilaya_code": "42",
+    "nom": "تيبازة"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "مشيرة"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "التلاغمة"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "وادي سقان"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "العياضي برباس"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": " عين البيضاء أحريش"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "تسالة لمطاعي"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "ترعي باينان"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "اعميرة اراس"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "تسدان حدادة"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "مينار زارزة"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "سيدي مروان"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "الشيقارة"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "حمالة"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "القرارم قوقة"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "تيبرقنت"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "الرواشد"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "دراحي بوصلاح"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "بوحاتم"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "زغاية"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "وادي النجاء"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "أحمد راشدي"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "تاجنانت"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "أولاد اخلوف"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "بن يحي عبد الرحمن"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "عين الملوك"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "وادي العثمانية"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "شلغوم العيد"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "عين التين"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "سيدي خليفة"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "ميلة"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "يحي بني قشة"
+  },
+  {
+    "wilaya_code": "43",
+    "nom": "فرجيوة"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "خميس مليانة"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "سيدي الأخضر"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "عين البنيان"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "عين التركي"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "حمام ريغة"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "بوراشد"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "جليدة"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "جمعة أولاد الشيخ"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "الحسينية"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "بومدفع"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "عريب"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "العامرة"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "المخاطرية"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "العطاف"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "تبركانين"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "عين بويحيى"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "العبادية"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "تاشتة زقاغة"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "بربوش"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "جندل"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "وادي الشرفاء"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "بن علال"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "مليانة"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "عين الاشياخ"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "واد الجمعة"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "عين السلطان"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "الماين"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "الروينة"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "زدين"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "بئر ولد خليفة"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "برج الأمير خالد"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "طارق بن زياد"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "بطحية"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "بلعاص"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "الحسانية"
+  },
+  {
+    "wilaya_code": "44",
+    "nom": "عين الدفلى"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "تيوت"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "عين الصفراء"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "مغرار"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "جنين بورزق"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "عسلة"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "القصدير"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "مكمن بن عمار"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "المشرية"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "البيوض"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "عين بن خليل"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "النعامة"
+  },
+  {
+    "wilaya_code": "45",
+    "nom": "سفيسيفة"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "سيدي بومدين"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "تامزورة"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "وادي الصباح"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "عين الأربعاء"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "شعبة اللحم"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "المالح"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "أولاد الكيحل"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "تارقة"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "شنتوف"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "الحساسنة"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "وادي برقش"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "حمام بوحجر"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "العامرية"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "حاسي الغلة"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "أولاد بوجمعة"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "المساعيد"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "بوزجار"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "أغلال"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "عين الكيحل"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "عين الطلبة"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "عقب الليل"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "بني صاف"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "سيدي صافي"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "الأمير عبد القادر"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "ولهاصة الغرابة"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "سيدي ورياش"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "سيدي بن عدة"
+  },
+  {
+    "wilaya_code": "46",
+    "nom": "عين تموشنت"
+  },
+  {
+    "wilaya_code": "47",
+    "nom": "ضاية بن ضحوة"
+  },
+  {
+    "wilaya_code": "47",
+    "nom": "المنصورة"
+  },
+  {
+    "wilaya_code": "47",
+    "nom": "العطف"
+  },
+  {
+    "wilaya_code": "47",
+    "nom": "بونورة"
+  },
+  {
+    "wilaya_code": "47",
+    "nom": "زلفانة"
+  },
+  {
+    "wilaya_code": "47",
+    "nom": "القرارة"
+  },
+  {
+    "wilaya_code": "47",
+    "nom": "سبسب"
+  },
+  {
+    "wilaya_code": "47",
+    "nom": "متليلي"
+  },
+  {
+    "wilaya_code": "47",
+    "nom": "بريان"
+  },
+  {
+    "wilaya_code": "47",
+    "nom": "غرداية"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "القطار"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "مازونة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "أولاد يعيش"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "عمي موسى"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "بني درقن"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "دار بن عبد الله"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "زمورة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "جديوية"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "حمري"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "أولاد سيدي الميهوب"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "بلعسل بوزقزة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "المطمر"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "سيدي  خطاب"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "سيدي امحمد بن عودة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "عين طارق"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "حد الشكالة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "الولجة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "عين الرحمة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "القلعة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "سيدي سعادة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "يلل"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "سوق الحد"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "منداس"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "وادي السلام"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "سيدي لزرق"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "واريزان"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "مرجة سيدي عابد"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "وادي رهيو"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "لحلاف"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "بن داود"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "غليزان"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "الحاسي"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "سيدي أمحمد بن علي"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "مديونة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "بني زنطيس"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "وادي الجمعة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "الحمادنة"
+  },
+  {
+    "wilaya_code": "48",
+    "nom": "الرمكة"
+  },
+  {
+    "wilaya_code": "49",
+    "nom": "تنركوك"
+  },
+  {
+    "wilaya_code": "49",
+    "nom": "قصر قدور"
+  },
+  {
+    "wilaya_code": "49",
+    "nom": "تيميمون"
+  },
+  {
+    "wilaya_code": "49",
+    "nom": "أولاد السعيد"
+  },
+  {
+    "wilaya_code": "49",
+    "nom": "المطارفة"
+  },
+  {
+    "wilaya_code": "49",
+    "nom": "أوقروت"
+  },
+  {
+    "wilaya_code": "49",
+    "nom": "طالمين"
+  },
+  {
+    "wilaya_code": "49",
+    "nom": "شروين"
+  },
+  {
+    "wilaya_code": "49",
+    "nom": "أولاد عيسى"
+  },
+  {
+    "wilaya_code": "49",
+    "nom": "دلدول"
+  },
+  {
+    "wilaya_code": "50",
+    "nom": "تيمياوين"
+  },
+  {
+    "wilaya_code": "50",
+    "nom": "برج باجي مختار"
+  },
+  {
+    "wilaya_code": "51",
+    "nom": "رأس الميعاد"
+  },
+  {
+    "wilaya_code": "51",
+    "nom": "بسباس"
+  },
+  {
+    "wilaya_code": "51",
+    "nom": "سيدي  خالد"
+  },
+  {
+    "wilaya_code": "51",
+    "nom": "الدوسن"
+  },
+  {
+    "wilaya_code": "51",
+    "nom": "أولاد جلال"
+  },
+  {
+    "wilaya_code": "51",
+    "nom": "الشعيبة"
+  },
+  {
+    "wilaya_code": "52",
+    "nom": "بني عباس"
+  },
+  {
+    "wilaya_code": "52",
+    "nom": "تامترت"
+  },
+  {
+    "wilaya_code": "52",
+    "nom": "إقلي"
+  },
+  {
+    "wilaya_code": "52",
+    "nom": "الواتة"
+  },
+  {
+    "wilaya_code": "52",
+    "nom": "أولاد خضير"
+  },
+  {
+    "wilaya_code": "52",
+    "nom": "القصابي"
+  },
+  {
+    "wilaya_code": "52",
+    "nom": "كرزاز"
+  },
+  {
+    "wilaya_code": "52",
+    "nom": "تيمودي"
+  },
+  {
+    "wilaya_code": "52",
+    "nom": "بن يخلف"
+  },
+  {
+    "wilaya_code": "53",
+    "nom": "إينغر"
+  },
+  {
+    "wilaya_code": "53",
+    "nom": "عين صالح"
+  },
+  {
+    "wilaya_code": "53",
+    "nom": "فقارة الزوى"
+  },
+  {
+    "wilaya_code": "54",
+    "nom": "تين زواتين"
+  },
+  {
+    "wilaya_code": "54",
+    "nom": "عين قزام"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "تماسين"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "بلدة اعمر"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "سيدي سليمان"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "المقارين"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "النزلة"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "تبسبست"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "تقرت"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "الزاوية العابدية"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "الطيبات"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "بن ناصر"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "المنقر"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "العالية"
+  },
+  {
+    "wilaya_code": "55",
+    "nom": "الحجيرة"
+  },
+  {
+    "wilaya_code": "56",
+    "nom": "جانت"
+  },
+  {
+    "wilaya_code": "56",
+    "nom": "برج الحواس"
+  },
+  {
+    "wilaya_code": "57",
+    "nom": "أم الطيور"
+  },
+  {
+    "wilaya_code": "57",
+    "nom": "المغير"
+  },
+  {
+    "wilaya_code": "57",
+    "nom": "سطيل"
+  },
+  {
+    "wilaya_code": "57",
+    "nom": "سيدي خليل"
+  },
+  {
+    "wilaya_code": "57",
+    "nom": "سيدي عمران"
+  },
+  {
+    "wilaya_code": "57",
+    "nom": "المرارة"
+  },
+  {
+    "wilaya_code": "57",
+    "nom": "جامعة"
+  },
+  {
+    "wilaya_code": "57",
+    "nom": "تندلة"
+  },
+  {
+    "wilaya_code": "58",
+    "nom": "المنيعة"
+  },
+  {
+    "wilaya_code": "58",
+    "nom": "حاسي القارة"
+  },
+  {
+    "wilaya_code": "58",
+    "nom": "حاسي الفحل"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "أفلو"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "سبقاق"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "سيدي بوزيد"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "بريدة"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "الحاج المشري"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "تاويالة"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "قلتة سيدي سعد"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "عين سيدي علي"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "البيضاء"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "وادي مرة"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "وادي مزي"
+  },
+  {
+    "wilaya_code": "59",
+    "nom": "الغيشة"
+  },
+  {
+    "wilaya_code": "60",
+    "nom": "بريكة"
+  },
+  {
+    "wilaya_code": "60",
+    "nom": "بيطام"
+  },
+  {
+    "wilaya_code": "60",
+    "nom": "م دوكال"
+  },
+  {
+    "wilaya_code": "60",
+    "nom": "سقانة"
+  },
+  {
+    "wilaya_code": "60",
+    "nom": "تيلاطو"
+  },
+  {
+    "wilaya_code": "60",
+    "nom": "عبد القادر عزيز"
+  },
+  {
+    "wilaya_code": "60",
+    "nom": "جزار"
+  },
+  {
+    "wilaya_code": "60",
+    "nom": "أولاد عمار"
+  },
+  {
+    "wilaya_code": "61",
+    "nom": "القنطرة"
+  },
+  {
+    "wilaya_code": "61",
+    "nom": "عين زعطوط"
+  },
+  {
+    "wilaya_code": "61",
+    "nom": "برانيس"
+  },
+  {
+    "wilaya_code": "61",
+    "nom": "الوتیة"
+  },
+  {
+    "wilaya_code": "61",
+    "nom": "جمورة"
+  },
+  {
+    "wilaya_code": "62",
+    "nom": "بئر العاتر"
+  },
+  {
+    "wilaya_code": "62",
+    "nom": "نقرين"
+  },
+  {
+    "wilaya_code": "62",
+    "nom": "العقلة المالحة"
+  },
+  {
+    "wilaya_code": "62",
+    "nom": "فركان"
+  },
+  {
+    "wilaya_code": "63",
+    "nom": "العريشة"
+  },
+  {
+    "wilaya_code": "63",
+    "nom": "الگور"
+  },
+  {
+    "wilaya_code": "63",
+    "nom": "سيدي جيلالي"
+  },
+  {
+    "wilaya_code": "63",
+    "nom": "البويهي"
+  },
+  {
+    "wilaya_code": "64",
+    "nom": "قصر الشلالة"
+  },
+  {
+    "wilaya_code": "64",
+    "nom": "زمالة الأمير عبد القادر"
+  },
+  {
+    "wilaya_code": "64",
+    "nom": "حمادية"
+  },
+  {
+    "wilaya_code": "64",
+    "nom": "الرشايقة"
+  },
+  {
+    "wilaya_code": "64",
+    "nom": "سرغين"
+  },
+  {
+    "wilaya_code": "64",
+    "nom": "بوغارة"
+  },
+  {
+    "wilaya_code": "65",
+    "nom": "عين وسارة"
+  },
+  {
+    "wilaya_code": "65",
+    "nom": "الخميس"
+  },
+  {
+    "wilaya_code": "65",
+    "nom": "البيرين"
+  },
+  {
+    "wilaya_code": "65",
+    "nom": "بويرة الأحداب"
+  },
+  {
+    "wilaya_code": "65",
+    "nom": "سيدي لخضر"
+  },
+  {
+    "wilaya_code": "65",
+    "nom": "حاسي فدول"
+  },
+  {
+    "wilaya_code": "65",
+    "nom": "عين فكة"
+  },
+  {
+    "wilaya_code": "65",
+    "nom": "حاضرة"
+  },
+  {
+    "wilaya_code": "65",
+    "nom": "قرنيني"
+  },
+  {
+    "wilaya_code": "65",
+    "nom": "بنهار"
+  },
+  {
+    "wilaya_code": "66",
+    "nom": "مسعد"
+  },
+  {
+    "wilaya_code": "66",
+    "nom": "سلمانة"
+  },
+  {
+    "wilaya_code": "66",
+    "nom": "دلدول"
+  },
+  {
+    "wilaya_code": "66",
+    "nom": "فيض البطمة"
+  },
+  {
+    "wilaya_code": "66",
+    "nom": "أم العظام"
+  },
+  {
+    "wilaya_code": "66",
+    "nom": "عمورة"
+  },
+  {
+    "wilaya_code": "66",
+    "nom": "سد الرحال"
+  },
+  {
+    "wilaya_code": "66",
+    "nom": "قطارة"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "قصر البخاري"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "أولاد معرف"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "سيدي دامد"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "عين بوسيف"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "الكاف الأحمر"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "عين اقصير"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "الدراق"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "بوطاط"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "شلالة العذاورة"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "بوغار"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "أولاد عنتر"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "العوينات"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "عزيز"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "شهبونية"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "شنيقل"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "أم الجليل"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "مفاتحة"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "بوقزول"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "السناقصة"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "أولاد هلال"
+  },
+  {
+    "wilaya_code": "67",
+    "nom": "تفراوت"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "بوسعادة"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "أولاد سيدي ابراهيم"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "سيدي عامر"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "تامسة"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "خوبانة"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "مصيف"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "أولاد سلامة"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "بن سرور"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "الحمادين"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "الهامل"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "الزرق"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "محمد بودياف"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "بنزو"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "بئر فضة"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "عين فارس"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "سيدي امحمد"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "مضاء"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "عين الملح"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "مدجيدل"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "سليم"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "عين الرش"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "أولتام"
+  },
+  {
+    "wilaya_code": "68",
+    "nom": "جبل مسعد"
+  },
+  {
+    "wilaya_code": "69",
+    "nom": "الأبيض سيدي الشيخ"
+  },
+  {
+    "wilaya_code": "69",
+    "nom": "عين العراك"
+  },
+  {
+    "wilaya_code": "69",
+    "nom": "أربوات"
+  },
+  {
+    "wilaya_code": "69",
+    "nom": "البنود"
+  },
+  {
+    "wilaya_code": "69",
+    "nom": "بوسمغون"
+  },
+  {
+    "wilaya_code": "69",
+    "nom": "الشلالة"
+  },
+  {
+    "wilaya_code": "69",
+    "nom": "المحرة"
+  }
+]

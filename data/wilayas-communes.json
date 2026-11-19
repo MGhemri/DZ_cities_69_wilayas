@@ -1,0 +1,6787 @@
+[
+  {
+    "code": 1,
+    "code_2": "01",
+    "nom_fr": "Adrar",
+    "nom_ar": "أدرار",
+    "nom_ascii": "Adrar",
+    "communes": [
+      {
+        "nom_latin": "Timekten",
+        "nom_ar": "تيمقتن"
+      },
+      {
+        "nom_latin": "Tit",
+        "nom_ar": "تيت"
+      },
+      {
+        "nom_latin": "Akabli",
+        "nom_ar": "اقبلي"
+      },
+      {
+        "nom_latin": "Aoulef",
+        "nom_ar": "أولف"
+      },
+      {
+        "nom_latin": "Bouda",
+        "nom_ar": "بودة"
+      },
+      {
+        "nom_latin": "Ouled Ahmed Timmi",
+        "nom_ar": "أولاد أحمد تيمي"
+      },
+      {
+        "nom_latin": "Adrar",
+        "nom_ar": "أدرار"
+      },
+      {
+        "nom_latin": "Fenoughil",
+        "nom_ar": "فنوغيل"
+      },
+      {
+        "nom_latin": "Tamest",
+        "nom_ar": "تامست"
+      },
+      {
+        "nom_latin": "Tamantit",
+        "nom_ar": "تامنطيط"
+      },
+      {
+        "nom_latin": "In Zghmir",
+        "nom_ar": "إن زغمير"
+      },
+      {
+        "nom_latin": "Zaouiet Kounta",
+        "nom_ar": "زاوية كنتة"
+      },
+      {
+        "nom_latin": "Reggane",
+        "nom_ar": "رقان"
+      },
+      {
+        "nom_latin": "Sali",
+        "nom_ar": "سالي"
+      },
+      {
+        "nom_latin": "Sebaa",
+        "nom_ar": "السبع"
+      },
+      {
+        "nom_latin": "Tsabit",
+        "nom_ar": "تسابيت"
+      }
+    ]
+  },
+  {
+    "code": 2,
+    "code_2": "02",
+    "nom_fr": "Chlef",
+    "nom_ar": "الشلف",
+    "nom_ascii": "Chlef",
+    "communes": [
+      {
+        "nom_latin": "Talassa",
+        "nom_ar": "تلعصة"
+      },
+      {
+        "nom_latin": "Tadjena",
+        "nom_ar": "تاجنة"
+      },
+      {
+        "nom_latin": "Abou El Hassane",
+        "nom_ar": "أبو الحسن"
+      },
+      {
+        "nom_latin": "Zeboudja",
+        "nom_ar": "الزبوجة"
+      },
+      {
+        "nom_latin": "Bouzeghaia",
+        "nom_ar": "بوزغاية"
+      },
+      {
+        "nom_latin": "Benairia",
+        "nom_ar": "بنايرية"
+      },
+      {
+        "nom_latin": "El Hadjadj",
+        "nom_ar": "الحجاج"
+      },
+      {
+        "nom_latin": "Ouled Ben Abdelkader",
+        "nom_ar": "أولاد بن عبد القادر"
+      },
+      {
+        "nom_latin": "Ain Merane",
+        "nom_ar": "عين مران"
+      },
+      {
+        "nom_latin": "Herenfa",
+        "nom_ar": "الهرانفة"
+      },
+      {
+        "nom_latin": "Breira",
+        "nom_ar": "بريرة"
+      },
+      {
+        "nom_latin": "Beni Haoua",
+        "nom_ar": "بني حواء"
+      },
+      {
+        "nom_latin": "Oued Goussine",
+        "nom_ar": "وادي قوسين"
+      },
+      {
+        "nom_latin": "Ouled Abbes",
+        "nom_ar": "أولاد عباس"
+      },
+      {
+        "nom_latin": "Oued Fodda",
+        "nom_ar": "وادي الفضة"
+      },
+      {
+        "nom_latin": "Beni Rached",
+        "nom_ar": "بني راشد"
+      },
+      {
+        "nom_latin": "El Marsa",
+        "nom_ar": "المرسى"
+      },
+      {
+        "nom_latin": "Moussadek",
+        "nom_ar": "مصدق"
+      },
+      {
+        "nom_latin": "Chlef",
+        "nom_ar": "الشلف"
+      },
+      {
+        "nom_latin": "Oum Drou",
+        "nom_ar": "أم الدروع"
+      },
+      {
+        "nom_latin": "Sendjas",
+        "nom_ar": "سنجاس"
+      },
+      {
+        "nom_latin": "Sidi Abderrahmane",
+        "nom_ar": "سيدي عبد الرحمن"
+      },
+      {
+        "nom_latin": "Sidi Akkacha",
+        "nom_ar": "سيدي عكاشة"
+      },
+      {
+        "nom_latin": "Tenes",
+        "nom_ar": "تنس"
+      },
+      {
+        "nom_latin": "Beni  Bouattab",
+        "nom_ar": "بني بوعتاب"
+      },
+      {
+        "nom_latin": "El Karimia",
+        "nom_ar": "الكريمية"
+      },
+      {
+        "nom_latin": "Harchoun",
+        "nom_ar": "حرشون"
+      },
+      {
+        "nom_latin": "Taougrit",
+        "nom_ar": "تاوقريت"
+      },
+      {
+        "nom_latin": "Dahra",
+        "nom_ar": "الظهرة"
+      },
+      {
+        "nom_latin": "Chettia",
+        "nom_ar": "الشطية"
+      },
+      {
+        "nom_latin": "Ouled Fares",
+        "nom_ar": "أولاد فارس"
+      },
+      {
+        "nom_latin": "Labiod Medjadja",
+        "nom_ar": "الأبيض مجاجة"
+      },
+      {
+        "nom_latin": "Boukadir",
+        "nom_ar": "بوقادير"
+      },
+      {
+        "nom_latin": "Oued Sly",
+        "nom_ar": "وادي سلي"
+      },
+      {
+        "nom_latin": "Sobha",
+        "nom_ar": "الصبحة"
+      }
+    ]
+  },
+  {
+    "code": 3,
+    "code_2": "03",
+    "nom_fr": "Laghouat",
+    "nom_ar": "الأغواط",
+    "nom_ascii": "Laghouat",
+    "communes": [
+      {
+        "nom_latin": "Tadjemout",
+        "nom_ar": "تاجموت"
+      },
+      {
+        "nom_latin": "Tadjrouna",
+        "nom_ar": "تاجرونة"
+      },
+      {
+        "nom_latin": "Ain Madhi",
+        "nom_ar": "عين ماضي"
+      },
+      {
+        "nom_latin": "El Haouita",
+        "nom_ar": "الحويطة"
+      },
+      {
+        "nom_latin": "Kheneg",
+        "nom_ar": "الخنق"
+      },
+      {
+        "nom_latin": "Laghouat",
+        "nom_ar": "الأغواط"
+      },
+      {
+        "nom_latin": "Ksar El Hirane",
+        "nom_ar": "قصر الحيران"
+      },
+      {
+        "nom_latin": "Benacer Benchohra",
+        "nom_ar": "بن ناصر بن شهرة"
+      },
+      {
+        "nom_latin": "El Assafia",
+        "nom_ar": "العسافية"
+      },
+      {
+        "nom_latin": "Sidi Makhlouf",
+        "nom_ar": "سيدي مخلوف"
+      },
+      {
+        "nom_latin": "Hassi Delaa",
+        "nom_ar": "حاسي الدلاعة"
+      },
+      {
+        "nom_latin": "Hassi R’Mel",
+        "nom_ar": "حاسي الرمل"
+      }
+    ]
+  },
+  {
+    "code": 4,
+    "code_2": "04",
+    "nom_fr": "Oum El Bouaghi",
+    "nom_ar": "أم البواقي",
+    "nom_ascii": "Oum El Bouaghi",
+    "communes": [
+      {
+        "nom_latin": "Fkirina",
+        "nom_ar": "فكيرينة"
+      },
+      {
+        "nom_latin": "Oued Nini",
+        "nom_ar": "وادي نيني"
+      },
+      {
+        "nom_latin": "El Fedjoudj Boughrara Sa",
+        "nom_ar": "الفجوج بوغرارة سعودي"
+      },
+      {
+        "nom_latin": "Ain Fekroun",
+        "nom_ar": "عين فكرون"
+      },
+      {
+        "nom_latin": "Rahia",
+        "nom_ar": "الرحية"
+      },
+      {
+        "nom_latin": "Meskiana",
+        "nom_ar": "مسكيانة"
+      },
+      {
+        "nom_latin": "El Belala",
+        "nom_ar": "البلالة"
+      },
+      {
+        "nom_latin": "Behir Chergui",
+        "nom_ar": "بحير الشرقي"
+      },
+      {
+        "nom_latin": "Ksar Sbahi",
+        "nom_ar": "قصر الصباحي"
+      },
+      {
+        "nom_latin": "Souk Naamane",
+        "nom_ar": "سوق نعمان"
+      },
+      {
+        "nom_latin": "Ouled Zouai",
+        "nom_ar": "أولاد زواي"
+      },
+      {
+        "nom_latin": "Bir Chouhada",
+        "nom_ar": "بئر الشهداء"
+      },
+      {
+        "nom_latin": "Oum El Bouaghi",
+        "nom_ar": "أم البواقي"
+      },
+      {
+        "nom_latin": "Ain Zitoun",
+        "nom_ar": "عين الزيتون"
+      },
+      {
+        "nom_latin": "Ain Babouche",
+        "nom_ar": "عين ببوش"
+      },
+      {
+        "nom_latin": "Ain Diss",
+        "nom_ar": "عين الديس"
+      },
+      {
+        "nom_latin": "Ain Beida",
+        "nom_ar": "عين البيضاء"
+      },
+      {
+        "nom_latin": "Berriche",
+        "nom_ar": "بريش"
+      },
+      {
+        "nom_latin": "Zorg",
+        "nom_ar": "الزرق"
+      },
+      {
+        "nom_latin": "Ain M'lila",
+        "nom_ar": "عين مليلة"
+      },
+      {
+        "nom_latin": "Ouled Gacem",
+        "nom_ar": "أولاد قاسم"
+      },
+      {
+        "nom_latin": "Ouled Hamla",
+        "nom_ar": "أولاد حملة"
+      },
+      {
+        "nom_latin": "El Amiria",
+        "nom_ar": "العامرية"
+      },
+      {
+        "nom_latin": "Sigus",
+        "nom_ar": "سيقوس"
+      },
+      {
+        "nom_latin": "Dhalaa",
+        "nom_ar": "الضلعة"
+      },
+      {
+        "nom_latin": "El Djazia",
+        "nom_ar": "الجازية"
+      },
+      {
+        "nom_latin": "Ain Kercha",
+        "nom_ar": "عين كرشة"
+      },
+      {
+        "nom_latin": "El Harmilia",
+        "nom_ar": "الحرملية"
+      },
+      {
+        "nom_latin": "Hanchir Toumghani",
+        "nom_ar": "هنشير تومغني"
+      }
+    ]
+  },
+  {
+    "code": 5,
+    "code_2": "05",
+    "nom_fr": "Batna",
+    "nom_ar": "باتنة",
+    "nom_ascii": "Batna",
+    "communes": [
+      {
+        "nom_latin": "Maafa",
+        "nom_ar": "معافة"
+      },
+      {
+        "nom_latin": "Ain Touta",
+        "nom_ar": "عين التوتة"
+      },
+      {
+        "nom_latin": "Beni Fedhala El Hakania",
+        "nom_ar": "بني فضالة الحقانية"
+      },
+      {
+        "nom_latin": "Ouled Aouf",
+        "nom_ar": "أولاد عوف"
+      },
+      {
+        "nom_latin": "Gosbat",
+        "nom_ar": "القصبات"
+      },
+      {
+        "nom_latin": "Talkhamt",
+        "nom_ar": "تالخمت"
+      },
+      {
+        "nom_latin": "Ras El Aioun",
+        "nom_ar": "رأس العيون"
+      },
+      {
+        "nom_latin": "Rahbat",
+        "nom_ar": "الرحبات"
+      },
+      {
+        "nom_latin": "Ouled Sellem",
+        "nom_ar": "أولاد سلام"
+      },
+      {
+        "nom_latin": "Guigba",
+        "nom_ar": "القيقبة"
+      },
+      {
+        "nom_latin": "Timgad",
+        "nom_ar": "تيمقاد"
+      },
+      {
+        "nom_latin": "Ouled Fadel",
+        "nom_ar": "أولاد فاضل"
+      },
+      {
+        "nom_latin": "Taxlent",
+        "nom_ar": "تاكسلانت"
+      },
+      {
+        "nom_latin": "Ouled Si Slimane",
+        "nom_ar": "أولاد سي سليمان"
+      },
+      {
+        "nom_latin": "Lemsane",
+        "nom_ar": "لمسان"
+      },
+      {
+        "nom_latin": "Teniet El Abed",
+        "nom_ar": "ثنية العابد"
+      },
+      {
+        "nom_latin": "Chir",
+        "nom_ar": "شير"
+      },
+      {
+        "nom_latin": "Oued Taga",
+        "nom_ar": "وادي الطاقة"
+      },
+      {
+        "nom_latin": "Batna",
+        "nom_ar": "باتنة"
+      },
+      {
+        "nom_latin": "Fesdis",
+        "nom_ar": "فسديس"
+      },
+      {
+        "nom_latin": "Oued Chaaba",
+        "nom_ar": "وادي الشعبة"
+      },
+      {
+        "nom_latin": "Hidoussa",
+        "nom_ar": "حيدوسة"
+      },
+      {
+        "nom_latin": "Ksar Belezma",
+        "nom_ar": "قصر بلزمة"
+      },
+      {
+        "nom_latin": "Merouana",
+        "nom_ar": "مروانة"
+      },
+      {
+        "nom_latin": "Oued El Ma",
+        "nom_ar": "وادي الماء"
+      },
+      {
+        "nom_latin": "Lazrou",
+        "nom_ar": "لازرو"
+      },
+      {
+        "nom_latin": "Seriana",
+        "nom_ar": "سريانة"
+      },
+      {
+        "nom_latin": "Zana El Beida",
+        "nom_ar": "زانة البيضاء"
+      },
+      {
+        "nom_latin": "Menaa",
+        "nom_ar": "منعة"
+      },
+      {
+        "nom_latin": "Tigherghar",
+        "nom_ar": "تغرغار"
+      },
+      {
+        "nom_latin": "Ain Yagout",
+        "nom_ar": "عين ياقوت"
+      },
+      {
+        "nom_latin": "Boumia",
+        "nom_ar": "بومية"
+      },
+      {
+        "nom_latin": "Djerma",
+        "nom_ar": "جرمة"
+      },
+      {
+        "nom_latin": "Elmadher",
+        "nom_ar": "المعذر"
+      },
+      {
+        "nom_latin": "Ouyoun El Assafir",
+        "nom_ar": "عيون العصافير"
+      },
+      {
+        "nom_latin": "Tazoult",
+        "nom_ar": "تازولت"
+      },
+      {
+        "nom_latin": "Boumagueur",
+        "nom_ar": "بومقر"
+      },
+      {
+        "nom_latin": "N’Gaous",
+        "nom_ar": "نقاوس"
+      },
+      {
+        "nom_latin": "Sefiane",
+        "nom_ar": "سفيان"
+      },
+      {
+        "nom_latin": "Arris",
+        "nom_ar": "أريس"
+      },
+      {
+        "nom_latin": "Tighanimine",
+        "nom_ar": "تيغانمين"
+      },
+      {
+        "nom_latin": "Ain Djasser",
+        "nom_ar": "عين جاسر"
+      },
+      {
+        "nom_latin": "El Hassi",
+        "nom_ar": "الحاسي"
+      },
+      {
+        "nom_latin": "Foum Toub",
+        "nom_ar": "فم الطوب"
+      },
+      {
+        "nom_latin": "Ichmoul",
+        "nom_ar": "إشمول"
+      },
+      {
+        "nom_latin": "Inoughissene",
+        "nom_ar": "إينوغيسن"
+      },
+      {
+        "nom_latin": "Bouzina",
+        "nom_ar": "بوزينة"
+      },
+      {
+        "nom_latin": "Larbaa",
+        "nom_ar": "لارباع"
+      },
+      {
+        "nom_latin": "Boulhilat",
+        "nom_ar": "بولهيلات"
+      },
+      {
+        "nom_latin": "Chemora",
+        "nom_ar": "الشمرة"
+      },
+      {
+        "nom_latin": "Ghassira",
+        "nom_ar": "غسيرة"
+      },
+      {
+        "nom_latin": "Kimmel",
+        "nom_ar": "كيمل"
+      },
+      {
+        "nom_latin": "T’Kout",
+        "nom_ar": "تكوت"
+      }
+    ]
+  },
+  {
+    "code": 6,
+    "code_2": "06",
+    "nom_fr": "Béjaïa",
+    "nom_ar": "بجاية",
+    "nom_ascii": "Bejaia",
+    "communes": [
+      {
+        "nom_latin": "Sidi Ayad",
+        "nom_ar": "سيدي عياد"
+      },
+      {
+        "nom_latin": "Leflaye",
+        "nom_ar": "الفلاي"
+      },
+      {
+        "nom_latin": "Sidi-Aich",
+        "nom_ar": "سيدي عيش"
+      },
+      {
+        "nom_latin": "Tifra",
+        "nom_ar": "تيفرة"
+      },
+      {
+        "nom_latin": "Tinebdar",
+        "nom_ar": "تينبدار"
+      },
+      {
+        "nom_latin": "Barbacha",
+        "nom_ar": "برباشة"
+      },
+      {
+        "nom_latin": "Kendira",
+        "nom_ar": "كنديرة"
+      },
+      {
+        "nom_latin": "El Kseur",
+        "nom_ar": "القصر"
+      },
+      {
+        "nom_latin": "Fenaia Il Maten",
+        "nom_ar": "فناية الماثن"
+      },
+      {
+        "nom_latin": "Toudja",
+        "nom_ar": "توجة"
+      },
+      {
+        "nom_latin": "Dra El Caid",
+        "nom_ar": "ذراع القايد"
+      },
+      {
+        "nom_latin": "Kherrata",
+        "nom_ar": "خراطة"
+      },
+      {
+        "nom_latin": "Bejaia",
+        "nom_ar": "بجاية"
+      },
+      {
+        "nom_latin": "Oued Ghir",
+        "nom_ar": "وادي غير"
+      },
+      {
+        "nom_latin": "Benimaouche",
+        "nom_ar": "بني معوش"
+      },
+      {
+        "nom_latin": "Beni Djellil",
+        "nom_ar": "بني جليل"
+      },
+      {
+        "nom_latin": "Feraoun",
+        "nom_ar": "فرعون"
+      },
+      {
+        "nom_latin": "Smaoun",
+        "nom_ar": "سمعون"
+      },
+      {
+        "nom_latin": "Amizour",
+        "nom_ar": "أميزور"
+      },
+      {
+        "nom_latin": "Timezrit",
+        "nom_ar": "تيمزريت"
+      },
+      {
+        "nom_latin": "Melbou",
+        "nom_ar": "مالبو"
+      },
+      {
+        "nom_latin": "Souk El Tenine",
+        "nom_ar": "سوق لإثنين"
+      },
+      {
+        "nom_latin": "Tamridjet",
+        "nom_ar": "تامريجت"
+      },
+      {
+        "nom_latin": "Boukhelifa",
+        "nom_ar": "بوخليفة"
+      },
+      {
+        "nom_latin": "Tala Hamza",
+        "nom_ar": "تالة حمزة"
+      },
+      {
+        "nom_latin": "Tichy",
+        "nom_ar": "تيشي"
+      },
+      {
+        "nom_latin": "Ait R'zine",
+        "nom_ar": "أيت رزين"
+      },
+      {
+        "nom_latin": "Ighil-Ali",
+        "nom_ar": "إغيل علي"
+      },
+      {
+        "nom_latin": "Ait-Smail",
+        "nom_ar": "أيت إسماعيل"
+      },
+      {
+        "nom_latin": "Darguina",
+        "nom_ar": "درقينة"
+      },
+      {
+        "nom_latin": "Taskriout",
+        "nom_ar": "تاسكريوت"
+      },
+      {
+        "nom_latin": "Aokas",
+        "nom_ar": "أوقاس"
+      },
+      {
+        "nom_latin": "Tizi-N'berber",
+        "nom_ar": "تيزي نبربر"
+      },
+      {
+        "nom_latin": "Adekar",
+        "nom_ar": "أدكار"
+      },
+      {
+        "nom_latin": "Beni K'sila",
+        "nom_ar": "بني كسيلة"
+      },
+      {
+        "nom_latin": "Taourit Ighil",
+        "nom_ar": "تاوريرت إغيل"
+      },
+      {
+        "nom_latin": "Akbou",
+        "nom_ar": "أقبو"
+      },
+      {
+        "nom_latin": "Chellata",
+        "nom_ar": "شلاطة"
+      },
+      {
+        "nom_latin": "Ighram",
+        "nom_ar": "اغرم"
+      },
+      {
+        "nom_latin": "Tamokra",
+        "nom_ar": "تامقرة"
+      },
+      {
+        "nom_latin": "Amalou",
+        "nom_ar": "أمالو"
+      },
+      {
+        "nom_latin": "Bouhamza",
+        "nom_ar": "بوحمزة"
+      },
+      {
+        "nom_latin": "M'cisna",
+        "nom_ar": "مسيسنة"
+      },
+      {
+        "nom_latin": "Seddouk",
+        "nom_ar": "صدوق"
+      },
+      {
+        "nom_latin": "Beni-Mallikeche",
+        "nom_ar": "بني مليكش"
+      },
+      {
+        "nom_latin": "Boudjellil",
+        "nom_ar": "بو جليل"
+      },
+      {
+        "nom_latin": "Tazmalt",
+        "nom_ar": "تازمالت"
+      },
+      {
+        "nom_latin": "Akfadou",
+        "nom_ar": "أكفادو"
+      },
+      {
+        "nom_latin": "Chemini",
+        "nom_ar": "شميني"
+      },
+      {
+        "nom_latin": "Souk Oufella",
+        "nom_ar": "سوق اوفلا"
+      },
+      {
+        "nom_latin": "Tibane",
+        "nom_ar": "طيبان"
+      },
+      {
+        "nom_latin": "Ouzellaguen",
+        "nom_ar": "أوزلاقن"
+      }
+    ]
+  },
+  {
+    "code": 7,
+    "code_2": "07",
+    "nom_fr": "Biskra",
+    "nom_ar": "بسكرة",
+    "nom_ascii": "Biskra",
+    "communes": [
+      {
+        "nom_latin": "El Feidh",
+        "nom_ar": "الفيض"
+      },
+      {
+        "nom_latin": "Khangat Sidi Nadji",
+        "nom_ar": "خنقة سيدي ناجي"
+      },
+      {
+        "nom_latin": "Zeribet El Oued",
+        "nom_ar": "زريبة الوادي"
+      },
+      {
+        "nom_latin": "Meziraa",
+        "nom_ar": "المزيرعة"
+      },
+      {
+        "nom_latin": "Lichana",
+        "nom_ar": "ليشانة"
+      },
+      {
+        "nom_latin": "Bouchagroun",
+        "nom_ar": "بوشقرون"
+      },
+      {
+        "nom_latin": "Bordj Ben Azzouz",
+        "nom_ar": "برج بن عزوز"
+      },
+      {
+        "nom_latin": "Tolga",
+        "nom_ar": "طولقة"
+      },
+      {
+        "nom_latin": "Mekhadma",
+        "nom_ar": "مخادمة"
+      },
+      {
+        "nom_latin": "M’Lili",
+        "nom_ar": "مليلي"
+      },
+      {
+        "nom_latin": "Ourlal",
+        "nom_ar": "أورلال"
+      },
+      {
+        "nom_latin": "Oumache",
+        "nom_ar": "أوماش"
+      },
+      {
+        "nom_latin": "Lioua",
+        "nom_ar": "ليوة"
+      },
+      {
+        "nom_latin": "Biskra",
+        "nom_ar": "بسكرة"
+      },
+      {
+        "nom_latin": "El Hadjeb",
+        "nom_ar": "الحاجب"
+      },
+      {
+        "nom_latin": "Foughala",
+        "nom_ar": "فوغالة"
+      },
+      {
+        "nom_latin": "El Ghrous",
+        "nom_ar": "الغروس"
+      },
+      {
+        "nom_latin": "Ain Naga",
+        "nom_ar": "عين الناقة"
+      },
+      {
+        "nom_latin": "Chetma",
+        "nom_ar": "شتمة"
+      },
+      {
+        "nom_latin": "El Haouch",
+        "nom_ar": "الحوش"
+      },
+      {
+        "nom_latin": "Sidi Okba",
+        "nom_ar": "سيدي عقبة"
+      },
+      {
+        "nom_latin": "M’Chouneche",
+        "nom_ar": "مشونش"
+      }
+    ]
+  },
+  {
+    "code": 8,
+    "code_2": "08",
+    "nom_fr": "Béchar",
+    "nom_ar": "بشار",
+    "nom_ascii": "Bechar",
+    "communes": [
+      {
+        "nom_latin": "Bechar",
+        "nom_ar": "بشار"
+      },
+      {
+        "nom_latin": "Boukais",
+        "nom_ar": "بوكايس"
+      },
+      {
+        "nom_latin": "Lahmar",
+        "nom_ar": "لحمر"
+      },
+      {
+        "nom_latin": "Mogheul",
+        "nom_ar": "موغل"
+      },
+      {
+        "nom_latin": "Meridja",
+        "nom_ar": "المريجة"
+      },
+      {
+        "nom_latin": "Kenadsa",
+        "nom_ar": "القنادسة"
+      },
+      {
+        "nom_latin": "Taghit",
+        "nom_ar": "تاغيت"
+      },
+      {
+        "nom_latin": "Abadla",
+        "nom_ar": "العبادلة"
+      },
+      {
+        "nom_latin": "Erg-Ferradj",
+        "nom_ar": "عرق فراج"
+      },
+      {
+        "nom_latin": "Machraa-Houari-Boumediene",
+        "nom_ar": "مشرع هواري بومدين"
+      },
+      {
+        "nom_latin": "Beni-Ounif",
+        "nom_ar": "بني ونيف"
+      },
+      {
+        "nom_latin": "Tabelbala",
+        "nom_ar": "تبلبالة"
+      }
+    ]
+  },
+  {
+    "code": 9,
+    "code_2": "09",
+    "nom_fr": "Blida",
+    "nom_ar": "البليدة",
+    "nom_ascii": "Blida",
+    "communes": [
+      {
+        "nom_latin": "Beni Mered",
+        "nom_ar": "بني مراد"
+      },
+      {
+        "nom_latin": "Ouled Yaich",
+        "nom_ar": "أولاد يعيش"
+      },
+      {
+        "nom_latin": "Chrea",
+        "nom_ar": "الشريعة"
+      },
+      {
+        "nom_latin": "Ouled Slama",
+        "nom_ar": "اولاد سلامة"
+      },
+      {
+        "nom_latin": "Hammam Elouane",
+        "nom_ar": "حمام ملوان"
+      },
+      {
+        "nom_latin": "Bougara",
+        "nom_ar": "بوقرة"
+      },
+      {
+        "nom_latin": "Mouzaia",
+        "nom_ar": "موزاية"
+      },
+      {
+        "nom_latin": "Chiffa",
+        "nom_ar": "الشفة"
+      },
+      {
+        "nom_latin": "Ain Romana",
+        "nom_ar": "عين الرمانة"
+      },
+      {
+        "nom_latin": "Souhane",
+        "nom_ar": "صوحان"
+      },
+      {
+        "nom_latin": "Larbaa",
+        "nom_ar": "الأربعاء"
+      },
+      {
+        "nom_latin": "Soumaa",
+        "nom_ar": "الصومعة"
+      },
+      {
+        "nom_latin": "Guerrouaou",
+        "nom_ar": "قرواو"
+      },
+      {
+        "nom_latin": "Boufarik",
+        "nom_ar": "بوفاريك"
+      },
+      {
+        "nom_latin": "Meftah",
+        "nom_ar": "مفتاح"
+      },
+      {
+        "nom_latin": "Djebabra",
+        "nom_ar": "جبابرة"
+      },
+      {
+        "nom_latin": "Oued  Djer",
+        "nom_ar": "وادي جر"
+      },
+      {
+        "nom_latin": "El-Affroun",
+        "nom_ar": "العفرون"
+      },
+      {
+        "nom_latin": "Oued El Alleug",
+        "nom_ar": "وادي العلايق"
+      },
+      {
+        "nom_latin": "Benkhelil",
+        "nom_ar": "بن خليل"
+      },
+      {
+        "nom_latin": "Beni-Tamou",
+        "nom_ar": "بني تامو"
+      },
+      {
+        "nom_latin": "Chebli",
+        "nom_ar": "الشبلي"
+      },
+      {
+        "nom_latin": "Bouinan",
+        "nom_ar": "بوعينان"
+      },
+      {
+        "nom_latin": "Bouarfa",
+        "nom_ar": "بوعرفة"
+      },
+      {
+        "nom_latin": "Blida",
+        "nom_ar": "البليدة"
+      }
+    ]
+  },
+  {
+    "code": 10,
+    "code_2": "10",
+    "nom_fr": "Bouira",
+    "nom_ar": "البويرة",
+    "nom_ascii": "Bouira",
+    "communes": [
+      {
+        "nom_latin": "Ain Laloui",
+        "nom_ar": "عين العلوي"
+      },
+      {
+        "nom_latin": "Ain El Hadjar",
+        "nom_ar": "عين الحجر"
+      },
+      {
+        "nom_latin": "Ain-Bessem",
+        "nom_ar": "عين بسام"
+      },
+      {
+        "nom_latin": "Hadjera Zerga",
+        "nom_ar": "الحجرة الزرقاء"
+      },
+      {
+        "nom_latin": "Mezdour",
+        "nom_ar": "مزدور"
+      },
+      {
+        "nom_latin": "Taguedite",
+        "nom_ar": "تاقديت"
+      },
+      {
+        "nom_latin": "Bordj Okhriss",
+        "nom_ar": "برج أوخريص"
+      },
+      {
+        "nom_latin": "Ridane",
+        "nom_ar": "ريدان"
+      },
+      {
+        "nom_latin": "Maamora",
+        "nom_ar": "المعمورة"
+      },
+      {
+        "nom_latin": "El-Hakimia",
+        "nom_ar": "الحاكمية"
+      },
+      {
+        "nom_latin": "Dirah",
+        "nom_ar": "ديرة"
+      },
+      {
+        "nom_latin": "Dechmia",
+        "nom_ar": "الدشمية"
+      },
+      {
+        "nom_latin": "Sour El Ghozlane",
+        "nom_ar": "سور الغزلان"
+      },
+      {
+        "nom_latin": "Ahl El Ksar",
+        "nom_ar": "أهل القصر"
+      },
+      {
+        "nom_latin": "Bechloul",
+        "nom_ar": "بشلول"
+      },
+      {
+        "nom_latin": "El Adjiba",
+        "nom_ar": "العجيبة"
+      },
+      {
+        "nom_latin": "El Asnam",
+        "nom_ar": "الأسنام"
+      },
+      {
+        "nom_latin": "Ouled Rached",
+        "nom_ar": "أولاد راشد"
+      },
+      {
+        "nom_latin": "Ath Mansour",
+        "nom_ar": "آث  منصور"
+      },
+      {
+        "nom_latin": "Saharidj",
+        "nom_ar": "سحاريج"
+      },
+      {
+        "nom_latin": "M Chedallah",
+        "nom_ar": "أمشدالة"
+      },
+      {
+        "nom_latin": "Hanif",
+        "nom_ar": "حنيف"
+      },
+      {
+        "nom_latin": "Chorfa",
+        "nom_ar": "شرفة"
+      },
+      {
+        "nom_latin": "Aghbalou",
+        "nom_ar": "أغبالو"
+      },
+      {
+        "nom_latin": "Raouraoua",
+        "nom_ar": "روراوة"
+      },
+      {
+        "nom_latin": "El Khabouzia",
+        "nom_ar": "الخبوزية"
+      },
+      {
+        "nom_latin": "Bir Ghbalou",
+        "nom_ar": "بئر غبالو"
+      },
+      {
+        "nom_latin": "Bouira",
+        "nom_ar": "البويرة"
+      },
+      {
+        "nom_latin": "Ain Turk",
+        "nom_ar": "عين الترك"
+      },
+      {
+        "nom_latin": "Ait Laaziz",
+        "nom_ar": "أيت لعزيز"
+      },
+      {
+        "nom_latin": "El-Mokrani",
+        "nom_ar": "المقراني"
+      },
+      {
+        "nom_latin": "Souk El Khemis",
+        "nom_ar": "سوق الخميس"
+      },
+      {
+        "nom_latin": "Aomar",
+        "nom_ar": "أعمر"
+      },
+      {
+        "nom_latin": "Djebahia",
+        "nom_ar": "جباحية"
+      },
+      {
+        "nom_latin": "Kadiria",
+        "nom_ar": "قادرية"
+      },
+      {
+        "nom_latin": "El Hachimia",
+        "nom_ar": "الهاشمية"
+      },
+      {
+        "nom_latin": "Oued El Berdi",
+        "nom_ar": "وادي البردي"
+      },
+      {
+        "nom_latin": "Haizer",
+        "nom_ar": "حيزر"
+      },
+      {
+        "nom_latin": "Taghzout",
+        "nom_ar": "تاغزوت"
+      },
+      {
+        "nom_latin": "Bouderbala",
+        "nom_ar": "بودربالة"
+      },
+      {
+        "nom_latin": "Boukram",
+        "nom_ar": "بوكرم"
+      },
+      {
+        "nom_latin": "Guerrouma",
+        "nom_ar": "قرومة"
+      },
+      {
+        "nom_latin": "Lakhdaria",
+        "nom_ar": "الأخضرية"
+      },
+      {
+        "nom_latin": "Maala",
+        "nom_ar": "معلة"
+      },
+      {
+        "nom_latin": "Z'barbar (El Isseri )",
+        "nom_ar": "زبربر"
+      }
+    ]
+  },
+  {
+    "code": 11,
+    "code_2": "11",
+    "nom_fr": "Tamanrasset",
+    "nom_ar": "تمنراست",
+    "nom_ascii": "Tamanrasset",
+    "communes": [
+      {
+        "nom_latin": "Tazrouk",
+        "nom_ar": "تاظروك"
+      },
+      {
+        "nom_latin": "Idles",
+        "nom_ar": "أدلس"
+      },
+      {
+        "nom_latin": "Abelsa",
+        "nom_ar": "ابلسة"
+      },
+      {
+        "nom_latin": "Tamanrasset",
+        "nom_ar": "تمنراست"
+      },
+      {
+        "nom_latin": "Ain Amguel",
+        "nom_ar": "عين امقل"
+      }
+    ]
+  },
+  {
+    "code": 12,
+    "code_2": "12",
+    "nom_fr": "Tébessa",
+    "nom_ar": "تبسة",
+    "nom_ascii": "Tebessa",
+    "communes": [
+      {
+        "nom_latin": "Lahouidjbet",
+        "nom_ar": "الحويجبات"
+      },
+      {
+        "nom_latin": "El Ma Labiod",
+        "nom_ar": "الماء الابيض"
+      },
+      {
+        "nom_latin": "El Aouinet",
+        "nom_ar": "العوينات"
+      },
+      {
+        "nom_latin": "Boukhadra",
+        "nom_ar": "بوخضرة"
+      },
+      {
+        "nom_latin": "Bir Mokkadem",
+        "nom_ar": "بئر مقدم"
+      },
+      {
+        "nom_latin": "Gourrigueur",
+        "nom_ar": "قريقر"
+      },
+      {
+        "nom_latin": "Hammamet",
+        "nom_ar": "الحمامات"
+      },
+      {
+        "nom_latin": "Bir Dheheb",
+        "nom_ar": "بئر الذهب"
+      },
+      {
+        "nom_latin": "Morsott",
+        "nom_ar": "مرسط"
+      },
+      {
+        "nom_latin": "Safsaf El Ouesra",
+        "nom_ar": "صفصاف الوسرى"
+      },
+      {
+        "nom_latin": "Oum Ali",
+        "nom_ar": "أم علي"
+      },
+      {
+        "nom_latin": "Bekkaria",
+        "nom_ar": "بكارية"
+      },
+      {
+        "nom_latin": "Boulhaf Dyr",
+        "nom_ar": "بولحاف الدير"
+      },
+      {
+        "nom_latin": "El Kouif",
+        "nom_ar": "الكويف"
+      },
+      {
+        "nom_latin": "Ouenza",
+        "nom_ar": "الونزة"
+      },
+      {
+        "nom_latin": "El Meridj",
+        "nom_ar": "المريج"
+      },
+      {
+        "nom_latin": "Ain Zerga",
+        "nom_ar": "عين الزرقاء"
+      },
+      {
+        "nom_latin": "Stah Guentis",
+        "nom_ar": "سطح قنطيس"
+      },
+      {
+        "nom_latin": "El Ogla",
+        "nom_ar": "العقلة"
+      },
+      {
+        "nom_latin": "El Mezeraa",
+        "nom_ar": "المزرعة"
+      },
+      {
+        "nom_latin": "Bedjene",
+        "nom_ar": "بجن"
+      },
+      {
+        "nom_latin": "Thlidjene",
+        "nom_ar": "ثليجان"
+      },
+      {
+        "nom_latin": "Cheria",
+        "nom_ar": "الشريعة"
+      },
+      {
+        "nom_latin": "Tebessa",
+        "nom_ar": "تبسة"
+      }
+    ]
+  },
+  {
+    "code": 13,
+    "code_2": "13",
+    "nom_fr": "Tlemcen",
+    "nom_ar": "تلمسان",
+    "nom_ascii": "Tlemcen",
+    "communes": [
+      {
+        "nom_latin": "Bab El Assa",
+        "nom_ar": "باب العسة"
+      },
+      {
+        "nom_latin": "Souk Thlata",
+        "nom_ar": "سوق الثلاثاء"
+      },
+      {
+        "nom_latin": "Souani",
+        "nom_ar": "السواني"
+      },
+      {
+        "nom_latin": "Tirni Beni Hediel",
+        "nom_ar": "تيرني بني هديل"
+      },
+      {
+        "nom_latin": "Mansourah",
+        "nom_ar": "منصورة"
+      },
+      {
+        "nom_latin": "Beni Mester",
+        "nom_ar": "بني مستر"
+      },
+      {
+        "nom_latin": "Ain Ghoraba",
+        "nom_ar": "عين غرابة"
+      },
+      {
+        "nom_latin": "Chetouane",
+        "nom_ar": "شتوان"
+      },
+      {
+        "nom_latin": "Amieur",
+        "nom_ar": "عمير"
+      },
+      {
+        "nom_latin": "Ain Fezza",
+        "nom_ar": "عين فزة"
+      },
+      {
+        "nom_latin": "Honaine",
+        "nom_ar": "هنين"
+      },
+      {
+        "nom_latin": "Beni Khellad",
+        "nom_ar": "بني خلاد"
+      },
+      {
+        "nom_latin": "Nedroma",
+        "nom_ar": "ندرومة"
+      },
+      {
+        "nom_latin": "Djebala",
+        "nom_ar": "جبالة"
+      },
+      {
+        "nom_latin": "Msirda Fouaga",
+        "nom_ar": "مسيردة الفواقة"
+      },
+      {
+        "nom_latin": "Marsa Ben M’Hidi",
+        "nom_ar": "مرسى بن مهيدي"
+      },
+      {
+        "nom_latin": "Sidi Medjahed",
+        "nom_ar": "سيدي مجاهد"
+      },
+      {
+        "nom_latin": "Beni Boussaid",
+        "nom_ar": "بني بوسعيد"
+      },
+      {
+        "nom_latin": "Sebdou",
+        "nom_ar": "سبدو"
+      },
+      {
+        "nom_latin": "Bouhlou",
+        "nom_ar": "بوحلو"
+      },
+      {
+        "nom_latin": "Sabra",
+        "nom_ar": "صبرة"
+      },
+      {
+        "nom_latin": "Maghnia",
+        "nom_ar": "مغنية"
+      },
+      {
+        "nom_latin": "Hammam Boughrara",
+        "nom_ar": "حمام بوغرارة"
+      },
+      {
+        "nom_latin": "Zenata",
+        "nom_ar": "زناتة"
+      },
+      {
+        "nom_latin": "Ouled Riyah",
+        "nom_ar": "أولاد رياح"
+      },
+      {
+        "nom_latin": "Hennaya",
+        "nom_ar": "الحناية"
+      },
+      {
+        "nom_latin": "Sidi Abdelli",
+        "nom_ar": "سيدي العبدلي"
+      },
+      {
+        "nom_latin": "Bensekrane",
+        "nom_ar": "بن سكران"
+      },
+      {
+        "nom_latin": "Fellaoucene",
+        "nom_ar": "فلاوسن"
+      },
+      {
+        "nom_latin": "Ain Kebira",
+        "nom_ar": "عين الكبيرة"
+      },
+      {
+        "nom_latin": "Ain Fetah",
+        "nom_ar": "عين فتاح"
+      },
+      {
+        "nom_latin": "Tlemcen",
+        "nom_ar": "تلمسان"
+      },
+      {
+        "nom_latin": "Ain Nehala",
+        "nom_ar": "عين النحالة"
+      },
+      {
+        "nom_latin": "Ain Tallout",
+        "nom_ar": "عين تالوت"
+      },
+      {
+        "nom_latin": "Ain Youcef",
+        "nom_ar": "عين يوسف"
+      },
+      {
+        "nom_latin": "Beni Ouarsous",
+        "nom_ar": "بني وارسوس"
+      },
+      {
+        "nom_latin": "El Fehoul",
+        "nom_ar": "الفحول"
+      },
+      {
+        "nom_latin": "Remchi",
+        "nom_ar": "الرمشي"
+      },
+      {
+        "nom_latin": "Sebaa Chioukh",
+        "nom_ar": "سبعة شيوخ"
+      },
+      {
+        "nom_latin": "Dar Yaghmouracene",
+        "nom_ar": "دار يغمراسن"
+      },
+      {
+        "nom_latin": "Ghazaouet",
+        "nom_ar": "الغزوات"
+      },
+      {
+        "nom_latin": "Souahlia",
+        "nom_ar": "السواحلية"
+      },
+      {
+        "nom_latin": "Tianet",
+        "nom_ar": "تيانت"
+      },
+      {
+        "nom_latin": "Beni Semiel",
+        "nom_ar": "بني صميل"
+      },
+      {
+        "nom_latin": "Oued Lakhdar",
+        "nom_ar": "وادي الخضر"
+      },
+      {
+        "nom_latin": "Ouled Mimoun",
+        "nom_ar": "أولاد ميمون"
+      },
+      {
+        "nom_latin": "Beni Bahdel",
+        "nom_ar": "بني بهدل"
+      },
+      {
+        "nom_latin": "Beni Snous",
+        "nom_ar": "بني سنوس"
+      },
+      {
+        "nom_latin": "Azails",
+        "nom_ar": "العزايل"
+      }
+    ]
+  },
+  {
+    "code": 14,
+    "code_2": "14",
+    "nom_fr": "Tiaret",
+    "nom_ar": "تيارت",
+    "nom_ascii": "Tiaret",
+    "communes": [
+      {
+        "nom_latin": "Mahdia",
+        "nom_ar": "مهدية"
+      },
+      {
+        "nom_latin": "Ain Dzarit",
+        "nom_ar": "عين دزاريت"
+      },
+      {
+        "nom_latin": "Sebaine",
+        "nom_ar": "السبعين"
+      },
+      {
+        "nom_latin": "Nadorah",
+        "nom_ar": "الناظورة"
+      },
+      {
+        "nom_latin": "Faidja",
+        "nom_ar": "الفايجة"
+      },
+      {
+        "nom_latin": "Sidi Abdelghani",
+        "nom_ar": "سي عبد الغني"
+      },
+      {
+        "nom_latin": "Sougueur",
+        "nom_ar": "السوقر"
+      },
+      {
+        "nom_latin": "Tousnina",
+        "nom_ar": "توسنينة"
+      },
+      {
+        "nom_latin": "Meghila",
+        "nom_ar": "مغيلة"
+      },
+      {
+        "nom_latin": "Sebt",
+        "nom_ar": "السبت"
+      },
+      {
+        "nom_latin": "Sidi Hosni",
+        "nom_ar": "سيدي حسني"
+      },
+      {
+        "nom_latin": "Ain El Hadid",
+        "nom_ar": "عين الحديد"
+      },
+      {
+        "nom_latin": "Frenda",
+        "nom_ar": "فرندة"
+      },
+      {
+        "nom_latin": "Takhemaret",
+        "nom_ar": "تخمرت"
+      },
+      {
+        "nom_latin": "Ain Kermes",
+        "nom_ar": "عين كرمس"
+      },
+      {
+        "nom_latin": "Djebilet Rosfa",
+        "nom_ar": "جبيلات الرصفاء"
+      },
+      {
+        "nom_latin": "Madna",
+        "nom_ar": "مادنة"
+      },
+      {
+        "nom_latin": "Medrissa",
+        "nom_ar": "مدريسة"
+      },
+      {
+        "nom_latin": "Sidi Abderrahmane",
+        "nom_ar": "سيدي عبد الرحمن"
+      },
+      {
+        "nom_latin": "Guertoufa",
+        "nom_ar": "قرطوفة"
+      },
+      {
+        "nom_latin": "Rahouia",
+        "nom_ar": "الرحوية"
+      },
+      {
+        "nom_latin": "Oued Lili",
+        "nom_ar": "وادي ليلي"
+      },
+      {
+        "nom_latin": "Sidi Ali Mellal",
+        "nom_ar": "سيدي علي ملال"
+      },
+      {
+        "nom_latin": "Tidda",
+        "nom_ar": "تيدة"
+      },
+      {
+        "nom_latin": "Djileli Ben Amar",
+        "nom_ar": "جيلالي بن عمار"
+      },
+      {
+        "nom_latin": "Mechraa Sfa",
+        "nom_ar": "مشرع الصفا"
+      },
+      {
+        "nom_latin": "Tagdemt",
+        "nom_ar": "تاقدمت"
+      },
+      {
+        "nom_latin": "Tiaret",
+        "nom_ar": "تيارت"
+      },
+      {
+        "nom_latin": "Medroussa",
+        "nom_ar": "مدروسة"
+      },
+      {
+        "nom_latin": "Mellakou",
+        "nom_ar": "ملاكو"
+      },
+      {
+        "nom_latin": "Sidi Bakhti",
+        "nom_ar": "سيدي بختي"
+      },
+      {
+        "nom_latin": "Ain Deheb",
+        "nom_ar": "عين الذهب"
+      },
+      {
+        "nom_latin": "Chehaima",
+        "nom_ar": "شحيمة"
+      },
+      {
+        "nom_latin": "Naima",
+        "nom_ar": "النعيمة"
+      },
+      {
+        "nom_latin": "Ain Bouchekif",
+        "nom_ar": "عين بوشقيف"
+      },
+      {
+        "nom_latin": "Dahmouni",
+        "nom_ar": "دحموني"
+      }
+    ]
+  },
+  {
+    "code": 15,
+    "code_2": "15",
+    "nom_fr": "Tizi Ouzou",
+    "nom_ar": "تيزي وزو",
+    "nom_ascii": "Tizi Ouzou",
+    "communes": [
+      {
+        "nom_latin": "Mizrana",
+        "nom_ar": "ميزرانـــة"
+      },
+      {
+        "nom_latin": "Iflissen",
+        "nom_ar": "إفليـــسن"
+      },
+      {
+        "nom_latin": "Tigzirt",
+        "nom_ar": "تيقـزيرت"
+      },
+      {
+        "nom_latin": "Idjeur",
+        "nom_ar": "إيجــار"
+      },
+      {
+        "nom_latin": "Beni-Zikki",
+        "nom_ar": "بني زيكــي"
+      },
+      {
+        "nom_latin": "Illoula Oumalou",
+        "nom_ar": "إيلولة أومـــالو"
+      },
+      {
+        "nom_latin": "Bouzeguene",
+        "nom_ar": "بوزقــن"
+      },
+      {
+        "nom_latin": "Beni-Douala",
+        "nom_ar": "بني دوالة"
+      },
+      {
+        "nom_latin": "Beni-Aissi",
+        "nom_ar": "بني عيسي"
+      },
+      {
+        "nom_latin": "Ait-Mahmoud",
+        "nom_ar": "أيت محمود"
+      },
+      {
+        "nom_latin": "Beni Zmenzer",
+        "nom_ar": "بنــــي زمنزار"
+      },
+      {
+        "nom_latin": "Agouni-Gueghrane",
+        "nom_ar": "أقني قغران"
+      },
+      {
+        "nom_latin": "Ait Bouaddou",
+        "nom_ar": "أيت بــوادو"
+      },
+      {
+        "nom_latin": "Ouadhias",
+        "nom_ar": "واضية"
+      },
+      {
+        "nom_latin": "Tizi N'tleta",
+        "nom_ar": "تيزي نثلاثة"
+      },
+      {
+        "nom_latin": "Aghribs",
+        "nom_ar": "أغريب"
+      },
+      {
+        "nom_latin": "Ait-Chafaa",
+        "nom_ar": "أيت شافع"
+      },
+      {
+        "nom_latin": "Akerrou",
+        "nom_ar": "أقرو"
+      },
+      {
+        "nom_latin": "Azeffoun",
+        "nom_ar": "أزفون"
+      },
+      {
+        "nom_latin": "Assi-Youcef",
+        "nom_ar": "أسي يوسف"
+      },
+      {
+        "nom_latin": "Boghni",
+        "nom_ar": "بوغني"
+      },
+      {
+        "nom_latin": "Bounouh",
+        "nom_ar": "بونوح"
+      },
+      {
+        "nom_latin": "Mechtras",
+        "nom_ar": "مشطراس"
+      },
+      {
+        "nom_latin": "Draa-Ben-Khedda",
+        "nom_ar": "ذراع بن خدة"
+      },
+      {
+        "nom_latin": "Sidi Namane",
+        "nom_ar": "سيدي نعمان"
+      },
+      {
+        "nom_latin": "Tadmait",
+        "nom_ar": "تادمايت"
+      },
+      {
+        "nom_latin": "Tirmitine",
+        "nom_ar": "تيرمتين"
+      },
+      {
+        "nom_latin": "Ait Boumahdi",
+        "nom_ar": "أيت بومهدي"
+      },
+      {
+        "nom_latin": "Ait-Toudert",
+        "nom_ar": "أيت تودرت"
+      },
+      {
+        "nom_latin": "Ouacif",
+        "nom_ar": "واسيف"
+      },
+      {
+        "nom_latin": "Ait Khellili",
+        "nom_ar": "أيت خليلي"
+      },
+      {
+        "nom_latin": "Mekla",
+        "nom_ar": "مقــلع"
+      },
+      {
+        "nom_latin": "Souama",
+        "nom_ar": "صوامـــع"
+      },
+      {
+        "nom_latin": "Beni-Yenni",
+        "nom_ar": "بني يني"
+      },
+      {
+        "nom_latin": "Iboudrarene",
+        "nom_ar": "إبودرارن"
+      },
+      {
+        "nom_latin": "Yatafene",
+        "nom_ar": "يطــافن"
+      },
+      {
+        "nom_latin": "Tizi-Ouzou",
+        "nom_ar": "تيزي وزو"
+      },
+      {
+        "nom_latin": "Abi-Youcef",
+        "nom_ar": "أبي يوسف"
+      },
+      {
+        "nom_latin": "Ain-El-Hammam",
+        "nom_ar": "عين الحمام"
+      },
+      {
+        "nom_latin": "Ait-Yahia",
+        "nom_ar": "أيت يحيى"
+      },
+      {
+        "nom_latin": "Akbil",
+        "nom_ar": "اقبيل"
+      },
+      {
+        "nom_latin": "Boudjima",
+        "nom_ar": "بوجيمة"
+      },
+      {
+        "nom_latin": "Makouda",
+        "nom_ar": "ماكودة"
+      },
+      {
+        "nom_latin": "Ain-Zaouia",
+        "nom_ar": "عين الزاوية"
+      },
+      {
+        "nom_latin": "Ait Yahia Moussa",
+        "nom_ar": "أيت يحي موسى"
+      },
+      {
+        "nom_latin": "Draa-El-Mizan",
+        "nom_ar": "ذراع الميزان"
+      },
+      {
+        "nom_latin": "Frikat",
+        "nom_ar": "فريقات"
+      },
+      {
+        "nom_latin": "M'kira",
+        "nom_ar": "مكيرة"
+      },
+      {
+        "nom_latin": "Tizi-Gheniff",
+        "nom_ar": "تيزي غنيف"
+      },
+      {
+        "nom_latin": "Illilten",
+        "nom_ar": "إيلـيــلتـن"
+      },
+      {
+        "nom_latin": "Imsouhal",
+        "nom_ar": "إمســوحال"
+      },
+      {
+        "nom_latin": "Iferhounene",
+        "nom_ar": "إفــرحــونان"
+      },
+      {
+        "nom_latin": "Azazga",
+        "nom_ar": "عزازقة"
+      },
+      {
+        "nom_latin": "Freha",
+        "nom_ar": "فريحة"
+      },
+      {
+        "nom_latin": "Ifigha",
+        "nom_ar": "إيفيغاء"
+      },
+      {
+        "nom_latin": "Yakourene",
+        "nom_ar": "إعــكورن"
+      },
+      {
+        "nom_latin": "Zekri",
+        "nom_ar": "زكري"
+      },
+      {
+        "nom_latin": "Ait Aggouacha",
+        "nom_ar": "أيت عقـواشة"
+      },
+      {
+        "nom_latin": "Irdjen",
+        "nom_ar": "إيرجـــن"
+      },
+      {
+        "nom_latin": "Larbaa Nath Irathen",
+        "nom_ar": "الأربعــاء ناث إيراثن"
+      },
+      {
+        "nom_latin": "Ait-Oumalou",
+        "nom_ar": "أيت  أومالو"
+      },
+      {
+        "nom_latin": "Tizi-Rached",
+        "nom_ar": "تيزي راشد"
+      },
+      {
+        "nom_latin": "Ait-Aissa-Mimoun",
+        "nom_ar": "أيت عيسى ميمون"
+      },
+      {
+        "nom_latin": "Ouaguenoun",
+        "nom_ar": "واقنون"
+      },
+      {
+        "nom_latin": "Timizart",
+        "nom_ar": "تيمـيزار"
+      },
+      {
+        "nom_latin": "Maatkas",
+        "nom_ar": "معـــاتقة"
+      },
+      {
+        "nom_latin": "Souk-El-Tenine",
+        "nom_ar": "سوق الإثنين"
+      }
+    ]
+  },
+  {
+    "code": 16,
+    "code_2": "16",
+    "nom_fr": "Alger",
+    "nom_ar": "الجزائر",
+    "nom_ascii": "Alger",
+    "communes": [
+      {
+        "nom_latin": "Hussein Dey",
+        "nom_ar": "حسين داي"
+      },
+      {
+        "nom_latin": "Kouba",
+        "nom_ar": "القبة"
+      },
+      {
+        "nom_latin": "Mohamed Belouzdad",
+        "nom_ar": "محمد بلوزداد"
+      },
+      {
+        "nom_latin": "El Magharia",
+        "nom_ar": "المغارية"
+      },
+      {
+        "nom_latin": "Les Eucalyptus",
+        "nom_ar": "الكاليتوس"
+      },
+      {
+        "nom_latin": "Sidi Moussa",
+        "nom_ar": "سيدي موسى"
+      },
+      {
+        "nom_latin": "Baraki",
+        "nom_ar": "براقي"
+      },
+      {
+        "nom_latin": "Ain Taya",
+        "nom_ar": "عين طاية"
+      },
+      {
+        "nom_latin": "Bab Ezzouar",
+        "nom_ar": "باب الزوار"
+      },
+      {
+        "nom_latin": "Bordj El Kiffan",
+        "nom_ar": "برج الكيفان"
+      },
+      {
+        "nom_latin": "Dar El Beida",
+        "nom_ar": "الدار البيضاء"
+      },
+      {
+        "nom_latin": "Mohammadia",
+        "nom_ar": "المحمدية"
+      },
+      {
+        "nom_latin": "Bordj El Bahri",
+        "nom_ar": "برج البحري"
+      },
+      {
+        "nom_latin": "El Marsa",
+        "nom_ar": "المرسى"
+      },
+      {
+        "nom_latin": "Bir Touta",
+        "nom_ar": "بئر توتة"
+      },
+      {
+        "nom_latin": "Ouled Chebel",
+        "nom_ar": "اولاد شبل"
+      },
+      {
+        "nom_latin": "Tessala El Merdja",
+        "nom_ar": "تسالة المرجة"
+      },
+      {
+        "nom_latin": "Herraoua",
+        "nom_ar": "هراوة"
+      },
+      {
+        "nom_latin": "Reghaia",
+        "nom_ar": "رغاية"
+      },
+      {
+        "nom_latin": "Rouiba",
+        "nom_ar": "الرويبة"
+      },
+      {
+        "nom_latin": "Maalma",
+        "nom_ar": "المعالمة"
+      },
+      {
+        "nom_latin": "Rahmania",
+        "nom_ar": "الرحمانية"
+      },
+      {
+        "nom_latin": "Souidania",
+        "nom_ar": "سويدانية"
+      },
+      {
+        "nom_latin": "Staoueli",
+        "nom_ar": "سطاوالي"
+      },
+      {
+        "nom_latin": "Zeralda",
+        "nom_ar": "زرالدة"
+      },
+      {
+        "nom_latin": "Baba Hassen",
+        "nom_ar": "بابا حسن"
+      },
+      {
+        "nom_latin": "Douira",
+        "nom_ar": "الدويرة"
+      },
+      {
+        "nom_latin": "Draria",
+        "nom_ar": "الدرارية"
+      },
+      {
+        "nom_latin": "El Achour",
+        "nom_ar": "العاشور"
+      },
+      {
+        "nom_latin": "Khraissia",
+        "nom_ar": "الخرايسية"
+      },
+      {
+        "nom_latin": "Ain Benian",
+        "nom_ar": "عين بنيان"
+      },
+      {
+        "nom_latin": "Cheraga",
+        "nom_ar": "الشراقة"
+      },
+      {
+        "nom_latin": "Dely Ibrahim",
+        "nom_ar": "دالي ابراهيم"
+      },
+      {
+        "nom_latin": "Ouled Fayet",
+        "nom_ar": "اولاد فايت"
+      },
+      {
+        "nom_latin": "Hammamet",
+        "nom_ar": "الحمامات"
+      },
+      {
+        "nom_latin": "Alger Centre",
+        "nom_ar": "الجزائر الوسطى"
+      },
+      {
+        "nom_latin": "El Madania",
+        "nom_ar": "المدنية"
+      },
+      {
+        "nom_latin": "El Mouradia",
+        "nom_ar": "المرادية"
+      },
+      {
+        "nom_latin": "Sidi M'hamed",
+        "nom_ar": "سيدي امحمد"
+      },
+      {
+        "nom_latin": "Sehaoula",
+        "nom_ar": "السحاولة"
+      },
+      {
+        "nom_latin": "Bir Mourad Rais",
+        "nom_ar": "بئر مراد رايس"
+      },
+      {
+        "nom_latin": "Birkhadem",
+        "nom_ar": "بئر خادم"
+      },
+      {
+        "nom_latin": "Djasr Kasentina",
+        "nom_ar": "جسر قسنطينة"
+      },
+      {
+        "nom_latin": "Hydra",
+        "nom_ar": "حيدرة"
+      },
+      {
+        "nom_latin": "Bologhine Ibnou Ziri",
+        "nom_ar": "بولوغين بن زيري"
+      },
+      {
+        "nom_latin": "Casbah",
+        "nom_ar": "القصبة"
+      },
+      {
+        "nom_latin": "Oued Koriche",
+        "nom_ar": "وادي قريش"
+      },
+      {
+        "nom_latin": "Rais Hamidou",
+        "nom_ar": "الرايس حميدو"
+      },
+      {
+        "nom_latin": "Bab El Oued",
+        "nom_ar": "باب الوادي"
+      },
+      {
+        "nom_latin": "Ben Aknoun",
+        "nom_ar": "ابن عكنون"
+      },
+      {
+        "nom_latin": "Beni Messous",
+        "nom_ar": "بني مسوس"
+      },
+      {
+        "nom_latin": "Bouzareah",
+        "nom_ar": "بوزريعة"
+      },
+      {
+        "nom_latin": "El Biar",
+        "nom_ar": "الابيار"
+      },
+      {
+        "nom_latin": "Bachedjerah",
+        "nom_ar": "باش جراح"
+      },
+      {
+        "nom_latin": "Bourouba",
+        "nom_ar": "بوروبة"
+      },
+      {
+        "nom_latin": "El Harrach",
+        "nom_ar": "الحراش"
+      },
+      {
+        "nom_latin": "Oued Smar",
+        "nom_ar": "وادي السمار"
+      }
+    ]
+  },
+  {
+    "code": 17,
+    "code_2": "17",
+    "nom_fr": "Djelfa",
+    "nom_ar": "الجلفة",
+    "nom_ascii": "Djelfa",
+    "communes": [
+      {
+        "nom_latin": "Hassi El Euch",
+        "nom_ar": "حاسي العش"
+      },
+      {
+        "nom_latin": "Zaafrane",
+        "nom_ar": "زعفران"
+      },
+      {
+        "nom_latin": "Ain Maabed",
+        "nom_ar": "عين معبد"
+      },
+      {
+        "nom_latin": "Hassi Bahbah",
+        "nom_ar": "حاسي بحبح"
+      },
+      {
+        "nom_latin": "Ain El Ibel",
+        "nom_ar": "عين الإبل"
+      },
+      {
+        "nom_latin": "Tadmit",
+        "nom_ar": "تعظميت"
+      },
+      {
+        "nom_latin": "Zaccar",
+        "nom_ar": "زكار"
+      },
+      {
+        "nom_latin": "Moudjbara",
+        "nom_ar": "مجبارة"
+      },
+      {
+        "nom_latin": "El Gueddid",
+        "nom_ar": "القديد"
+      },
+      {
+        "nom_latin": "Charef",
+        "nom_ar": "الشارف"
+      },
+      {
+        "nom_latin": "Ben Yaagoub",
+        "nom_ar": "بن يعقوب"
+      },
+      {
+        "nom_latin": "Sidi Baizid",
+        "nom_ar": "سيدي بايزيد"
+      },
+      {
+        "nom_latin": "M’Liliha",
+        "nom_ar": "مليليحة"
+      },
+      {
+        "nom_latin": "Dar Chioukh",
+        "nom_ar": "دار الشيوخ"
+      },
+      {
+        "nom_latin": "Douis",
+        "nom_ar": "دويس"
+      },
+      {
+        "nom_latin": "El Idrissia",
+        "nom_ar": "الادريسية"
+      },
+      {
+        "nom_latin": "Ain Chouhada",
+        "nom_ar": "عين الشهداء"
+      },
+      {
+        "nom_latin": "Djelfa",
+        "nom_ar": "الجلفة"
+      }
+    ]
+  },
+  {
+    "code": 18,
+    "code_2": "18",
+    "nom_fr": "Jijel",
+    "nom_ar": "جيجل",
+    "nom_ascii": "Jijel",
+    "communes": [
+      {
+        "nom_latin": "Jijel",
+        "nom_ar": "جيجل"
+      },
+      {
+        "nom_latin": "El Aouana",
+        "nom_ar": "العوانة"
+      },
+      {
+        "nom_latin": "Selma Benziada",
+        "nom_ar": "سلمى بن زيادة"
+      },
+      {
+        "nom_latin": "Erraguene Souissi",
+        "nom_ar": "أراقن سويسي"
+      },
+      {
+        "nom_latin": "Ziama Mansouriah",
+        "nom_ar": "زيامة منصورية"
+      },
+      {
+        "nom_latin": "Boussif Ouled Askeur",
+        "nom_ar": "بوسيف أولاد عسكر"
+      },
+      {
+        "nom_latin": "Chahna",
+        "nom_ar": "الشحنة"
+      },
+      {
+        "nom_latin": "Emir Abdelkader",
+        "nom_ar": "الامير عبد القادر"
+      },
+      {
+        "nom_latin": "Oudjana",
+        "nom_ar": "وجانة"
+      },
+      {
+        "nom_latin": "Taher",
+        "nom_ar": "الطاهير"
+      },
+      {
+        "nom_latin": "Chekfa",
+        "nom_ar": "الشقفة"
+      },
+      {
+        "nom_latin": "El Kennar Nouchfi",
+        "nom_ar": "القنار نشفي"
+      },
+      {
+        "nom_latin": "Sidi Abdelaziz",
+        "nom_ar": "سيدي عبد العزيز"
+      },
+      {
+        "nom_latin": "Bordj T'har",
+        "nom_ar": "برج الطهر"
+      },
+      {
+        "nom_latin": "El Milia",
+        "nom_ar": "الميلية"
+      },
+      {
+        "nom_latin": "Ouled Yahia Khadrouch",
+        "nom_ar": "أولاد يحيى خدروش"
+      },
+      {
+        "nom_latin": "Ouled Rabah",
+        "nom_ar": "أولاد رابح"
+      },
+      {
+        "nom_latin": "Sidi Marouf",
+        "nom_ar": "سيدي معروف"
+      },
+      {
+        "nom_latin": "Ghebala",
+        "nom_ar": "غبالة"
+      },
+      {
+        "nom_latin": "Settara",
+        "nom_ar": "السطارة"
+      },
+      {
+        "nom_latin": "Bouraoui Belhadef",
+        "nom_ar": "بوراوي بلهادف"
+      },
+      {
+        "nom_latin": "El Ancer",
+        "nom_ar": "العنصر"
+      },
+      {
+        "nom_latin": "Khiri Oued Adjoul",
+        "nom_ar": "خيري واد عجول"
+      },
+      {
+        "nom_latin": "Djemaa Beni Habibi",
+        "nom_ar": "الجمعة بني حبيبي"
+      },
+      {
+        "nom_latin": "Djimla",
+        "nom_ar": "جيملة"
+      },
+      {
+        "nom_latin": "Boudria Beniyadjis",
+        "nom_ar": "بودريعة بني  ياجيس"
+      },
+      {
+        "nom_latin": "Kaous",
+        "nom_ar": "قاوس"
+      },
+      {
+        "nom_latin": "Texenna",
+        "nom_ar": "تاكسنة"
+      }
+    ]
+  },
+  {
+    "code": 19,
+    "code_2": "19",
+    "nom_fr": "Sétif",
+    "nom_ar": "سطيف",
+    "nom_ascii": "Setif",
+    "communes": [
+      {
+        "nom_latin": "Rosfa",
+        "nom_ar": "الرصفة"
+      },
+      {
+        "nom_latin": "Boutaleb",
+        "nom_ar": "بوطالب"
+      },
+      {
+        "nom_latin": "Hamma",
+        "nom_ar": "الحامة"
+      },
+      {
+        "nom_latin": "Ouled Tebben",
+        "nom_ar": "أولاد تبان"
+      },
+      {
+        "nom_latin": "Salah Bey",
+        "nom_ar": "صالح باي"
+      },
+      {
+        "nom_latin": "Oued El Bared",
+        "nom_ar": "واد البارد"
+      },
+      {
+        "nom_latin": "Tizi N'bechar",
+        "nom_ar": "تيزي نبشار"
+      },
+      {
+        "nom_latin": "Amoucha",
+        "nom_ar": "عموشة"
+      },
+      {
+        "nom_latin": "Mezloug",
+        "nom_ar": "مزلوق"
+      },
+      {
+        "nom_latin": "El Ouricia",
+        "nom_ar": "أوريسيا"
+      },
+      {
+        "nom_latin": "Ain Abessa",
+        "nom_ar": "عين عباسة"
+      },
+      {
+        "nom_latin": "Ain Arnat",
+        "nom_ar": "عين أرنات"
+      },
+      {
+        "nom_latin": "Guellal",
+        "nom_ar": "قلال"
+      },
+      {
+        "nom_latin": "Kasr El Abtal",
+        "nom_ar": "قصر الابطال"
+      },
+      {
+        "nom_latin": "Ouled Si Ahmed",
+        "nom_ar": "أولاد سي أحمد"
+      },
+      {
+        "nom_latin": "Ain Oulmene",
+        "nom_ar": "عين ولمان"
+      },
+      {
+        "nom_latin": "Ait Naoual Mezada",
+        "nom_ar": "أيت نوال مزادة"
+      },
+      {
+        "nom_latin": "Ait-Tizi",
+        "nom_ar": "ايت تيزي"
+      },
+      {
+        "nom_latin": "Bouandas",
+        "nom_ar": "بوعنداس"
+      },
+      {
+        "nom_latin": "Bousselam",
+        "nom_ar": "بوسلام"
+      },
+      {
+        "nom_latin": "Hamam Soukhna",
+        "nom_ar": "حمام السخنة"
+      },
+      {
+        "nom_latin": "Taya",
+        "nom_ar": "الطاية"
+      },
+      {
+        "nom_latin": "Tella",
+        "nom_ar": "التلة"
+      },
+      {
+        "nom_latin": "Ain Azel",
+        "nom_ar": "عين أزال"
+      },
+      {
+        "nom_latin": "Ain Lahdjar",
+        "nom_ar": "عين الحجر"
+      },
+      {
+        "nom_latin": "Beidha Bordj",
+        "nom_ar": "بيضاء برج"
+      },
+      {
+        "nom_latin": "Bir Haddada",
+        "nom_ar": "بئر حدادة"
+      },
+      {
+        "nom_latin": "Guenzet",
+        "nom_ar": "قنزات"
+      },
+      {
+        "nom_latin": "Harbil",
+        "nom_ar": "حربيل"
+      },
+      {
+        "nom_latin": "Ain-Roua",
+        "nom_ar": "عين الروى"
+      },
+      {
+        "nom_latin": "Beni Oussine",
+        "nom_ar": "بني وسين"
+      },
+      {
+        "nom_latin": "Bougaa",
+        "nom_ar": "بوقاعة"
+      },
+      {
+        "nom_latin": "Draa-Kebila",
+        "nom_ar": "ذراع قبيلة"
+      },
+      {
+        "nom_latin": "Hammam Guergour",
+        "nom_ar": "حمام قرقور"
+      },
+      {
+        "nom_latin": "Setif",
+        "nom_ar": "سطيف"
+      },
+      {
+        "nom_latin": "Ain El Kebira",
+        "nom_ar": "عين الكبيرة"
+      },
+      {
+        "nom_latin": "Dehamcha",
+        "nom_ar": "الدهامشة"
+      },
+      {
+        "nom_latin": "Ouled Addouane",
+        "nom_ar": "أولاد عدوان"
+      },
+      {
+        "nom_latin": "Ain-Sebt",
+        "nom_ar": "عين السبت"
+      },
+      {
+        "nom_latin": "Beni-Aziz",
+        "nom_ar": "بني عزيز"
+      },
+      {
+        "nom_latin": "Maaouia",
+        "nom_ar": "معاوية"
+      },
+      {
+        "nom_latin": "Bellaa",
+        "nom_ar": "بلاعة"
+      },
+      {
+        "nom_latin": "Bir-El-Arch",
+        "nom_ar": "بئر العرش"
+      },
+      {
+        "nom_latin": "El-Ouldja",
+        "nom_ar": "الولجة"
+      },
+      {
+        "nom_latin": "Tachouda",
+        "nom_ar": "تاشودة"
+      },
+      {
+        "nom_latin": "Tala-Ifacene",
+        "nom_ar": "تالة إيفاسن"
+      },
+      {
+        "nom_latin": "Maouaklane",
+        "nom_ar": "ماوكلان"
+      },
+      {
+        "nom_latin": "Serdj-El-Ghoul",
+        "nom_ar": "سرج الغول"
+      },
+      {
+        "nom_latin": "Babor",
+        "nom_ar": "بابور"
+      },
+      {
+        "nom_latin": "Guidjel",
+        "nom_ar": "قجال"
+      },
+      {
+        "nom_latin": "Ouled Sabor",
+        "nom_ar": "أولاد صابر"
+      },
+      {
+        "nom_latin": "Bazer-Sakra",
+        "nom_ar": "بازر سكرة"
+      },
+      {
+        "nom_latin": "El Eulma",
+        "nom_ar": "العلمة"
+      },
+      {
+        "nom_latin": "Guelta Zerka",
+        "nom_ar": "قلتة زرقاء"
+      },
+      {
+        "nom_latin": "Beni Fouda",
+        "nom_ar": "بني فودة"
+      },
+      {
+        "nom_latin": "Djemila",
+        "nom_ar": "جميلة"
+      },
+      {
+        "nom_latin": "Ain-Legradj",
+        "nom_ar": "عين لقراج"
+      },
+      {
+        "nom_latin": "Beni Chebana",
+        "nom_ar": "بني شبانة"
+      },
+      {
+        "nom_latin": "Beni Ourtilane",
+        "nom_ar": "بني ورتيلان"
+      },
+      {
+        "nom_latin": "Beni-Mouhli",
+        "nom_ar": "بني موحلي"
+      }
+    ]
+  },
+  {
+    "code": 20,
+    "code_2": "20",
+    "nom_fr": "Saïda",
+    "nom_ar": "سعيدة",
+    "nom_ascii": "Saida",
+    "communes": [
+      {
+        "nom_latin": "Saida",
+        "nom_ar": "سعيدة"
+      },
+      {
+        "nom_latin": "Tircine",
+        "nom_ar": "تيرسين"
+      },
+      {
+        "nom_latin": "Ouled Brahim",
+        "nom_ar": "أولاد إبراهيم"
+      },
+      {
+        "nom_latin": "Ain Soltane",
+        "nom_ar": "عين السلطان"
+      },
+      {
+        "nom_latin": "Maamora",
+        "nom_ar": "المعمورة"
+      },
+      {
+        "nom_latin": "El Hassasna",
+        "nom_ar": "الحساسنة"
+      },
+      {
+        "nom_latin": "Ain Sekhouna",
+        "nom_ar": "عين السخونة"
+      },
+      {
+        "nom_latin": "Sidi Boubekeur",
+        "nom_ar": "سيدي بوبكر"
+      },
+      {
+        "nom_latin": "Ouled Khaled",
+        "nom_ar": "أولاد خالد"
+      },
+      {
+        "nom_latin": "Hounet",
+        "nom_ar": "هونت"
+      },
+      {
+        "nom_latin": "Sidi Amar",
+        "nom_ar": "سيدي عمر"
+      },
+      {
+        "nom_latin": "Youb",
+        "nom_ar": "يوب"
+      },
+      {
+        "nom_latin": "Doui Thabet",
+        "nom_ar": "دوي ثابت"
+      },
+      {
+        "nom_latin": "Sidi Ahmed",
+        "nom_ar": "سيدي احمد"
+      },
+      {
+        "nom_latin": "Moulay Larbi",
+        "nom_ar": "مولاي العربي"
+      },
+      {
+        "nom_latin": "Ain El Hadjar",
+        "nom_ar": "عين الحجر"
+      }
+    ]
+  },
+  {
+    "code": 21,
+    "code_2": "21",
+    "nom_fr": "Skikda",
+    "nom_ar": "سكيكدة",
+    "nom_ascii": "Skikda",
+    "communes": [
+      {
+        "nom_latin": "Ain Bouziane",
+        "nom_ar": "عين بوزيان"
+      },
+      {
+        "nom_latin": "Beni Oulbane",
+        "nom_ar": "بني ولبان"
+      },
+      {
+        "nom_latin": "Sidi Mezghiche",
+        "nom_ar": "سيدي مزغيش"
+      },
+      {
+        "nom_latin": "Salah Bouchaour",
+        "nom_ar": "صالح بو الشعور"
+      },
+      {
+        "nom_latin": "Zerdezas",
+        "nom_ar": "زردازة"
+      },
+      {
+        "nom_latin": "Ouled Habbaba",
+        "nom_ar": "أولاد حبابة"
+      },
+      {
+        "nom_latin": "Emjez Edchich",
+        "nom_ar": "مجاز الدشيش"
+      },
+      {
+        "nom_latin": "El Arrouch",
+        "nom_ar": "الحروش"
+      },
+      {
+        "nom_latin": "El Hadaiek",
+        "nom_ar": "الحدائق"
+      },
+      {
+        "nom_latin": "Bouchetata",
+        "nom_ar": "بوشطاطة"
+      },
+      {
+        "nom_latin": "Ain Zouit",
+        "nom_ar": "عين زويت"
+      },
+      {
+        "nom_latin": "Beni Bechir",
+        "nom_ar": "بني بشير"
+      },
+      {
+        "nom_latin": "Ramdane Djamel",
+        "nom_ar": "رمضان جمال"
+      },
+      {
+        "nom_latin": "Bin El Ouiden",
+        "nom_ar": "بين الويدان"
+      },
+      {
+        "nom_latin": "Tamalous",
+        "nom_ar": "تمالوس"
+      },
+      {
+        "nom_latin": "Kerkara",
+        "nom_ar": "الكركرة"
+      },
+      {
+        "nom_latin": "Ain Kechra",
+        "nom_ar": "عين قشرة"
+      },
+      {
+        "nom_latin": "Ouldja Boulbalout",
+        "nom_ar": "الولجة بولبلوط"
+      },
+      {
+        "nom_latin": "Oum Toub",
+        "nom_ar": "أم الطوب"
+      },
+      {
+        "nom_latin": "El Ghedir",
+        "nom_ar": "الغدير"
+      },
+      {
+        "nom_latin": "Es Sebt",
+        "nom_ar": "السبت"
+      },
+      {
+        "nom_latin": "Ain Charchar",
+        "nom_ar": "عين شرشار"
+      },
+      {
+        "nom_latin": "Azzaba",
+        "nom_ar": "عزابة"
+      },
+      {
+        "nom_latin": "Djendel Saadi Mohamed",
+        "nom_ar": "جندل سعدي محمد"
+      },
+      {
+        "nom_latin": "Zitouna",
+        "nom_ar": "الزيتونة"
+      },
+      {
+        "nom_latin": "Kanoua",
+        "nom_ar": "قنواع"
+      },
+      {
+        "nom_latin": "Ouled Attia",
+        "nom_ar": "أولاد عطية"
+      },
+      {
+        "nom_latin": "Oued Zhour",
+        "nom_ar": "وادي الزهور"
+      },
+      {
+        "nom_latin": "Khenag Maoune",
+        "nom_ar": "خناق مايو"
+      },
+      {
+        "nom_latin": "Collo",
+        "nom_ar": "القل"
+      },
+      {
+        "nom_latin": "Cheraia",
+        "nom_ar": "الشرايع"
+      },
+      {
+        "nom_latin": "Beni Zid",
+        "nom_ar": "بني زيد"
+      },
+      {
+        "nom_latin": "El Marsa",
+        "nom_ar": "المرسى"
+      },
+      {
+        "nom_latin": "Ben Azzouz",
+        "nom_ar": "بن عزوز"
+      },
+      {
+        "nom_latin": "Bekkouche Lakhdar",
+        "nom_ar": "بكوش لخضر"
+      },
+      {
+        "nom_latin": "Filfila",
+        "nom_ar": "فلفلة"
+      },
+      {
+        "nom_latin": "Hammadi Krouma",
+        "nom_ar": "حمادي كرومة"
+      },
+      {
+        "nom_latin": "Skikda",
+        "nom_ar": "سكيكدة"
+      }
+    ]
+  },
+  {
+    "code": 22,
+    "code_2": "22",
+    "nom_fr": "Sidi Bel Abbès",
+    "nom_ar": "سيدي بلعباس",
+    "nom_ascii": "Sidi Bel Abbes",
+    "communes": [
+      {
+        "nom_latin": "Sidi Ali Benyoub",
+        "nom_ar": "سيدي علي بن يوب"
+      },
+      {
+        "nom_latin": "Tabia",
+        "nom_ar": "طابية"
+      },
+      {
+        "nom_latin": "Boukhanefis",
+        "nom_ar": "بوخنفيس"
+      },
+      {
+        "nom_latin": "Moulay Slissen",
+        "nom_ar": "مولاي سليسن"
+      },
+      {
+        "nom_latin": "El Hacaiba",
+        "nom_ar": "الحصيبة"
+      },
+      {
+        "nom_latin": "Ain Tindamine",
+        "nom_ar": "عين تندمين"
+      },
+      {
+        "nom_latin": "Tenira",
+        "nom_ar": "تنيرة"
+      },
+      {
+        "nom_latin": "Oued Sefioun",
+        "nom_ar": "وادي سفيون"
+      },
+      {
+        "nom_latin": "Hassi Dahou",
+        "nom_ar": "حاسي دحو"
+      },
+      {
+        "nom_latin": "Benachiba Chelia",
+        "nom_ar": "بن عشيبة شلية"
+      },
+      {
+        "nom_latin": "Oued Taourira",
+        "nom_ar": "وادي تاوريرة"
+      },
+      {
+        "nom_latin": "Merine",
+        "nom_ar": "مرين"
+      },
+      {
+        "nom_latin": "Tefessour",
+        "nom_ar": "تفسور"
+      },
+      {
+        "nom_latin": "Taoudmout",
+        "nom_ar": "تاودموت"
+      },
+      {
+        "nom_latin": "Sidi Yacoub",
+        "nom_ar": "سيدي يعقوب"
+      },
+      {
+        "nom_latin": "Sidi Lahcene",
+        "nom_ar": "سيدي لحسن"
+      },
+      {
+        "nom_latin": "Sidi Khaled",
+        "nom_ar": "سيدي خالد"
+      },
+      {
+        "nom_latin": "Amarnas",
+        "nom_ar": "العمارنة"
+      },
+      {
+        "nom_latin": "Sidi Brahim",
+        "nom_ar": "سيدي ابراهيم"
+      },
+      {
+        "nom_latin": "Sidi Hamadouche",
+        "nom_ar": "سيدي حمادوش"
+      },
+      {
+        "nom_latin": "Makedra",
+        "nom_ar": "مكدرة"
+      },
+      {
+        "nom_latin": "Ain El Berd",
+        "nom_ar": "عين البرد"
+      },
+      {
+        "nom_latin": "Hassi Zahana",
+        "nom_ar": "حاسي زهانة"
+      },
+      {
+        "nom_latin": "Chetouane Belaila",
+        "nom_ar": "شيطوان البلايلة"
+      },
+      {
+        "nom_latin": "Ben Badis",
+        "nom_ar": "بن باديس"
+      },
+      {
+        "nom_latin": "Bedrabine El Mokrani",
+        "nom_ar": "بضرابين المقراني"
+      },
+      {
+        "nom_latin": "Sfisef",
+        "nom_ar": "سفيزف"
+      },
+      {
+        "nom_latin": "M'cid",
+        "nom_ar": "مسيد"
+      },
+      {
+        "nom_latin": "Boudjebaa El Bordj",
+        "nom_ar": "بوجبهة البرج"
+      },
+      {
+        "nom_latin": "Ain- Adden",
+        "nom_ar": "عين أدن"
+      },
+      {
+        "nom_latin": "Sidi Chaib",
+        "nom_ar": "سيدي شعيب"
+      },
+      {
+        "nom_latin": "Marhoum",
+        "nom_ar": "مرحوم"
+      },
+      {
+        "nom_latin": "Bir El Hammam",
+        "nom_ar": "بئر الحمام"
+      },
+      {
+        "nom_latin": "Redjem Demouche",
+        "nom_ar": "رجم دموش"
+      },
+      {
+        "nom_latin": "Ras El Ma",
+        "nom_ar": "راس الماء"
+      },
+      {
+        "nom_latin": "Oued Sebaa",
+        "nom_ar": "وادي السبع"
+      },
+      {
+        "nom_latin": "Sidi Bel-Abbes",
+        "nom_ar": "سيدي بلعباس"
+      },
+      {
+        "nom_latin": "Ain Thrid",
+        "nom_ar": "عين الثريد"
+      },
+      {
+        "nom_latin": "Sehala Thaoura",
+        "nom_ar": "السهالة الثورة"
+      },
+      {
+        "nom_latin": "Tessala",
+        "nom_ar": "تسالة"
+      },
+      {
+        "nom_latin": "Belarbi",
+        "nom_ar": "بلعربي"
+      },
+      {
+        "nom_latin": "Mostefa  Ben Brahim",
+        "nom_ar": "مصطفى بن ابراهيم"
+      },
+      {
+        "nom_latin": "Tilmouni",
+        "nom_ar": "تلموني"
+      },
+      {
+        "nom_latin": "Zerouala",
+        "nom_ar": "زروالة"
+      },
+      {
+        "nom_latin": "Dhaya",
+        "nom_ar": "الضاية"
+      },
+      {
+        "nom_latin": "Mezaourou",
+        "nom_ar": "مزاورو"
+      },
+      {
+        "nom_latin": "Teghalimet",
+        "nom_ar": "تغاليمت"
+      },
+      {
+        "nom_latin": "Telagh",
+        "nom_ar": "تلاغ"
+      },
+      {
+        "nom_latin": "Ain Kada",
+        "nom_ar": "عين قادة"
+      },
+      {
+        "nom_latin": "Lamtar",
+        "nom_ar": "لمطار"
+      },
+      {
+        "nom_latin": "Sidi Ali Boussidi",
+        "nom_ar": "سيدي علي بوسيدي"
+      },
+      {
+        "nom_latin": "Sidi Dahou Zairs",
+        "nom_ar": "سيدي دحو الزاير"
+      }
+    ]
+  },
+  {
+    "code": 23,
+    "code_2": "23",
+    "nom_fr": "Annaba",
+    "nom_ar": "عنابة",
+    "nom_ascii": "Annaba",
+    "communes": [
+      {
+        "nom_latin": "Annaba",
+        "nom_ar": "عنابة"
+      },
+      {
+        "nom_latin": "Seraidi",
+        "nom_ar": "سرايدي"
+      },
+      {
+        "nom_latin": "Berrahal",
+        "nom_ar": "برحال"
+      },
+      {
+        "nom_latin": "Oued El Aneb",
+        "nom_ar": "واد العنب"
+      },
+      {
+        "nom_latin": "Treat",
+        "nom_ar": "التريعات"
+      },
+      {
+        "nom_latin": "El Hadjar",
+        "nom_ar": "الحجار"
+      },
+      {
+        "nom_latin": "Sidi Amar",
+        "nom_ar": "سيدي عمار"
+      },
+      {
+        "nom_latin": "El Bouni",
+        "nom_ar": "البوني"
+      },
+      {
+        "nom_latin": "Ain El Berda",
+        "nom_ar": "عين الباردة"
+      },
+      {
+        "nom_latin": "Cheurfa",
+        "nom_ar": "الشرفة"
+      },
+      {
+        "nom_latin": "El Eulma",
+        "nom_ar": "العلمة"
+      },
+      {
+        "nom_latin": "Chetaibi",
+        "nom_ar": "شطايبي"
+      }
+    ]
+  },
+  {
+    "code": 24,
+    "code_2": "24",
+    "nom_fr": "Guelma",
+    "nom_ar": "قالمة",
+    "nom_ascii": "Guelma",
+    "communes": [
+      {
+        "nom_latin": "Nechmaya",
+        "nom_ar": "نشماية"
+      },
+      {
+        "nom_latin": "Boumahra Ahmed",
+        "nom_ar": "بومهرة أحمد"
+      },
+      {
+        "nom_latin": "Djeballah Khemissi",
+        "nom_ar": "جبالة الخميسي"
+      },
+      {
+        "nom_latin": "Belkheir",
+        "nom_ar": "بلخير"
+      },
+      {
+        "nom_latin": "Beni Mezline",
+        "nom_ar": "بني مزلين"
+      },
+      {
+        "nom_latin": "Guelaat Bou Sbaa",
+        "nom_ar": "قلعة بوصبع"
+      },
+      {
+        "nom_latin": "Bou Hamdane",
+        "nom_ar": "بوحمدان"
+      },
+      {
+        "nom_latin": "Hammam Debagh",
+        "nom_ar": "حمام دباغ"
+      },
+      {
+        "nom_latin": "Roknia",
+        "nom_ar": "الركنية"
+      },
+      {
+        "nom_latin": "Dahouara",
+        "nom_ar": "الدهوارة"
+      },
+      {
+        "nom_latin": "Hammam N'bail",
+        "nom_ar": "حمام النبايل"
+      },
+      {
+        "nom_latin": "Oued Cheham",
+        "nom_ar": "وادي الشحم"
+      },
+      {
+        "nom_latin": "Guelma",
+        "nom_ar": "قالمة"
+      },
+      {
+        "nom_latin": "Bendjarah",
+        "nom_ar": "بن جراح"
+      },
+      {
+        "nom_latin": "Ain Ben Beida",
+        "nom_ar": "عين بن بيضاء"
+      },
+      {
+        "nom_latin": "Bouchegouf",
+        "nom_ar": "بوشقوف"
+      },
+      {
+        "nom_latin": "Medjez Sfa",
+        "nom_ar": "مجاز الصفاء"
+      },
+      {
+        "nom_latin": "Oued Ferragha",
+        "nom_ar": "وادي فراغة"
+      },
+      {
+        "nom_latin": "Bouati Mahmoud",
+        "nom_ar": "بوعاتي محمود"
+      },
+      {
+        "nom_latin": "El Fedjoudj",
+        "nom_ar": "الفجوج"
+      },
+      {
+        "nom_latin": "Heliopolis",
+        "nom_ar": "هيليوبوليس"
+      },
+      {
+        "nom_latin": "Medjez Amar",
+        "nom_ar": "مجاز عمار"
+      },
+      {
+        "nom_latin": "Houari Boumedienne",
+        "nom_ar": "هواري بومدين"
+      },
+      {
+        "nom_latin": "Ras El Agba",
+        "nom_ar": "رأس العقبة"
+      },
+      {
+        "nom_latin": "Sellaoua Announa",
+        "nom_ar": "سلاوة عنونة"
+      },
+      {
+        "nom_latin": "Bordj Sabath",
+        "nom_ar": "برج صباط"
+      },
+      {
+        "nom_latin": "Oued Zenati",
+        "nom_ar": "وادي الزناتي"
+      },
+      {
+        "nom_latin": "Ain Regada",
+        "nom_ar": "عين رقادة"
+      },
+      {
+        "nom_latin": "Ain Larbi",
+        "nom_ar": "عين العربي"
+      },
+      {
+        "nom_latin": "Ain Makhlouf",
+        "nom_ar": "عين مخلوف"
+      },
+      {
+        "nom_latin": "Tamlouka",
+        "nom_ar": "تاملوكة"
+      },
+      {
+        "nom_latin": "Ain Sandel",
+        "nom_ar": "عين صندل"
+      },
+      {
+        "nom_latin": "Bou Hachana",
+        "nom_ar": "بوحشانة"
+      },
+      {
+        "nom_latin": "Khezaras",
+        "nom_ar": "لخزارة"
+      }
+    ]
+  },
+  {
+    "code": 25,
+    "code_2": "25",
+    "nom_fr": "Constantine",
+    "nom_ar": "قسنطينة",
+    "nom_ascii": "Constantine",
+    "communes": [
+      {
+        "nom_latin": "Didouche Mourad",
+        "nom_ar": "ديدوش مراد"
+      },
+      {
+        "nom_latin": "Hamma Bouziane",
+        "nom_ar": "حامة بوزيان"
+      },
+      {
+        "nom_latin": "Beni Hamidane",
+        "nom_ar": "بني حميدان"
+      },
+      {
+        "nom_latin": "Zighoud Youcef",
+        "nom_ar": "زيغود يوسف"
+      },
+      {
+        "nom_latin": "Ain Smara",
+        "nom_ar": "عين السمارة"
+      },
+      {
+        "nom_latin": "El Khroub",
+        "nom_ar": "الخروب"
+      },
+      {
+        "nom_latin": "Ouled Rahmoun",
+        "nom_ar": "أولاد رحمون"
+      },
+      {
+        "nom_latin": "Ain Abid",
+        "nom_ar": "عين عبيد"
+      },
+      {
+        "nom_latin": "Ben Badis",
+        "nom_ar": "أبن باديس الهرية"
+      },
+      {
+        "nom_latin": "Ibn Ziad",
+        "nom_ar": "ابن زياد"
+      },
+      {
+        "nom_latin": "Messaoud Boudjeriou",
+        "nom_ar": "بوجريو مسعود"
+      },
+      {
+        "nom_latin": "Constantine",
+        "nom_ar": "قسنطينة"
+      }
+    ]
+  },
+  {
+    "code": 26,
+    "code_2": "26",
+    "nom_fr": "Médéa",
+    "nom_ar": "المدية",
+    "nom_ascii": "Medea",
+    "communes": [
+      {
+        "nom_latin": "Souagui",
+        "nom_ar": "السواقي"
+      },
+      {
+        "nom_latin": "Djouab",
+        "nom_ar": "جواب"
+      },
+      {
+        "nom_latin": "Sidi Zahar",
+        "nom_ar": "سيدي زهار"
+      },
+      {
+        "nom_latin": "Sidi Ziane",
+        "nom_ar": "سيدي زيان"
+      },
+      {
+        "nom_latin": "Al Azizia",
+        "nom_ar": "العزيزية"
+      },
+      {
+        "nom_latin": "Meghraoua",
+        "nom_ar": "مغراوة"
+      },
+      {
+        "nom_latin": "Mihoub",
+        "nom_ar": "ميهوب"
+      },
+      {
+        "nom_latin": "Hannacha",
+        "nom_ar": "حناشة"
+      },
+      {
+        "nom_latin": "Ouamri",
+        "nom_ar": "عوامري"
+      },
+      {
+        "nom_latin": "Oued Harbil",
+        "nom_ar": "وادي حربيل"
+      },
+      {
+        "nom_latin": "Beni Slimane",
+        "nom_ar": "بني سليمان"
+      },
+      {
+        "nom_latin": "Bouskene",
+        "nom_ar": "بوسكن"
+      },
+      {
+        "nom_latin": "Sidi Errabie",
+        "nom_ar": "سيدي الربيع"
+      },
+      {
+        "nom_latin": "Bouaichoune",
+        "nom_ar": "بوعيشون"
+      },
+      {
+        "nom_latin": "Ouled Bouachra",
+        "nom_ar": "أولاد بوعشرة"
+      },
+      {
+        "nom_latin": "Si Mahdjoub",
+        "nom_ar": "سي المحجوب"
+      },
+      {
+        "nom_latin": "Berrouaghia",
+        "nom_ar": "البرواقية"
+      },
+      {
+        "nom_latin": "Ouled Deide",
+        "nom_ar": "أولاد دايد"
+      },
+      {
+        "nom_latin": "Rebaia",
+        "nom_ar": "الربعية"
+      },
+      {
+        "nom_latin": "Medjebar",
+        "nom_ar": "مجبر"
+      },
+      {
+        "nom_latin": "Eddouair",
+        "nom_ar": "ثلاث دوائر"
+      },
+      {
+        "nom_latin": "Zoubiria",
+        "nom_ar": "الزبيرية"
+      },
+      {
+        "nom_latin": "Seghouane",
+        "nom_ar": "سغوان"
+      },
+      {
+        "nom_latin": "Aissaouia",
+        "nom_ar": "العيساوية"
+      },
+      {
+        "nom_latin": "El Hamdania",
+        "nom_ar": "الحوضان"
+      },
+      {
+        "nom_latin": "Medea",
+        "nom_ar": "مزغنة"
+      },
+      {
+        "nom_latin": "Tablat",
+        "nom_ar": "تابلاط"
+      },
+      {
+        "nom_latin": "Draa Essamar",
+        "nom_ar": "ذراع السمار"
+      },
+      {
+        "nom_latin": "Ouzera",
+        "nom_ar": "المدية"
+      },
+      {
+        "nom_latin": "Tamezguida",
+        "nom_ar": "تمسقيدة"
+      },
+      {
+        "nom_latin": "Benchicao",
+        "nom_ar": "بن شكاو"
+      },
+      {
+        "nom_latin": "El Omaria",
+        "nom_ar": "الحمدانية"
+      },
+      {
+        "nom_latin": "Baata",
+        "nom_ar": "وزرة"
+      },
+      {
+        "nom_latin": "Tizi Mahdi",
+        "nom_ar": "تيزي مهدي"
+      },
+      {
+        "nom_latin": "Sedraia",
+        "nom_ar": "بعطة"
+      },
+      {
+        "nom_latin": "Mezghenna",
+        "nom_ar": "العمارية"
+      },
+      {
+        "nom_latin": "Ouled Brahim",
+        "nom_ar": "أولاد إبراهيم"
+      },
+      {
+        "nom_latin": "Bir Ben Abed",
+        "nom_ar": "بئر بن عابد"
+      },
+      {
+        "nom_latin": "El Guelb El Kebir",
+        "nom_ar": "القلب الكبير"
+      },
+      {
+        "nom_latin": "Sidi Naamane",
+        "nom_ar": "سدراية"
+      },
+      {
+        "nom_latin": "Bouchrahil",
+        "nom_ar": "بوشراحيل"
+      },
+      {
+        "nom_latin": "Khamsa Djoumaa",
+        "nom_ar": "خمس جوامع"
+      },
+      {
+        "nom_latin": "Deux Bassins",
+        "nom_ar": "سيدي نعمان"
+      }
+    ]
+  },
+  {
+    "code": 27,
+    "code_2": "27",
+    "nom_fr": "Mostaganem",
+    "nom_ar": "مستغانم",
+    "nom_ascii": "Mostaganem",
+    "communes": [
+      {
+        "nom_latin": "Fornaka",
+        "nom_ar": "فرناقة"
+      },
+      {
+        "nom_latin": "Hassiane",
+        "nom_ar": "الحسيان (بني ياحي"
+      },
+      {
+        "nom_latin": "Ain-Nouissy",
+        "nom_ar": "عين نويسي"
+      },
+      {
+        "nom_latin": "Oued El Kheir",
+        "nom_ar": "وادي الخير"
+      },
+      {
+        "nom_latin": "Ain-Tedles",
+        "nom_ar": "عين تادلس"
+      },
+      {
+        "nom_latin": "Sidi Belaattar",
+        "nom_ar": "سيدي بلعطار"
+      },
+      {
+        "nom_latin": "Sour",
+        "nom_ar": "سور"
+      },
+      {
+        "nom_latin": "Hassi Mameche",
+        "nom_ar": "حاسي ماماش"
+      },
+      {
+        "nom_latin": "Mazagran",
+        "nom_ar": "مزغران"
+      },
+      {
+        "nom_latin": "Stidia",
+        "nom_ar": "ستيدية"
+      },
+      {
+        "nom_latin": "Ain-Boudinar",
+        "nom_ar": "عين بودينار"
+      },
+      {
+        "nom_latin": "Kheir-Eddine",
+        "nom_ar": "خير الدين"
+      },
+      {
+        "nom_latin": "Sayada",
+        "nom_ar": "صيادة"
+      },
+      {
+        "nom_latin": "Sidi Ali",
+        "nom_ar": "سيدي علي"
+      },
+      {
+        "nom_latin": "Tazgait",
+        "nom_ar": "تزقايت"
+      },
+      {
+        "nom_latin": "Ouled-Maalah",
+        "nom_ar": "أولاد مع الله"
+      },
+      {
+        "nom_latin": "Benabdelmalek Ramdane",
+        "nom_ar": "بن عبد المالك رمضان"
+      },
+      {
+        "nom_latin": "Hadjadj",
+        "nom_ar": "حجاج"
+      },
+      {
+        "nom_latin": "Sidi-Lakhdar",
+        "nom_ar": "سيدي لخضر"
+      },
+      {
+        "nom_latin": "Mostaganem",
+        "nom_ar": "مستغانم"
+      },
+      {
+        "nom_latin": "Achaacha",
+        "nom_ar": "عشعاشة"
+      },
+      {
+        "nom_latin": "Khadra",
+        "nom_ar": "خضرة"
+      },
+      {
+        "nom_latin": "Nekmaria",
+        "nom_ar": "نكمارية"
+      },
+      {
+        "nom_latin": "Ouled Boughalem",
+        "nom_ar": "أولاد بوغالم"
+      },
+      {
+        "nom_latin": "Bouguirat",
+        "nom_ar": "بوقيراط"
+      },
+      {
+        "nom_latin": "Safsaf",
+        "nom_ar": "صفصاف"
+      },
+      {
+        "nom_latin": "Sirat",
+        "nom_ar": "سيرات"
+      },
+      {
+        "nom_latin": "Souaflia",
+        "nom_ar": "السوافلية"
+      },
+      {
+        "nom_latin": "Ain-Sidi Cherif",
+        "nom_ar": "عين سيدي الشريف"
+      },
+      {
+        "nom_latin": "Mesra",
+        "nom_ar": "ماسرة"
+      },
+      {
+        "nom_latin": "Touahria",
+        "nom_ar": "الطواهرية"
+      },
+      {
+        "nom_latin": "Mansourah",
+        "nom_ar": "منصورة"
+      }
+    ]
+  },
+  {
+    "code": 28,
+    "code_2": "28",
+    "nom_fr": "M'Sila",
+    "nom_ar": "المسيلة",
+    "nom_ascii": "M'Sila",
+    "communes": [
+      {
+        "nom_latin": "M’Sila",
+        "nom_ar": "المسيلة"
+      },
+      {
+        "nom_latin": "Chellal",
+        "nom_ar": "شلال"
+      },
+      {
+        "nom_latin": "Ouled Madhi",
+        "nom_ar": "أولاد ماضي"
+      },
+      {
+        "nom_latin": "Khetouti Sed El Djir",
+        "nom_ar": "خطوطي سد الجير"
+      },
+      {
+        "nom_latin": "Maarif",
+        "nom_ar": "المعاريف"
+      },
+      {
+        "nom_latin": "Magra",
+        "nom_ar": "مقرة"
+      },
+      {
+        "nom_latin": "Berhoum",
+        "nom_ar": "برهوم"
+      },
+      {
+        "nom_latin": "Ain Khadra",
+        "nom_ar": "عين الخضراء"
+      },
+      {
+        "nom_latin": "Belaiba",
+        "nom_ar": "بلعايبة"
+      },
+      {
+        "nom_latin": "Dehahna",
+        "nom_ar": "دهاهنة"
+      },
+      {
+        "nom_latin": "Sidi Aissa",
+        "nom_ar": "سيدي عيسى"
+      },
+      {
+        "nom_latin": "Bouti Sayah",
+        "nom_ar": "بوطي السايح"
+      },
+      {
+        "nom_latin": "Beni Ilmane",
+        "nom_ar": "بني يلمان"
+      },
+      {
+        "nom_latin": "Ain El Hadjel",
+        "nom_ar": "عين الحجل"
+      },
+      {
+        "nom_latin": "Sidi Hadjeres",
+        "nom_ar": "سيدي هجرس"
+      },
+      {
+        "nom_latin": "Hammam Dhalaa",
+        "nom_ar": "حمام الضلعة"
+      },
+      {
+        "nom_latin": "Ouanougha",
+        "nom_ar": "ونوغة"
+      },
+      {
+        "nom_latin": "Ouled Mansour",
+        "nom_ar": "أولاد منصور"
+      },
+      {
+        "nom_latin": "Tarmount",
+        "nom_ar": "تارمونت"
+      },
+      {
+        "nom_latin": "Ouled Derradj",
+        "nom_ar": "أولاد دراج"
+      },
+      {
+        "nom_latin": "Souamaa",
+        "nom_ar": "السوامع"
+      },
+      {
+        "nom_latin": "Ouled Addi Guebala",
+        "nom_ar": "أولاد عدي لقبالة"
+      },
+      {
+        "nom_latin": "Maadid",
+        "nom_ar": "المعاضيد"
+      },
+      {
+        "nom_latin": "M’Tarfa",
+        "nom_ar": "امطارفة"
+      }
+    ]
+  },
+  {
+    "code": 29,
+    "code_2": "29",
+    "nom_fr": "Mascara",
+    "nom_ar": "معسكر",
+    "nom_ascii": "Mascara",
+    "communes": [
+      {
+        "nom_latin": "Oued El Abtal",
+        "nom_ar": "وادي الأبطال"
+      },
+      {
+        "nom_latin": "Sidi Abdeldjebar",
+        "nom_ar": "سيدي عبد الجبار"
+      },
+      {
+        "nom_latin": "Ain Ferah",
+        "nom_ar": "عين فراح"
+      },
+      {
+        "nom_latin": "Sidi Abdelmoumene",
+        "nom_ar": "سيدي عبد المومن"
+      },
+      {
+        "nom_latin": "Sedjerara",
+        "nom_ar": "سجرارة"
+      },
+      {
+        "nom_latin": "Mocta-Douz",
+        "nom_ar": "مقطع الدوز"
+      },
+      {
+        "nom_latin": "Ferraguig",
+        "nom_ar": "فراقيق"
+      },
+      {
+        "nom_latin": "El Ghomri",
+        "nom_ar": "الغمري"
+      },
+      {
+        "nom_latin": "Mohammadia",
+        "nom_ar": "المحمدية"
+      },
+      {
+        "nom_latin": "Tighennif",
+        "nom_ar": "تيغنيف"
+      },
+      {
+        "nom_latin": "Sidi Kada",
+        "nom_ar": "سيدي قادة"
+      },
+      {
+        "nom_latin": "Sehailia",
+        "nom_ar": "السهايلية"
+      },
+      {
+        "nom_latin": "Zahana",
+        "nom_ar": "زهانة"
+      },
+      {
+        "nom_latin": "El Gaada",
+        "nom_ar": "القعدة"
+      },
+      {
+        "nom_latin": "Ras El Ain Amirouche",
+        "nom_ar": "رأس عين عميروش"
+      },
+      {
+        "nom_latin": "Oggaz",
+        "nom_ar": "عقاز"
+      },
+      {
+        "nom_latin": "Alaimia",
+        "nom_ar": "العلايمية"
+      },
+      {
+        "nom_latin": "Sig",
+        "nom_ar": "سيق"
+      },
+      {
+        "nom_latin": "Chorfa",
+        "nom_ar": "الشرفاء"
+      },
+      {
+        "nom_latin": "Bou Henni",
+        "nom_ar": "بوهني"
+      },
+      {
+        "nom_latin": "El Mamounia",
+        "nom_ar": "المأمونية"
+      },
+      {
+        "nom_latin": "El Gueitena",
+        "nom_ar": "القطنة"
+      },
+      {
+        "nom_latin": "Bouhanifia",
+        "nom_ar": "بوحنيفية"
+      },
+      {
+        "nom_latin": "Hacine",
+        "nom_ar": "حسين"
+      },
+      {
+        "nom_latin": "Ain Fares",
+        "nom_ar": "عين فارس"
+      },
+      {
+        "nom_latin": "Gharrous",
+        "nom_ar": "غروس"
+      },
+      {
+        "nom_latin": "Benian",
+        "nom_ar": "بنيان"
+      },
+      {
+        "nom_latin": "Aouf",
+        "nom_ar": "عوف"
+      },
+      {
+        "nom_latin": "Guerdjoum",
+        "nom_ar": "قرجوم"
+      },
+      {
+        "nom_latin": "Oued Taria",
+        "nom_ar": "وادي التاغية"
+      },
+      {
+        "nom_latin": "Ain Frass",
+        "nom_ar": "عين أفرص"
+      },
+      {
+        "nom_latin": "Ain Fekan",
+        "nom_ar": "عين فكان"
+      },
+      {
+        "nom_latin": "Khalouia",
+        "nom_ar": "خلوية"
+      },
+      {
+        "nom_latin": "El Menaouer",
+        "nom_ar": "المنور"
+      },
+      {
+        "nom_latin": "El Bordj",
+        "nom_ar": "البرج"
+      },
+      {
+        "nom_latin": "Sidi Boussaid",
+        "nom_ar": "سيدي بوسعيد"
+      },
+      {
+        "nom_latin": "Matemore",
+        "nom_ar": "المطمور"
+      },
+      {
+        "nom_latin": "Makhda",
+        "nom_ar": "ماقضة"
+      },
+      {
+        "nom_latin": "Ghriss",
+        "nom_ar": "غريس"
+      },
+      {
+        "nom_latin": "Maoussa",
+        "nom_ar": "ماوسة"
+      },
+      {
+        "nom_latin": "Mascara",
+        "nom_ar": "معسكر"
+      },
+      {
+        "nom_latin": "El Keurt",
+        "nom_ar": "القرط"
+      },
+      {
+        "nom_latin": "Froha",
+        "nom_ar": "فروحة"
+      },
+      {
+        "nom_latin": "Tizi",
+        "nom_ar": "تيزي"
+      },
+      {
+        "nom_latin": "El Hachem",
+        "nom_ar": "الحشم"
+      },
+      {
+        "nom_latin": "Nesmot",
+        "nom_ar": "نسمط"
+      },
+      {
+        "nom_latin": "Zelamta",
+        "nom_ar": "زلامطة"
+      }
+    ]
+  },
+  {
+    "code": 30,
+    "code_2": "30",
+    "nom_fr": "Ouargla",
+    "nom_ar": "ورقلة",
+    "nom_ascii": "Ouargla",
+    "communes": [
+      {
+        "nom_latin": "Ouargla",
+        "nom_ar": "ورقلة"
+      },
+      {
+        "nom_latin": "Rouissat",
+        "nom_ar": "الرويسات"
+      },
+      {
+        "nom_latin": "Hassi Messaoud",
+        "nom_ar": "حاسي مسعود"
+      },
+      {
+        "nom_latin": "Ain Beida",
+        "nom_ar": "عين البيضاء"
+      },
+      {
+        "nom_latin": "Hassi Ben Abdellah",
+        "nom_ar": "حاسي بن عبد الله"
+      },
+      {
+        "nom_latin": "Sidi Khouiled",
+        "nom_ar": "سيدي خويلد"
+      },
+      {
+        "nom_latin": "El Borma",
+        "nom_ar": "البرمة"
+      },
+      {
+        "nom_latin": "N'goussa",
+        "nom_ar": "انقوسة"
+      }
+    ]
+  },
+  {
+    "code": 31,
+    "code_2": "31",
+    "nom_fr": "Oran",
+    "nom_ar": "وهران",
+    "nom_ascii": "Oran",
+    "communes": [
+      {
+        "nom_latin": "Sidi Chami",
+        "nom_ar": "سيدي الشحمي"
+      },
+      {
+        "nom_latin": "El Kerma",
+        "nom_ar": "الكرمة"
+      },
+      {
+        "nom_latin": "Es Senia",
+        "nom_ar": "السانية"
+      },
+      {
+        "nom_latin": "Hassi Mefsoukh",
+        "nom_ar": "حاسي مفسوخ"
+      },
+      {
+        "nom_latin": "Gdyel",
+        "nom_ar": "قديل"
+      },
+      {
+        "nom_latin": "Ben Freha",
+        "nom_ar": "بن فريحة"
+      },
+      {
+        "nom_latin": "Bir El Djir",
+        "nom_ar": "بئر الجير"
+      },
+      {
+        "nom_latin": "Hassi Ben Okba",
+        "nom_ar": "حاسي بن عقبة"
+      },
+      {
+        "nom_latin": "Hassi Bounif",
+        "nom_ar": "حاسي بونيف"
+      },
+      {
+        "nom_latin": "Arzew",
+        "nom_ar": "أرزيو"
+      },
+      {
+        "nom_latin": "Sidi Ben Yebka",
+        "nom_ar": "سيدي بن يبقى"
+      },
+      {
+        "nom_latin": "Ain Biya",
+        "nom_ar": "عين البية"
+      },
+      {
+        "nom_latin": "Bethioua",
+        "nom_ar": "بطيوة"
+      },
+      {
+        "nom_latin": "Marsat El Hadjadj",
+        "nom_ar": "مرسى الحجاج"
+      },
+      {
+        "nom_latin": "Ain Turk",
+        "nom_ar": "عين الترك"
+      },
+      {
+        "nom_latin": "Oran",
+        "nom_ar": "وهران"
+      },
+      {
+        "nom_latin": "El Ancor",
+        "nom_ar": "العنصر"
+      },
+      {
+        "nom_latin": "Mers El Kebir",
+        "nom_ar": "المرسى الكبير"
+      },
+      {
+        "nom_latin": "Bousfer",
+        "nom_ar": "بوسفر"
+      },
+      {
+        "nom_latin": "Boufatis",
+        "nom_ar": "بوفاتيس"
+      },
+      {
+        "nom_latin": "El Braya",
+        "nom_ar": "البراية"
+      },
+      {
+        "nom_latin": "Oued Tlelat",
+        "nom_ar": "وادي تليلات"
+      },
+      {
+        "nom_latin": "Tafraoui",
+        "nom_ar": "طفراوي"
+      },
+      {
+        "nom_latin": "Ain Kerma",
+        "nom_ar": "عين الكرمة"
+      },
+      {
+        "nom_latin": "Boutlelis",
+        "nom_ar": "بوتليليس"
+      },
+      {
+        "nom_latin": "Messerghin",
+        "nom_ar": "مسرغين"
+      }
+    ]
+  },
+  {
+    "code": 32,
+    "code_2": "32",
+    "nom_fr": "El Bayadh",
+    "nom_ar": "البيض",
+    "nom_ascii": "El Bayadh",
+    "communes": [
+      {
+        "nom_latin": "El Bayadh",
+        "nom_ar": "البيض"
+      },
+      {
+        "nom_latin": "Rogassa",
+        "nom_ar": "رقاصة"
+      },
+      {
+        "nom_latin": "Cheguig",
+        "nom_ar": "الشقيق"
+      },
+      {
+        "nom_latin": "Kef El Ahmar",
+        "nom_ar": "الكاف الأحمر"
+      },
+      {
+        "nom_latin": "Brezina",
+        "nom_ar": "بريزينة"
+      },
+      {
+        "nom_latin": "Ghassoul",
+        "nom_ar": "غسول"
+      },
+      {
+        "nom_latin": "Krakda",
+        "nom_ar": "كراكدة"
+      },
+      {
+        "nom_latin": "Bougtob",
+        "nom_ar": "بوقطب"
+      },
+      {
+        "nom_latin": "El Kheither",
+        "nom_ar": "الخيثر"
+      },
+      {
+        "nom_latin": "Tousmouline",
+        "nom_ar": "توسمولين"
+      },
+      {
+        "nom_latin": "Boualem",
+        "nom_ar": "بوعلام"
+      },
+      {
+        "nom_latin": "Sidi Slimane",
+        "nom_ar": "سيدي سليمان"
+      },
+      {
+        "nom_latin": "Sidi Tifour",
+        "nom_ar": "سيدي طيفور"
+      },
+      {
+        "nom_latin": "Stitten",
+        "nom_ar": "ستيتن"
+      },
+      {
+        "nom_latin": "Sidi Amar",
+        "nom_ar": "سيدي عامر"
+      }
+    ]
+  },
+  {
+    "code": 33,
+    "code_2": "33",
+    "nom_fr": "Illizi",
+    "nom_ar": "إليزي",
+    "nom_ascii": "Illizi",
+    "communes": [
+      {
+        "nom_latin": "Bordj Omar Driss",
+        "nom_ar": "برج عمر إدريس"
+      },
+      {
+        "nom_latin": "Debdeb",
+        "nom_ar": "دبداب"
+      },
+      {
+        "nom_latin": "In Amenas",
+        "nom_ar": "إن أمناس"
+      },
+      {
+        "nom_latin": "Illizi",
+        "nom_ar": "إيليزي"
+      }
+    ]
+  },
+  {
+    "code": 34,
+    "code_2": "34",
+    "nom_fr": "Bordj Bou Arreridj",
+    "nom_ar": "برج بوعريريج",
+    "nom_ascii": "Bordj Bou Arreridj",
+    "communes": [
+      {
+        "nom_latin": "Elhammadia",
+        "nom_ar": "الحمادية"
+      },
+      {
+        "nom_latin": "El Euch",
+        "nom_ar": "العش"
+      },
+      {
+        "nom_latin": "Ksour",
+        "nom_ar": "القصور"
+      },
+      {
+        "nom_latin": "Rabta",
+        "nom_ar": "الرابطة"
+      },
+      {
+        "nom_latin": "Ouled Sidi-Brahim",
+        "nom_ar": "أولاد سيدي ابراهيم"
+      },
+      {
+        "nom_latin": "Ain Taghrout",
+        "nom_ar": "عين تاغروت"
+      },
+      {
+        "nom_latin": "Tixter",
+        "nom_ar": "تيكستار"
+      },
+      {
+        "nom_latin": "Belimour",
+        "nom_ar": "بليمور"
+      },
+      {
+        "nom_latin": "El Annasseur",
+        "nom_ar": "العناصر"
+      },
+      {
+        "nom_latin": "Ghailasa",
+        "nom_ar": "غيلاسة"
+      },
+      {
+        "nom_latin": "Taglait",
+        "nom_ar": "تقلعيت"
+      },
+      {
+        "nom_latin": "Bordj Ghedir",
+        "nom_ar": "برج الغدير"
+      },
+      {
+        "nom_latin": "Sidi-Embarek",
+        "nom_ar": "سيدي أمبارك"
+      },
+      {
+        "nom_latin": "Khelil",
+        "nom_ar": "خليل"
+      },
+      {
+        "nom_latin": "Bir Kasdali",
+        "nom_ar": "بئر قاصد علي"
+      },
+      {
+        "nom_latin": "Tefreg",
+        "nom_ar": "تفرق"
+      },
+      {
+        "nom_latin": "El Main",
+        "nom_ar": "الماين"
+      },
+      {
+        "nom_latin": "Djaafra",
+        "nom_ar": "جعافرة"
+      },
+      {
+        "nom_latin": "Colla",
+        "nom_ar": "القلة"
+      },
+      {
+        "nom_latin": "Teniet En Nasr",
+        "nom_ar": "ثنية النصر"
+      },
+      {
+        "nom_latin": "El Achir",
+        "nom_ar": "الياشير"
+      },
+      {
+        "nom_latin": "Hasnaoua",
+        "nom_ar": "حسناوة"
+      },
+      {
+        "nom_latin": "Medjana",
+        "nom_ar": "مجانة"
+      },
+      {
+        "nom_latin": "El M'hir",
+        "nom_ar": "المهير"
+      },
+      {
+        "nom_latin": "Mansoura",
+        "nom_ar": "المنصورة"
+      },
+      {
+        "nom_latin": "Haraza",
+        "nom_ar": "حرازة"
+      },
+      {
+        "nom_latin": "Ben Daoud",
+        "nom_ar": "بن داود"
+      },
+      {
+        "nom_latin": "Ain Tesra",
+        "nom_ar": "عين تسرة"
+      },
+      {
+        "nom_latin": "Ouled Brahem",
+        "nom_ar": "أولاد أبراهم"
+      },
+      {
+        "nom_latin": "Ras El Oued",
+        "nom_ar": "رأس الوادي"
+      },
+      {
+        "nom_latin": "Bordj Zemmoura",
+        "nom_ar": "برج زمورة"
+      },
+      {
+        "nom_latin": "Ouled Dahmane",
+        "nom_ar": "أولاد دحمان"
+      },
+      {
+        "nom_latin": "Tassamert",
+        "nom_ar": "تسامرت"
+      },
+      {
+        "nom_latin": "B. B. Arreridj",
+        "nom_ar": "برج بوعريرج"
+      }
+    ]
+  },
+  {
+    "code": 35,
+    "code_2": "35",
+    "nom_fr": "Boumerdès",
+    "nom_ar": "بومرداس",
+    "nom_ascii": "Boumerdes",
+    "communes": [
+      {
+        "nom_latin": "El Kharrouba",
+        "nom_ar": "الخروبة"
+      },
+      {
+        "nom_latin": "Bouzegza Keddara",
+        "nom_ar": "بوزقزة قدارة"
+      },
+      {
+        "nom_latin": "Ouled Hedadj",
+        "nom_ar": "أولاد هداج"
+      },
+      {
+        "nom_latin": "Boudouaou",
+        "nom_ar": "بودواو"
+      },
+      {
+        "nom_latin": "Boudouaou El Bahri",
+        "nom_ar": "بودواو البحري"
+      },
+      {
+        "nom_latin": "Dellys",
+        "nom_ar": "دلس"
+      },
+      {
+        "nom_latin": "Ben Choud",
+        "nom_ar": "بن شود"
+      },
+      {
+        "nom_latin": "Afir",
+        "nom_ar": "أعفير"
+      },
+      {
+        "nom_latin": "Thenia",
+        "nom_ar": "الثنية"
+      },
+      {
+        "nom_latin": "Beni Amrane",
+        "nom_ar": "بني عمران"
+      },
+      {
+        "nom_latin": "Ammal",
+        "nom_ar": "عمال"
+      },
+      {
+        "nom_latin": "Souk El Had",
+        "nom_ar": "سوق الحد"
+      },
+      {
+        "nom_latin": "Khemis El Khechna",
+        "nom_ar": "خميس الخشنة"
+      },
+      {
+        "nom_latin": "Larbatache",
+        "nom_ar": "الاربعطاش"
+      },
+      {
+        "nom_latin": "Ouled Moussa",
+        "nom_ar": "أولاد موسى"
+      },
+      {
+        "nom_latin": "Hammedi",
+        "nom_ar": "حمادي"
+      },
+      {
+        "nom_latin": "Timezrit",
+        "nom_ar": "تيمزريت"
+      },
+      {
+        "nom_latin": "Zemmouri",
+        "nom_ar": "زموري"
+      },
+      {
+        "nom_latin": "Leghata",
+        "nom_ar": "لقاطة"
+      },
+      {
+        "nom_latin": "Djinet",
+        "nom_ar": "جنات"
+      },
+      {
+        "nom_latin": "Bordj Menaiel",
+        "nom_ar": "برج منايل"
+      },
+      {
+        "nom_latin": "Isser",
+        "nom_ar": "يسر"
+      },
+      {
+        "nom_latin": "Chabet El Ameur",
+        "nom_ar": "شعبة العامر"
+      },
+      {
+        "nom_latin": "Si Mustapha",
+        "nom_ar": "سي مصطفى"
+      },
+      {
+        "nom_latin": "Ouled Aissa",
+        "nom_ar": "أولاد عيسى"
+      },
+      {
+        "nom_latin": "Naciria",
+        "nom_ar": "الناصرية"
+      },
+      {
+        "nom_latin": "Sidi Daoud",
+        "nom_ar": "سيدي داود"
+      },
+      {
+        "nom_latin": "Baghlia",
+        "nom_ar": "بغلية"
+      },
+      {
+        "nom_latin": "Taourga",
+        "nom_ar": "تاورقة"
+      },
+      {
+        "nom_latin": "Tidjelabine",
+        "nom_ar": "تيجلابين"
+      },
+      {
+        "nom_latin": "Boumerdes",
+        "nom_ar": "بومرداس"
+      },
+      {
+        "nom_latin": "Corso",
+        "nom_ar": "قورصو"
+      }
+    ]
+  },
+  {
+    "code": 36,
+    "code_2": "36",
+    "nom_fr": "El Tarf",
+    "nom_ar": "الطارف",
+    "nom_ascii": "El Tarf",
+    "communes": [
+      {
+        "nom_latin": "Ain El Assel",
+        "nom_ar": "عين العسل"
+      },
+      {
+        "nom_latin": "Bougous",
+        "nom_ar": "بوقوس"
+      },
+      {
+        "nom_latin": "El Tarf",
+        "nom_ar": "الطارف"
+      },
+      {
+        "nom_latin": "Zitouna",
+        "nom_ar": "الزيتونة"
+      },
+      {
+        "nom_latin": "Besbes",
+        "nom_ar": "البسباس"
+      },
+      {
+        "nom_latin": "Zerizer",
+        "nom_ar": "زريزر"
+      },
+      {
+        "nom_latin": "Asfour",
+        "nom_ar": "عصفور"
+      },
+      {
+        "nom_latin": "Ain Kerma",
+        "nom_ar": "عين الكرمة"
+      },
+      {
+        "nom_latin": "Bouhadjar",
+        "nom_ar": "بوحجار"
+      },
+      {
+        "nom_latin": "Hammam Beni Salah",
+        "nom_ar": "حمام بني صالح"
+      },
+      {
+        "nom_latin": "Oued Zitoun",
+        "nom_ar": "وادي الزيتون"
+      },
+      {
+        "nom_latin": "Ben M Hidi",
+        "nom_ar": "بن مهيدي"
+      },
+      {
+        "nom_latin": "Berrihane",
+        "nom_ar": "بريحان"
+      },
+      {
+        "nom_latin": "Echatt",
+        "nom_ar": "الشط"
+      },
+      {
+        "nom_latin": "Chebaita Mokhtar",
+        "nom_ar": "شبيطة مختار"
+      },
+      {
+        "nom_latin": "Chihani",
+        "nom_ar": "شحاني"
+      },
+      {
+        "nom_latin": "Drean",
+        "nom_ar": "الذرعـان"
+      },
+      {
+        "nom_latin": "El Aioun",
+        "nom_ar": "العيون"
+      },
+      {
+        "nom_latin": "El Kala",
+        "nom_ar": "القالة"
+      },
+      {
+        "nom_latin": "Souarekh",
+        "nom_ar": "السوارخ"
+      },
+      {
+        "nom_latin": "Raml Souk",
+        "nom_ar": "رمل السوق"
+      },
+      {
+        "nom_latin": "Bouteldja",
+        "nom_ar": "بوثلجة"
+      },
+      {
+        "nom_latin": "Chefia",
+        "nom_ar": "الشافية"
+      },
+      {
+        "nom_latin": "Lac Des Oiseaux",
+        "nom_ar": "بحيرة الطيور"
+      }
+    ]
+  },
+  {
+    "code": 37,
+    "code_2": "37",
+    "nom_fr": "Tindouf",
+    "nom_ar": "تندوف",
+    "nom_ascii": "Tindouf",
+    "communes": [
+      {
+        "nom_latin": "Tindouf",
+        "nom_ar": "تندوف"
+      },
+      {
+        "nom_latin": "Oum El Assel",
+        "nom_ar": "أم العسل"
+      }
+    ]
+  },
+  {
+    "code": 38,
+    "code_2": "38",
+    "nom_fr": "Tissemsilt",
+    "nom_ar": "تسمسيلت",
+    "nom_ascii": "Tissemsilt",
+    "communes": [
+      {
+        "nom_latin": "Khemisti",
+        "nom_ar": "خميستي"
+      },
+      {
+        "nom_latin": "Layoune",
+        "nom_ar": "العيون"
+      },
+      {
+        "nom_latin": "Theniet El Had",
+        "nom_ar": "ثنية الاحد"
+      },
+      {
+        "nom_latin": "Sidi Boutouchent",
+        "nom_ar": "سيدي بوتوشنت"
+      },
+      {
+        "nom_latin": "Ouled Bessam",
+        "nom_ar": "أولاد بسام"
+      },
+      {
+        "nom_latin": "Tissemsilt",
+        "nom_ar": "تيسمسيلت"
+      },
+      {
+        "nom_latin": "Sidi Lantri",
+        "nom_ar": "سيدي العنتري"
+      },
+      {
+        "nom_latin": "Lardjem",
+        "nom_ar": "لرجام"
+      },
+      {
+        "nom_latin": "Melaab",
+        "nom_ar": "الملعب"
+      },
+      {
+        "nom_latin": "Tamellahet",
+        "nom_ar": "تملاحت"
+      },
+      {
+        "nom_latin": "Beni Chaib",
+        "nom_ar": "بني شعيب"
+      },
+      {
+        "nom_latin": "Beni Lahcene",
+        "nom_ar": "بني لحسن"
+      },
+      {
+        "nom_latin": "Bordj Bounaama",
+        "nom_ar": "برج بونعامة"
+      },
+      {
+        "nom_latin": "Sidi Abed",
+        "nom_ar": "سيدي عابد"
+      },
+      {
+        "nom_latin": "Ammari",
+        "nom_ar": "عماري"
+      },
+      {
+        "nom_latin": "Maacem",
+        "nom_ar": "المعاصم"
+      },
+      {
+        "nom_latin": "Sidi Slimane",
+        "nom_ar": "سيدي سليمان"
+      },
+      {
+        "nom_latin": "Boucaid",
+        "nom_ar": "بوقائد"
+      },
+      {
+        "nom_latin": "Lazharia",
+        "nom_ar": "الأزهرية"
+      },
+      {
+        "nom_latin": "Larbaa",
+        "nom_ar": "الأربعاء"
+      },
+      {
+        "nom_latin": "Youssoufia",
+        "nom_ar": "اليوسفية"
+      },
+      {
+        "nom_latin": "Bordj El Emir Abdelkader",
+        "nom_ar": "برج الأمير عبد القادر"
+      }
+    ]
+  },
+  {
+    "code": 39,
+    "code_2": "39",
+    "nom_fr": "El Oued",
+    "nom_ar": "الوادي",
+    "nom_ascii": "El Oued",
+    "communes": [
+      {
+        "nom_latin": "Douar El Maa",
+        "nom_ar": "دوار الماء"
+      },
+      {
+        "nom_latin": "Ben Guecha",
+        "nom_ar": "بن  قشة"
+      },
+      {
+        "nom_latin": "Taleb Larbi",
+        "nom_ar": "الطالب العربي"
+      },
+      {
+        "nom_latin": "El Ogla",
+        "nom_ar": "العقلة"
+      },
+      {
+        "nom_latin": "Magrane",
+        "nom_ar": "المقرن"
+      },
+      {
+        "nom_latin": "Sidi Aoun",
+        "nom_ar": "سيدي عون"
+      },
+      {
+        "nom_latin": "Mih Ouansa",
+        "nom_ar": "اميه وانسة"
+      },
+      {
+        "nom_latin": "Oued El Alenda",
+        "nom_ar": "وادي العلندة"
+      },
+      {
+        "nom_latin": "Kouinine",
+        "nom_ar": "كوينين"
+      },
+      {
+        "nom_latin": "El-Oued",
+        "nom_ar": "الوادي"
+      },
+      {
+        "nom_latin": "Bayadha",
+        "nom_ar": "البياضة"
+      },
+      {
+        "nom_latin": "Nakhla",
+        "nom_ar": "النخلة"
+      },
+      {
+        "nom_latin": "Robbah",
+        "nom_ar": "الرباح"
+      },
+      {
+        "nom_latin": "Guemar",
+        "nom_ar": "قمار"
+      },
+      {
+        "nom_latin": "Ourmes",
+        "nom_ar": "ورماس"
+      },
+      {
+        "nom_latin": "Taghzout",
+        "nom_ar": "تغزوت"
+      },
+      {
+        "nom_latin": "Hamraia",
+        "nom_ar": "الحمراية"
+      },
+      {
+        "nom_latin": "Reguiba",
+        "nom_ar": "الرقيبة"
+      },
+      {
+        "nom_latin": "Debila",
+        "nom_ar": "الدبيلة"
+      },
+      {
+        "nom_latin": "Hassani Abdelkrim",
+        "nom_ar": "حساني عبد الكريم"
+      },
+      {
+        "nom_latin": "Hassi Khalifa",
+        "nom_ar": "حاسي خليفة"
+      },
+      {
+        "nom_latin": "Trifaoui",
+        "nom_ar": "الطريفاوي"
+      }
+    ]
+  },
+  {
+    "code": 40,
+    "code_2": "40",
+    "nom_fr": "Khenchela",
+    "nom_ar": "خنشلة",
+    "nom_ascii": "Khenchela",
+    "communes": [
+      {
+        "nom_latin": "Khirane",
+        "nom_ar": "خيران"
+      },
+      {
+        "nom_latin": "Djellal",
+        "nom_ar": "جلال"
+      },
+      {
+        "nom_latin": "El Oueldja",
+        "nom_ar": "الولجة"
+      },
+      {
+        "nom_latin": "Chechar",
+        "nom_ar": "ششار"
+      },
+      {
+        "nom_latin": "Babar",
+        "nom_ar": "بابار"
+      },
+      {
+        "nom_latin": "El Mahmal",
+        "nom_ar": "المحمل"
+      },
+      {
+        "nom_latin": "Ouled Rechache",
+        "nom_ar": "أولاد رشاش"
+      },
+      {
+        "nom_latin": "Yabous",
+        "nom_ar": "يابوس"
+      },
+      {
+        "nom_latin": "Chelia",
+        "nom_ar": "شلية"
+      },
+      {
+        "nom_latin": "Bouhmama",
+        "nom_ar": "بوحمامة"
+      },
+      {
+        "nom_latin": "M'sara",
+        "nom_ar": "مصارة"
+      },
+      {
+        "nom_latin": "Khenchela",
+        "nom_ar": "خنشلة"
+      },
+      {
+        "nom_latin": "Kais",
+        "nom_ar": "قايس"
+      },
+      {
+        "nom_latin": "Remila",
+        "nom_ar": "الرميلة"
+      },
+      {
+        "nom_latin": "Taouzianat",
+        "nom_ar": "تاوزيانت"
+      },
+      {
+        "nom_latin": "Baghai",
+        "nom_ar": "بغاي"
+      },
+      {
+        "nom_latin": "El Hamma",
+        "nom_ar": "الحامة"
+      },
+      {
+        "nom_latin": "Ensigha",
+        "nom_ar": "انسيغة"
+      },
+      {
+        "nom_latin": "Tamza",
+        "nom_ar": "طامزة"
+      },
+      {
+        "nom_latin": "Ain Touila",
+        "nom_ar": "عين الطويلة"
+      },
+      {
+        "nom_latin": "M'toussa",
+        "nom_ar": "متوسة"
+      }
+    ]
+  },
+  {
+    "code": 41,
+    "code_2": "41",
+    "nom_fr": "Souk Ahras",
+    "nom_ar": "سوق أهراس",
+    "nom_ascii": "Souk Ahras",
+    "communes": [
+      {
+        "nom_latin": "Souk Ahras",
+        "nom_ar": "سوق أهراس"
+      },
+      {
+        "nom_latin": "Ain Soltane",
+        "nom_ar": "عين سلطان"
+      },
+      {
+        "nom_latin": "Sedrata",
+        "nom_ar": "سدراتة"
+      },
+      {
+        "nom_latin": "Khemissa",
+        "nom_ar": "خميسة"
+      },
+      {
+        "nom_latin": "Hanencha",
+        "nom_ar": "الحنانشة"
+      },
+      {
+        "nom_latin": "Machroha",
+        "nom_ar": "المشروحة"
+      },
+      {
+        "nom_latin": "Ain Zana",
+        "nom_ar": "عين الزانة"
+      },
+      {
+        "nom_latin": "Ouled Driss",
+        "nom_ar": "أولاد إدريس"
+      },
+      {
+        "nom_latin": "Terraguelt",
+        "nom_ar": "ترقالت"
+      },
+      {
+        "nom_latin": "Oum El Adhaim",
+        "nom_ar": "أم العظايم"
+      },
+      {
+        "nom_latin": "Oued Kebrit",
+        "nom_ar": "وادي الكبريت"
+      },
+      {
+        "nom_latin": "Tiffech",
+        "nom_ar": "تيفاش"
+      },
+      {
+        "nom_latin": "Ragouba",
+        "nom_ar": "الراقوبة"
+      },
+      {
+        "nom_latin": "M'daourouche",
+        "nom_ar": "مداوروش"
+      },
+      {
+        "nom_latin": "Drea",
+        "nom_ar": "الدريعة"
+      },
+      {
+        "nom_latin": "Taoura",
+        "nom_ar": "تاورة"
+      },
+      {
+        "nom_latin": "Zaarouria",
+        "nom_ar": "الزعرورية"
+      },
+      {
+        "nom_latin": "Haddada",
+        "nom_ar": "الحدادة"
+      },
+      {
+        "nom_latin": "Khedara",
+        "nom_ar": "الخضارة"
+      },
+      {
+        "nom_latin": "Ouled Moumen",
+        "nom_ar": "أولاد مومن"
+      },
+      {
+        "nom_latin": "Merahna",
+        "nom_ar": "المراهنة"
+      },
+      {
+        "nom_latin": "Ouillen",
+        "nom_ar": "ويلان"
+      },
+      {
+        "nom_latin": "Sidi Fredj",
+        "nom_ar": "سيدي فرج"
+      },
+      {
+        "nom_latin": "Bir Bouhouche",
+        "nom_ar": "بئر بوحوش"
+      },
+      {
+        "nom_latin": "Safel El Ouiden",
+        "nom_ar": "سافل الويدان"
+      },
+      {
+        "nom_latin": "Zouabi",
+        "nom_ar": "الزوابي"
+      }
+    ]
+  },
+  {
+    "code": 42,
+    "code_2": "42",
+    "nom_fr": "Tipaza",
+    "nom_ar": "تيبازة",
+    "nom_ascii": "Tipaza",
+    "communes": [
+      {
+        "nom_latin": "Hadjout",
+        "nom_ar": "حجوط"
+      },
+      {
+        "nom_latin": "Merad",
+        "nom_ar": "مراد"
+      },
+      {
+        "nom_latin": "Menaceur",
+        "nom_ar": "مناصر"
+      },
+      {
+        "nom_latin": "Nador",
+        "nom_ar": "الناظور"
+      },
+      {
+        "nom_latin": "Sidi-Amar",
+        "nom_ar": "سيدي عامر"
+      },
+      {
+        "nom_latin": "Aghbal",
+        "nom_ar": "أغبال"
+      },
+      {
+        "nom_latin": "Gouraya",
+        "nom_ar": "قوراية"
+      },
+      {
+        "nom_latin": "Messelmoun",
+        "nom_ar": "مسلمون"
+      },
+      {
+        "nom_latin": "Cherchell",
+        "nom_ar": "شرشال"
+      },
+      {
+        "nom_latin": "Hadjret Ennous",
+        "nom_ar": "حجرة النص"
+      },
+      {
+        "nom_latin": "Sidi Ghiles",
+        "nom_ar": "سيدي غيلاس"
+      },
+      {
+        "nom_latin": "Sidi Semiane",
+        "nom_ar": "سيدي سميان"
+      },
+      {
+        "nom_latin": "Damous",
+        "nom_ar": "الداموس"
+      },
+      {
+        "nom_latin": "Larhat",
+        "nom_ar": "الأرهاط"
+      },
+      {
+        "nom_latin": "Beni Mileuk",
+        "nom_ar": "بني ميلك"
+      },
+      {
+        "nom_latin": "Fouka",
+        "nom_ar": "فوكة"
+      },
+      {
+        "nom_latin": "Douaouda",
+        "nom_ar": "دواودة"
+      },
+      {
+        "nom_latin": "Ain Tagourait",
+        "nom_ar": "عين تاقورايت"
+      },
+      {
+        "nom_latin": "Bou Haroun",
+        "nom_ar": "بوهارون"
+      },
+      {
+        "nom_latin": "Bou Ismail",
+        "nom_ar": "بواسماعيل"
+      },
+      {
+        "nom_latin": "Khemisti",
+        "nom_ar": "خميستي"
+      },
+      {
+        "nom_latin": "Ahmer El Ain",
+        "nom_ar": "أحمر العين"
+      },
+      {
+        "nom_latin": "Bourkika",
+        "nom_ar": "بورقيقة"
+      },
+      {
+        "nom_latin": "Sidi Rached",
+        "nom_ar": "سيدي راشد"
+      },
+      {
+        "nom_latin": "Attatba",
+        "nom_ar": "الحطاطبة"
+      },
+      {
+        "nom_latin": "Chaiba",
+        "nom_ar": "الشعيبة"
+      },
+      {
+        "nom_latin": "Kolea",
+        "nom_ar": "القليعة"
+      },
+      {
+        "nom_latin": "Tipaza",
+        "nom_ar": "تيبازة"
+      }
+    ]
+  },
+  {
+    "code": 43,
+    "code_2": "43",
+    "nom_fr": "Mila",
+    "nom_ar": "ميلة",
+    "nom_ascii": "Mila",
+    "communes": [
+      {
+        "nom_latin": "El Mechira",
+        "nom_ar": "مشيرة"
+      },
+      {
+        "nom_latin": "Teleghma",
+        "nom_ar": "التلاغمة"
+      },
+      {
+        "nom_latin": "Oued Seguen",
+        "nom_ar": "وادي سقان"
+      },
+      {
+        "nom_latin": "El Ayadi Barbes",
+        "nom_ar": "العياضي برباس"
+      },
+      {
+        "nom_latin": "Ain Beida Harriche",
+        "nom_ar": " عين البيضاء أحريش"
+      },
+      {
+        "nom_latin": "Tassala Lematai",
+        "nom_ar": "تسالة لمطاعي"
+      },
+      {
+        "nom_latin": "Terrai Bainen",
+        "nom_ar": "ترعي باينان"
+      },
+      {
+        "nom_latin": "Amira Arres",
+        "nom_ar": "اعميرة اراس"
+      },
+      {
+        "nom_latin": "Tassadane Haddada",
+        "nom_ar": "تسدان حدادة"
+      },
+      {
+        "nom_latin": "Minar Zarza",
+        "nom_ar": "مينار زارزة"
+      },
+      {
+        "nom_latin": "Sidi Merouane",
+        "nom_ar": "سيدي مروان"
+      },
+      {
+        "nom_latin": "Chigara",
+        "nom_ar": "الشيقارة"
+      },
+      {
+        "nom_latin": "Hamala",
+        "nom_ar": "حمالة"
+      },
+      {
+        "nom_latin": "Grarem Gouga",
+        "nom_ar": "القرارم قوقة"
+      },
+      {
+        "nom_latin": "Tiberguent",
+        "nom_ar": "تيبرقنت"
+      },
+      {
+        "nom_latin": "Rouached",
+        "nom_ar": "الرواشد"
+      },
+      {
+        "nom_latin": "Derrahi Bousselah",
+        "nom_ar": "دراحي بوصلاح"
+      },
+      {
+        "nom_latin": "Bouhatem",
+        "nom_ar": "بوحاتم"
+      },
+      {
+        "nom_latin": "Zeghaia",
+        "nom_ar": "زغاية"
+      },
+      {
+        "nom_latin": "Oued Endja",
+        "nom_ar": "وادي النجاء"
+      },
+      {
+        "nom_latin": "Ahmed Rachedi",
+        "nom_ar": "أحمد راشدي"
+      },
+      {
+        "nom_latin": "Tadjenanet",
+        "nom_ar": "تاجنانت"
+      },
+      {
+        "nom_latin": "Ouled Khalouf",
+        "nom_ar": "أولاد اخلوف"
+      },
+      {
+        "nom_latin": "Benyahia Abderrahmane",
+        "nom_ar": "بن يحي عبد الرحمن"
+      },
+      {
+        "nom_latin": "Ain Mellouk",
+        "nom_ar": "عين الملوك"
+      },
+      {
+        "nom_latin": "Oued Athmenia",
+        "nom_ar": "وادي العثمانية"
+      },
+      {
+        "nom_latin": "Chelghoum Laid",
+        "nom_ar": "شلغوم العيد"
+      },
+      {
+        "nom_latin": "Ain Tine",
+        "nom_ar": "عين التين"
+      },
+      {
+        "nom_latin": "Sidi Khelifa",
+        "nom_ar": "سيدي خليفة"
+      },
+      {
+        "nom_latin": "Mila",
+        "nom_ar": "ميلة"
+      },
+      {
+        "nom_latin": "Yahia Beniguecha",
+        "nom_ar": "يحي بني قشة"
+      },
+      {
+        "nom_latin": "Ferdjioua",
+        "nom_ar": "فرجيوة"
+      }
+    ]
+  },
+  {
+    "code": 44,
+    "code_2": "44",
+    "nom_fr": "Aïn Defla",
+    "nom_ar": "عين الدفلى",
+    "nom_ascii": "Ain Defla",
+    "communes": [
+      {
+        "nom_latin": "Khemis-Miliana",
+        "nom_ar": "خميس مليانة"
+      },
+      {
+        "nom_latin": "Sidi-Lakhdar",
+        "nom_ar": "سيدي الأخضر"
+      },
+      {
+        "nom_latin": "Ain-Benian",
+        "nom_ar": "عين البنيان"
+      },
+      {
+        "nom_latin": "Ain-Torki",
+        "nom_ar": "عين التركي"
+      },
+      {
+        "nom_latin": "Hammam-Righa",
+        "nom_ar": "حمام ريغة"
+      },
+      {
+        "nom_latin": "Bourached",
+        "nom_ar": "بوراشد"
+      },
+      {
+        "nom_latin": "Djelida",
+        "nom_ar": "جليدة"
+      },
+      {
+        "nom_latin": "Djemaa Ouled Cheikh",
+        "nom_ar": "جمعة أولاد الشيخ"
+      },
+      {
+        "nom_latin": "Hoceinia",
+        "nom_ar": "الحسينية"
+      },
+      {
+        "nom_latin": "Boumedfaa",
+        "nom_ar": "بومدفع"
+      },
+      {
+        "nom_latin": "Arib",
+        "nom_ar": "عريب"
+      },
+      {
+        "nom_latin": "El-Amra",
+        "nom_ar": "العامرة"
+      },
+      {
+        "nom_latin": "Mekhatria",
+        "nom_ar": "المخاطرية"
+      },
+      {
+        "nom_latin": "El-Attaf",
+        "nom_ar": "العطاف"
+      },
+      {
+        "nom_latin": "Tiberkanine",
+        "nom_ar": "تبركانين"
+      },
+      {
+        "nom_latin": "Ain-Bouyahia",
+        "nom_ar": "عين بويحيى"
+      },
+      {
+        "nom_latin": "El-Abadia",
+        "nom_ar": "العبادية"
+      },
+      {
+        "nom_latin": "Tacheta Zegagha",
+        "nom_ar": "تاشتة زقاغة"
+      },
+      {
+        "nom_latin": "Birbouche",
+        "nom_ar": "بربوش"
+      },
+      {
+        "nom_latin": "Djendel",
+        "nom_ar": "جندل"
+      },
+      {
+        "nom_latin": "Oued Chorfa",
+        "nom_ar": "وادي الشرفاء"
+      },
+      {
+        "nom_latin": "Ben Allal",
+        "nom_ar": "بن علال"
+      },
+      {
+        "nom_latin": "Miliana",
+        "nom_ar": "مليانة"
+      },
+      {
+        "nom_latin": "Ain-Lechiakh",
+        "nom_ar": "عين الاشياخ"
+      },
+      {
+        "nom_latin": "Oued Djemaa",
+        "nom_ar": "واد الجمعة"
+      },
+      {
+        "nom_latin": "Ain-Soltane",
+        "nom_ar": "عين السلطان"
+      },
+      {
+        "nom_latin": "El-Maine",
+        "nom_ar": "الماين"
+      },
+      {
+        "nom_latin": "Rouina",
+        "nom_ar": "الروينة"
+      },
+      {
+        "nom_latin": "Zeddine",
+        "nom_ar": "زدين"
+      },
+      {
+        "nom_latin": "Bir-Ould-Khelifa",
+        "nom_ar": "بئر ولد خليفة"
+      },
+      {
+        "nom_latin": "Bordj-Emir-Khaled",
+        "nom_ar": "برج الأمير خالد"
+      },
+      {
+        "nom_latin": "Tarik-Ibn-Ziad",
+        "nom_ar": "طارق بن زياد"
+      },
+      {
+        "nom_latin": "Bathia",
+        "nom_ar": "بطحية"
+      },
+      {
+        "nom_latin": "Belaas",
+        "nom_ar": "بلعاص"
+      },
+      {
+        "nom_latin": "Hassania",
+        "nom_ar": "الحسانية"
+      },
+      {
+        "nom_latin": "Ain-Defla",
+        "nom_ar": "عين الدفلى"
+      }
+    ]
+  },
+  {
+    "code": 45,
+    "code_2": "45",
+    "nom_fr": "Naâma",
+    "nom_ar": "النعامة",
+    "nom_ascii": "Naama",
+    "communes": [
+      {
+        "nom_latin": "Tiout",
+        "nom_ar": "تيوت"
+      },
+      {
+        "nom_latin": "Ain Sefra",
+        "nom_ar": "عين الصفراء"
+      },
+      {
+        "nom_latin": "Moghrar",
+        "nom_ar": "مغرار"
+      },
+      {
+        "nom_latin": "Djenienne Bourezg",
+        "nom_ar": "جنين بورزق"
+      },
+      {
+        "nom_latin": "Asla",
+        "nom_ar": "عسلة"
+      },
+      {
+        "nom_latin": "Kasdir",
+        "nom_ar": "القصدير"
+      },
+      {
+        "nom_latin": "Makmen Ben Amar",
+        "nom_ar": "مكمن بن عمار"
+      },
+      {
+        "nom_latin": "Mecheria",
+        "nom_ar": "المشرية"
+      },
+      {
+        "nom_latin": "El Biodh",
+        "nom_ar": "البيوض"
+      },
+      {
+        "nom_latin": "Ain Ben Khelil",
+        "nom_ar": "عين بن خليل"
+      },
+      {
+        "nom_latin": "Naama",
+        "nom_ar": "النعامة"
+      },
+      {
+        "nom_latin": "Sfissifa",
+        "nom_ar": "سفيسيفة"
+      }
+    ]
+  },
+  {
+    "code": 46,
+    "code_2": "46",
+    "nom_fr": "Aïn Témouchent",
+    "nom_ar": "عين تموشنت",
+    "nom_ascii": "Ain Temouchent",
+    "communes": [
+      {
+        "nom_latin": "Sidi Boumediene",
+        "nom_ar": "سيدي بومدين"
+      },
+      {
+        "nom_latin": "Tamzoura",
+        "nom_ar": "تامزورة"
+      },
+      {
+        "nom_latin": "Oued Sebbah",
+        "nom_ar": "وادي الصباح"
+      },
+      {
+        "nom_latin": "Ain El Arbaa",
+        "nom_ar": "عين الأربعاء"
+      },
+      {
+        "nom_latin": "Chaabat El Ham",
+        "nom_ar": "شعبة اللحم"
+      },
+      {
+        "nom_latin": "El Maleh",
+        "nom_ar": "المالح"
+      },
+      {
+        "nom_latin": "Ouled Kihal",
+        "nom_ar": "أولاد الكيحل"
+      },
+      {
+        "nom_latin": "Terga",
+        "nom_ar": "تارقة"
+      },
+      {
+        "nom_latin": "Chentouf",
+        "nom_ar": "شنتوف"
+      },
+      {
+        "nom_latin": "Hassasna",
+        "nom_ar": "الحساسنة"
+      },
+      {
+        "nom_latin": "Oued Berkeche",
+        "nom_ar": "وادي برقش"
+      },
+      {
+        "nom_latin": "Hammam Bou Hadjar",
+        "nom_ar": "حمام بوحجر"
+      },
+      {
+        "nom_latin": "El Amria",
+        "nom_ar": "العامرية"
+      },
+      {
+        "nom_latin": "Hassi El Ghella",
+        "nom_ar": "حاسي الغلة"
+      },
+      {
+        "nom_latin": "Ouled Boudjemaa",
+        "nom_ar": "أولاد بوجمعة"
+      },
+      {
+        "nom_latin": "El Messaid",
+        "nom_ar": "المساعيد"
+      },
+      {
+        "nom_latin": "Bouzedjar",
+        "nom_ar": "بوزجار"
+      },
+      {
+        "nom_latin": "Aghlal",
+        "nom_ar": "أغلال"
+      },
+      {
+        "nom_latin": "Ain Kihal",
+        "nom_ar": "عين الكيحل"
+      },
+      {
+        "nom_latin": "Ain Tolba",
+        "nom_ar": "عين الطلبة"
+      },
+      {
+        "nom_latin": "Aoubellil",
+        "nom_ar": "عقب الليل"
+      },
+      {
+        "nom_latin": "Beni Saf",
+        "nom_ar": "بني صاف"
+      },
+      {
+        "nom_latin": "Sidi Safi",
+        "nom_ar": "سيدي صافي"
+      },
+      {
+        "nom_latin": "Emir Abdelkader",
+        "nom_ar": "الأمير عبد القادر"
+      },
+      {
+        "nom_latin": "Oulhaca El Gheraba",
+        "nom_ar": "ولهاصة الغرابة"
+      },
+      {
+        "nom_latin": "Sidi Ouriache",
+        "nom_ar": "سيدي ورياش"
+      },
+      {
+        "nom_latin": "Sidi Ben Adda",
+        "nom_ar": "سيدي بن عدة"
+      },
+      {
+        "nom_latin": "Ain Temouchent",
+        "nom_ar": "عين تموشنت"
+      }
+    ]
+  },
+  {
+    "code": 47,
+    "code_2": "47",
+    "nom_fr": "Ghardaïa",
+    "nom_ar": "غرداية",
+    "nom_ascii": "Ghardaia",
+    "communes": [
+      {
+        "nom_latin": "Dhayet Bendhahoua",
+        "nom_ar": "ضاية بن ضحوة"
+      },
+      {
+        "nom_latin": "Mansoura",
+        "nom_ar": "المنصورة"
+      },
+      {
+        "nom_latin": "El Atteuf",
+        "nom_ar": "العطف"
+      },
+      {
+        "nom_latin": "Bounoura",
+        "nom_ar": "بونورة"
+      },
+      {
+        "nom_latin": "Zelfana",
+        "nom_ar": "زلفانة"
+      },
+      {
+        "nom_latin": "El Guerrara",
+        "nom_ar": "القرارة"
+      },
+      {
+        "nom_latin": "Sebseb",
+        "nom_ar": "سبسب"
+      },
+      {
+        "nom_latin": "Metlili",
+        "nom_ar": "متليلي"
+      },
+      {
+        "nom_latin": "Berriane",
+        "nom_ar": "بريان"
+      },
+      {
+        "nom_latin": "Ghardaia",
+        "nom_ar": "غرداية"
+      }
+    ]
+  },
+  {
+    "code": 48,
+    "code_2": "48",
+    "nom_fr": "Relizane",
+    "nom_ar": "غليزان",
+    "nom_ascii": "Relizane",
+    "communes": [
+      {
+        "nom_latin": "El-Guettar",
+        "nom_ar": "القطار"
+      },
+      {
+        "nom_latin": "Mazouna",
+        "nom_ar": "مازونة"
+      },
+      {
+        "nom_latin": "Ouled Aiche",
+        "nom_ar": "أولاد يعيش"
+      },
+      {
+        "nom_latin": "Ammi Moussa",
+        "nom_ar": "عمي موسى"
+      },
+      {
+        "nom_latin": "Beni Dergoun",
+        "nom_ar": "بني درقن"
+      },
+      {
+        "nom_latin": "Dar Ben Abdelah",
+        "nom_ar": "دار بن عبد الله"
+      },
+      {
+        "nom_latin": "Zemmoura",
+        "nom_ar": "زمورة"
+      },
+      {
+        "nom_latin": "Djidiouia",
+        "nom_ar": "جديوية"
+      },
+      {
+        "nom_latin": "Hamri",
+        "nom_ar": "حمري"
+      },
+      {
+        "nom_latin": "Ouled Sidi Mihoub",
+        "nom_ar": "أولاد سيدي الميهوب"
+      },
+      {
+        "nom_latin": "Belaassel Bouzagza",
+        "nom_ar": "بلعسل بوزقزة"
+      },
+      {
+        "nom_latin": "El-Matmar",
+        "nom_ar": "المطمر"
+      },
+      {
+        "nom_latin": "Sidi Khettab",
+        "nom_ar": "سيدي  خطاب"
+      },
+      {
+        "nom_latin": "Sidi M'hamed Benaouda",
+        "nom_ar": "سيدي امحمد بن عودة"
+      },
+      {
+        "nom_latin": "Ain-Tarek",
+        "nom_ar": "عين طارق"
+      },
+      {
+        "nom_latin": "Had Echkalla",
+        "nom_ar": "حد الشكالة"
+      },
+      {
+        "nom_latin": "El Ouldja",
+        "nom_ar": "الولجة"
+      },
+      {
+        "nom_latin": "Ain Rahma",
+        "nom_ar": "عين الرحمة"
+      },
+      {
+        "nom_latin": "Kalaa",
+        "nom_ar": "القلعة"
+      },
+      {
+        "nom_latin": "Sidi Saada",
+        "nom_ar": "سيدي سعادة"
+      },
+      {
+        "nom_latin": "Yellel",
+        "nom_ar": "يلل"
+      },
+      {
+        "nom_latin": "Souk El Had",
+        "nom_ar": "سوق الحد"
+      },
+      {
+        "nom_latin": "Mendes",
+        "nom_ar": "منداس"
+      },
+      {
+        "nom_latin": "Oued Essalem",
+        "nom_ar": "وادي السلام"
+      },
+      {
+        "nom_latin": "Sidi Lazreg",
+        "nom_ar": "سيدي لزرق"
+      },
+      {
+        "nom_latin": "Ouarizane",
+        "nom_ar": "واريزان"
+      },
+      {
+        "nom_latin": "Merdja Sidi Abed",
+        "nom_ar": "مرجة سيدي عابد"
+      },
+      {
+        "nom_latin": "Oued-Rhiou",
+        "nom_ar": "وادي رهيو"
+      },
+      {
+        "nom_latin": "Lahlef",
+        "nom_ar": "لحلاف"
+      },
+      {
+        "nom_latin": "Bendaoud",
+        "nom_ar": "بن داود"
+      },
+      {
+        "nom_latin": "Relizane",
+        "nom_ar": "غليزان"
+      },
+      {
+        "nom_latin": "El Hassi",
+        "nom_ar": "الحاسي"
+      },
+      {
+        "nom_latin": "Sidi M'hamed Benali",
+        "nom_ar": "سيدي أمحمد بن علي"
+      },
+      {
+        "nom_latin": "Mediouna",
+        "nom_ar": "مديونة"
+      },
+      {
+        "nom_latin": "Beni Zentis",
+        "nom_ar": "بني زنطيس"
+      },
+      {
+        "nom_latin": "Oued El Djemaa",
+        "nom_ar": "وادي الجمعة"
+      },
+      {
+        "nom_latin": "El H'madna",
+        "nom_ar": "الحمادنة"
+      },
+      {
+        "nom_latin": "Ramka",
+        "nom_ar": "الرمكة"
+      }
+    ]
+  },
+  {
+    "code": 49,
+    "code_2": "49",
+    "nom_fr": "Timimoun",
+    "nom_ar": "تيميمون",
+    "nom_ascii": "Timimoun",
+    "communes": [
+      {
+        "nom_latin": "Tinerkouk",
+        "nom_ar": "تنركوك"
+      },
+      {
+        "nom_latin": "Ksar Kaddour",
+        "nom_ar": "قصر قدور"
+      },
+      {
+        "nom_latin": "Timimoun",
+        "nom_ar": "تيميمون"
+      },
+      {
+        "nom_latin": "Ouled Said",
+        "nom_ar": "أولاد السعيد"
+      },
+      {
+        "nom_latin": "Metarfa",
+        "nom_ar": "المطارفة"
+      },
+      {
+        "nom_latin": "Aougrout",
+        "nom_ar": "أوقروت"
+      },
+      {
+        "nom_latin": "Talmine",
+        "nom_ar": "طالمين"
+      },
+      {
+        "nom_latin": "Charouine",
+        "nom_ar": "شروين"
+      },
+      {
+        "nom_latin": "Ouled Aissa",
+        "nom_ar": "أولاد عيسى"
+      },
+      {
+        "nom_latin": "Deldoul",
+        "nom_ar": "دلدول"
+      }
+    ]
+  },
+  {
+    "code": 50,
+    "code_2": "50",
+    "nom_fr": "Bordj Badji Mokhtar",
+    "nom_ar": "برج باجي مختار",
+    "nom_ascii": "Bordj Badji Mokhtar",
+    "communes": [
+      {
+        "nom_latin": "Timiaouine",
+        "nom_ar": "تيمياوين"
+      },
+      {
+        "nom_latin": "Bordj Badji Mokhtar",
+        "nom_ar": "برج باجي مختار"
+      }
+    ]
+  },
+  {
+    "code": 51,
+    "code_2": "51",
+    "nom_fr": "Ouled Djellal",
+    "nom_ar": "أولاد جلال",
+    "nom_ascii": "Ouled Djellal",
+    "communes": [
+      {
+        "nom_latin": "Ras El Miad",
+        "nom_ar": "رأس الميعاد"
+      },
+      {
+        "nom_latin": "Besbes",
+        "nom_ar": "بسباس"
+      },
+      {
+        "nom_latin": "Sidi Khaled",
+        "nom_ar": "سيدي  خالد"
+      },
+      {
+        "nom_latin": "Doucen",
+        "nom_ar": "الدوسن"
+      },
+      {
+        "nom_latin": "Ouled Djellal",
+        "nom_ar": "أولاد جلال"
+      },
+      {
+        "nom_latin": "Chaiba",
+        "nom_ar": "الشعيبة"
+      }
+    ]
+  },
+  {
+    "code": 52,
+    "code_2": "52",
+    "nom_fr": "Béni Abbès",
+    "nom_ar": "بني عباس",
+    "nom_ascii": "Beni Abbes",
+    "communes": [
+      {
+        "nom_latin": "Beni-Abbes",
+        "nom_ar": "بني عباس"
+      },
+      {
+        "nom_latin": "Tamtert",
+        "nom_ar": "تامترت"
+      },
+      {
+        "nom_latin": "Igli",
+        "nom_ar": "إقلي"
+      },
+      {
+        "nom_latin": "El Ouata",
+        "nom_ar": "الواتة"
+      },
+      {
+        "nom_latin": "Ouled-Khodeir",
+        "nom_ar": "أولاد خضير"
+      },
+      {
+        "nom_latin": "Ksabi",
+        "nom_ar": "القصابي"
+      },
+      {
+        "nom_latin": "Kerzaz",
+        "nom_ar": "كرزاز"
+      },
+      {
+        "nom_latin": "Timoudi",
+        "nom_ar": "تيمودي"
+      },
+      {
+        "nom_latin": "Beni-Ikhlef",
+        "nom_ar": "بن يخلف"
+      }
+    ]
+  },
+  {
+    "code": 53,
+    "code_2": "53",
+    "nom_fr": "In Salah",
+    "nom_ar": "عين صالح",
+    "nom_ascii": "In Salah",
+    "communes": [
+      {
+        "nom_latin": "Inghar",
+        "nom_ar": "إينغر"
+      },
+      {
+        "nom_latin": "Ain Salah",
+        "nom_ar": "عين صالح"
+      },
+      {
+        "nom_latin": "Foggaret Ezzoua",
+        "nom_ar": "فقارة الزوى"
+      }
+    ]
+  },
+  {
+    "code": 54,
+    "code_2": "54",
+    "nom_fr": "In Guezzam",
+    "nom_ar": "عين قزام",
+    "nom_ascii": "In Guezzam",
+    "communes": [
+      {
+        "nom_latin": "Tin Zouatine",
+        "nom_ar": "تين زواتين"
+      },
+      {
+        "nom_latin": "Ain Guezzam",
+        "nom_ar": "عين قزام"
+      }
+    ]
+  },
+  {
+    "code": 55,
+    "code_2": "55",
+    "nom_fr": "Touggourt",
+    "nom_ar": "تقرت",
+    "nom_ascii": "Touggourt",
+    "communes": [
+      {
+        "nom_latin": "Temacine",
+        "nom_ar": "تماسين"
+      },
+      {
+        "nom_latin": "Blidet Amor",
+        "nom_ar": "بلدة اعمر"
+      },
+      {
+        "nom_latin": "Sidi Slimane",
+        "nom_ar": "سيدي سليمان"
+      },
+      {
+        "nom_latin": "Megarine",
+        "nom_ar": "المقارين"
+      },
+      {
+        "nom_latin": "Nezla",
+        "nom_ar": "النزلة"
+      },
+      {
+        "nom_latin": "Tebesbest",
+        "nom_ar": "تبسبست"
+      },
+      {
+        "nom_latin": "Touggourt",
+        "nom_ar": "تقرت"
+      },
+      {
+        "nom_latin": "Zaouia El Abidia",
+        "nom_ar": "الزاوية العابدية"
+      },
+      {
+        "nom_latin": "Taibet",
+        "nom_ar": "الطيبات"
+      },
+      {
+        "nom_latin": "Benaceur",
+        "nom_ar": "بن ناصر"
+      },
+      {
+        "nom_latin": "M'naguer",
+        "nom_ar": "المنقر"
+      },
+      {
+        "nom_latin": "El Alia",
+        "nom_ar": "العالية"
+      },
+      {
+        "nom_latin": "El-Hadjira",
+        "nom_ar": "الحجيرة"
+      }
+    ]
+  },
+  {
+    "code": 56,
+    "code_2": "56",
+    "nom_fr": "Djanet",
+    "nom_ar": "جانت",
+    "nom_ascii": "Djanet",
+    "communes": [
+      {
+        "nom_latin": "Djanet",
+        "nom_ar": "جانت"
+      },
+      {
+        "nom_latin": "Bordj El Haouass",
+        "nom_ar": "برج الحواس"
+      }
+    ]
+  },
+  {
+    "code": 57,
+    "code_2": "57",
+    "nom_fr": "El M'Ghair",
+    "nom_ar": "المغير",
+    "nom_ascii": "El M'Ghair",
+    "communes": [
+      {
+        "nom_latin": "Oum Touyour",
+        "nom_ar": "أم الطيور"
+      },
+      {
+        "nom_latin": "El-M'ghaier",
+        "nom_ar": "المغير"
+      },
+      {
+        "nom_latin": "Still",
+        "nom_ar": "سطيل"
+      },
+      {
+        "nom_latin": "Sidi Khelil",
+        "nom_ar": "سيدي خليل"
+      },
+      {
+        "nom_latin": "Sidi Amrane",
+        "nom_ar": "سيدي عمران"
+      },
+      {
+        "nom_latin": "M'rara",
+        "nom_ar": "المرارة"
+      },
+      {
+        "nom_latin": "Djamaa",
+        "nom_ar": "جامعة"
+      },
+      {
+        "nom_latin": "Tenedla",
+        "nom_ar": "تندلة"
+      }
+    ]
+  },
+  {
+    "code": 58,
+    "code_2": "58",
+    "nom_fr": "El Meniaa",
+    "nom_ar": "المنيعة",
+    "nom_ascii": "El Meniaa",
+    "communes": [
+      {
+        "nom_latin": "El Meniaa",
+        "nom_ar": "المنيعة"
+      },
+      {
+        "nom_latin": "Hassi Gara",
+        "nom_ar": "حاسي القارة"
+      },
+      {
+        "nom_latin": "Hassi Fehal",
+        "nom_ar": "حاسي الفحل"
+      }
+    ]
+  },
+  {
+    "code": 59,
+    "code_2": "59",
+    "nom_fr": "Aflou",
+    "nom_ar": "أفلو",
+    "nom_ascii": "Aflou",
+    "communes": [
+      {
+        "nom_latin": "Aflou",
+        "nom_ar": "أفلو"
+      },
+      {
+        "nom_latin": "Sebgag",
+        "nom_ar": "سبقاق"
+      },
+      {
+        "nom_latin": "Sidi Bouzid",
+        "nom_ar": "سيدي بوزيد"
+      },
+      {
+        "nom_latin": "Brida",
+        "nom_ar": "بريدة"
+      },
+      {
+        "nom_latin": "Hadj Mechri",
+        "nom_ar": "الحاج المشري"
+      },
+      {
+        "nom_latin": "Taouiala",
+        "nom_ar": "تاويالة"
+      },
+      {
+        "nom_latin": "Gueltat Sidi Saad",
+        "nom_ar": "قلتة سيدي سعد"
+      },
+      {
+        "nom_latin": "Ain Sidi Ali",
+        "nom_ar": "عين سيدي علي"
+      },
+      {
+        "nom_latin": "El Beidha",
+        "nom_ar": "البيضاء"
+      },
+      {
+        "nom_latin": "Oued Morra",
+        "nom_ar": "وادي مرة"
+      },
+      {
+        "nom_latin": "Oued M'Zi",
+        "nom_ar": "وادي مزي"
+      },
+      {
+        "nom_latin": "El Ghicha",
+        "nom_ar": "الغيشة"
+      }
+    ]
+  },
+  {
+    "code": 60,
+    "code_2": "60",
+    "nom_fr": "Barika",
+    "nom_ar": "بريكة",
+    "nom_ascii": "Barika",
+    "communes": [
+      {
+        "nom_latin": "Barika",
+        "nom_ar": "بريكة"
+      },
+      {
+        "nom_latin": "Bitam",
+        "nom_ar": "بيطام"
+      },
+      {
+        "nom_latin": "M’Doukal",
+        "nom_ar": "م دوكال"
+      },
+      {
+        "nom_latin": "Seggana",
+        "nom_ar": "سقانة"
+      },
+      {
+        "nom_latin": "Tilatou",
+        "nom_ar": "تيلاطو"
+      },
+      {
+        "nom_latin": "Abdelkader Azil",
+        "nom_ar": "عبد القادر عزيز"
+      },
+      {
+        "nom_latin": "Djezzar",
+        "nom_ar": "جزار"
+      },
+      {
+        "nom_latin": "Ouled Ammar",
+        "nom_ar": "أولاد عمار"
+      }
+    ]
+  },
+  {
+    "code": 61,
+    "code_2": "61",
+    "nom_fr": "El Kantara",
+    "nom_ar": "القنطرة",
+    "nom_ascii": "El Kantara",
+    "communes": [
+      {
+        "nom_latin": "El Kantara",
+        "nom_ar": "القنطرة"
+      },
+      {
+        "nom_latin": "Ain Zaatout",
+        "nom_ar": "عين زعطوط"
+      },
+      {
+        "nom_latin": "Branis",
+        "nom_ar": "برانيس"
+      },
+      {
+        "nom_latin": "El Outaya",
+        "nom_ar": "الوتیة"
+      },
+      {
+        "nom_latin": "Djemourah",
+        "nom_ar": "جمورة"
+      }
+    ]
+  },
+  {
+    "code": 62,
+    "code_2": "62",
+    "nom_fr": "Bir El Ater",
+    "nom_ar": "بئر العاتر",
+    "nom_ascii": "Bir El Ater",
+    "communes": [
+      {
+        "nom_latin": "Bir El Ater",
+        "nom_ar": "بئر العاتر"
+      },
+      {
+        "nom_latin": "Negrine",
+        "nom_ar": "نقرين"
+      },
+      {
+        "nom_latin": "El Ogla El Melha",
+        "nom_ar": "العقلة المالحة"
+      },
+      {
+        "nom_latin": "Ferkane",
+        "nom_ar": "فركان"
+      }
+    ]
+  },
+  {
+    "code": 63,
+    "code_2": "63",
+    "nom_fr": "El Aricha",
+    "nom_ar": "العريشة",
+    "nom_ascii": "El Aricha",
+    "communes": [
+      {
+        "nom_latin": "El Aricha",
+        "nom_ar": "العريشة"
+      },
+      {
+        "nom_latin": "El Gor",
+        "nom_ar": "الگور"
+      },
+      {
+        "nom_latin": "Sidi Djillali",
+        "nom_ar": "سيدي جيلالي"
+      },
+      {
+        "nom_latin": "El Bouihi",
+        "nom_ar": "البويهي"
+      }
+    ]
+  },
+  {
+    "code": 64,
+    "code_2": "64",
+    "nom_fr": "Ksar Chellala",
+    "nom_ar": "قصر الشلالة",
+    "nom_ascii": "Ksar Chellala",
+    "communes": [
+      {
+        "nom_latin": "Ksar Chellala",
+        "nom_ar": "قصر الشلالة"
+      },
+      {
+        "nom_latin": "Zmalet El Emir Abdelkader",
+        "nom_ar": "زمالة الأمير عبد القادر"
+      },
+      {
+        "nom_latin": "Hamadia",
+        "nom_ar": "حمادية"
+      },
+      {
+        "nom_latin": "Rechaiga",
+        "nom_ar": "الرشايقة"
+      },
+      {
+        "nom_latin": "Serguine",
+        "nom_ar": "سرغين"
+      },
+      {
+        "nom_latin": "Bougara",
+        "nom_ar": "بوغارة"
+      }
+    ]
+  },
+  {
+    "code": 65,
+    "code_2": "65",
+    "nom_fr": "Aïn Ouessara",
+    "nom_ar": "عين وسارة",
+    "nom_ascii": "Ain Oussara",
+    "communes": [
+      {
+        "nom_latin": "Ain Ouessara",
+        "nom_ar": "عين وسارة"
+      },
+      {
+        "nom_latin": "El Khemis",
+        "nom_ar": "الخميس"
+      },
+      {
+        "nom_latin": "Birine",
+        "nom_ar": "البيرين"
+      },
+      {
+        "nom_latin": "Bouira Lahdab",
+        "nom_ar": "بويرة الأحداب"
+      },
+      {
+        "nom_latin": "Sidi Ladjel",
+        "nom_ar": "سيدي لخضر"
+      },
+      {
+        "nom_latin": "Hassi Fedoul",
+        "nom_ar": "حاسي فدول"
+      },
+      {
+        "nom_latin": "Ain Fekka",
+        "nom_ar": "عين فكة"
+      },
+      {
+        "nom_latin": "Had Sahary",
+        "nom_ar": "حاضرة"
+      },
+      {
+        "nom_latin": "Guernini",
+        "nom_ar": "قرنيني"
+      },
+      {
+        "nom_latin": "Benhar",
+        "nom_ar": "بنهار"
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "code_2": "66",
+    "nom_fr": "Messaad",
+    "nom_ar": "مسعد",
+    "nom_ascii": "Messaad",
+    "communes": [
+      {
+        "nom_latin": "Messaad",
+        "nom_ar": "مسعد"
+      },
+      {
+        "nom_latin": "Selmana",
+        "nom_ar": "سلمانة"
+      },
+      {
+        "nom_latin": "Deldoul",
+        "nom_ar": "دلدول"
+      },
+      {
+        "nom_latin": "Faidh El Botma",
+        "nom_ar": "فيض البطمة"
+      },
+      {
+        "nom_latin": "Oum Laadham",
+        "nom_ar": "أم العظام"
+      },
+      {
+        "nom_latin": "Amourah",
+        "nom_ar": "عمورة"
+      },
+      {
+        "nom_latin": "Sed Rahal",
+        "nom_ar": "سد الرحال"
+      },
+      {
+        "nom_latin": "Guettara",
+        "nom_ar": "قطارة"
+      }
+    ]
+  },
+  {
+    "code": 67,
+    "code_2": "67",
+    "nom_fr": "Ksar El Boukhari",
+    "nom_ar": "قصر البخاري",
+    "nom_ascii": "Ksar El Boukhari",
+    "communes": [
+      {
+        "nom_latin": "Ksar El Boukhari",
+        "nom_ar": "قصر البخاري"
+      },
+      {
+        "nom_latin": "Ouled Maaref",
+        "nom_ar": "أولاد معرف"
+      },
+      {
+        "nom_latin": "Sidi Damed",
+        "nom_ar": "سيدي دامد"
+      },
+      {
+        "nom_latin": "Ain Boucif",
+        "nom_ar": "عين بوسيف"
+      },
+      {
+        "nom_latin": "Kef Lakhdar",
+        "nom_ar": "الكاف الأحمر"
+      },
+      {
+        "nom_latin": "Ain Ouksir",
+        "nom_ar": "عين اقصير"
+      },
+      {
+        "nom_latin": "Derrag",
+        "nom_ar": "الدراق"
+      },
+      {
+        "nom_latin": "Bouaiche",
+        "nom_ar": "بوطاط"
+      },
+      {
+        "nom_latin": "Chelalet El Adhaoura",
+        "nom_ar": "شلالة العذاورة"
+      },
+      {
+        "nom_latin": "Boghar",
+        "nom_ar": "بوغار"
+      },
+      {
+        "nom_latin": "Ouled Antar",
+        "nom_ar": "أولاد عنتر"
+      },
+      {
+        "nom_latin": "El Ouinet",
+        "nom_ar": "العوينات"
+      },
+      {
+        "nom_latin": "Aziz",
+        "nom_ar": "عزيز"
+      },
+      {
+        "nom_latin": "Chahbounia",
+        "nom_ar": "شهبونية"
+      },
+      {
+        "nom_latin": "Cheniguel",
+        "nom_ar": "شنيقل"
+      },
+      {
+        "nom_latin": "Oum El Djallil",
+        "nom_ar": "أم الجليل"
+      },
+      {
+        "nom_latin": "M’Fatha",
+        "nom_ar": "مفاتحة"
+      },
+      {
+        "nom_latin": "Boughezoul",
+        "nom_ar": "بوقزول"
+      },
+      {
+        "nom_latin": "Saneg",
+        "nom_ar": "السناقصة"
+      },
+      {
+        "nom_latin": "Ouled Hellal",
+        "nom_ar": "أولاد هلال"
+      },
+      {
+        "nom_latin": "Tafraout",
+        "nom_ar": "تفراوت"
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "code_2": "68",
+    "nom_fr": "Bou Saâda",
+    "nom_ar": "بوسعادة",
+    "nom_ascii": "Bou Saada",
+    "communes": [
+      {
+        "nom_latin": "Bou Saada",
+        "nom_ar": "بوسعادة"
+      },
+      {
+        "nom_latin": "Ouled Sidi Brahim",
+        "nom_ar": "أولاد سيدي ابراهيم"
+      },
+      {
+        "nom_latin": "Sidi Ameur",
+        "nom_ar": "سيدي عامر"
+      },
+      {
+        "nom_latin": "Tamsa",
+        "nom_ar": "تامسة"
+      },
+      {
+        "nom_latin": "Khoubana",
+        "nom_ar": "خوبانة"
+      },
+      {
+        "nom_latin": "M’Cif",
+        "nom_ar": "مصيف"
+      },
+      {
+        "nom_latin": "Ouled Slimane",
+        "nom_ar": "أولاد سلامة"
+      },
+      {
+        "nom_latin": "Ben Srour",
+        "nom_ar": "بن سرور"
+      },
+      {
+        "nom_latin": "El Houamed",
+        "nom_ar": "الحمادين"
+      },
+      {
+        "nom_latin": "El Hamel",
+        "nom_ar": "الهامل"
+      },
+      {
+        "nom_latin": "Zarzour",
+        "nom_ar": "الزرق"
+      },
+      {
+        "nom_latin": "Mouhamed Boudiaf",
+        "nom_ar": "محمد بودياف"
+      },
+      {
+        "nom_latin": "Benzouh",
+        "nom_ar": "بنزو"
+      },
+      {
+        "nom_latin": "Bir Foda",
+        "nom_ar": "بئر فضة"
+      },
+      {
+        "nom_latin": "Ain Fares",
+        "nom_ar": "عين فارس"
+      },
+      {
+        "nom_latin": "Sidi M’Hamed",
+        "nom_ar": "سيدي امحمد"
+      },
+      {
+        "nom_latin": "Menaa",
+        "nom_ar": "مضاء"
+      },
+      {
+        "nom_latin": "Ain El Meleh",
+        "nom_ar": "عين الملح"
+      },
+      {
+        "nom_latin": "Medjedel",
+        "nom_ar": "مدجيدل"
+      },
+      {
+        "nom_latin": "Slim",
+        "nom_ar": "سليم"
+      },
+      {
+        "nom_latin": "Ain Errich",
+        "nom_ar": "عين الرش"
+      },
+      {
+        "nom_latin": "Oultem",
+        "nom_ar": "أولتام"
+      },
+      {
+        "nom_latin": "Djebel Messaad",
+        "nom_ar": "جبل مسعد"
+      }
+    ]
+  },
+  {
+    "code": 69,
+    "code_2": "69",
+    "nom_fr": "El Abiodh Sidi Cheikh",
+    "nom_ar": "الأبيض سيدي الشيخ",
+    "nom_ascii": "El Abiodh Sidi Cheikh",
+    "communes": [
+      {
+        "nom_latin": "El Abiodh Sidi Cheikh",
+        "nom_ar": "الأبيض سيدي الشيخ"
+      },
+      {
+        "nom_latin": "Ain El Orak",
+        "nom_ar": "عين العراك"
+      },
+      {
+        "nom_latin": "Arbaouat",
+        "nom_ar": "أربوات"
+      },
+      {
+        "nom_latin": "El Bnoud",
+        "nom_ar": "البنود"
+      },
+      {
+        "nom_latin": "Boussemghoun",
+        "nom_ar": "بوسمغون"
+      },
+      {
+        "nom_latin": "Chellala",
+        "nom_ar": "الشلالة"
+      },
+      {
+        "nom_latin": "El Meharra",
+        "nom_ar": "المحرة"
+      }
+    ]
+  }
+]
